@@ -3,7 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>2026 LCK 캘린더</title>
+<title>2026 LCK 일정 · LOL 롤 경기 일정 캘린더 구독</title>
+<meta name="description" content="2026 LCK 롤 경기 일정과 결과를 구글 캘린더·아이폰 캘린더에 구독하세요. T1·젠지·한화생명·KT·디플러스 기아 등 팀별 일정과 MSI·월즈(롤드컵) 일정까지 15분마다 자동 갱신, 치지직·SOOP 중계 바로가기.">
+<link rel="canonical" href="https://jaykhan24.github.io/lol_2026cal_for_lck/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:site_name" content="LCK 일정 캘린더">
+<meta property="og:title" content="2026 LCK 일정 · LOL 롤 경기 일정 캘린더 구독">
+<meta property="og:description" content="LCK·MSI·월즈 롤 경기 일정과 스코어를 구글·아이폰 캘린더로 구독. 팀별 캘린더, 15분마다 자동 갱신.">
+<meta property="og:url" content="https://jaykhan24.github.io/lol_2026cal_for_lck/">
+<meta name="twitter:card" content="summary">
 <style>
   :root {
     --bg: #f7f7f8; --card: #ffffff; --text: #18181b; --muted: #6b7280;
@@ -64,14 +73,23 @@
   .team .fallback { font-weight: 800; font-size: 1.1rem; }
   .team .code { font-size: .78rem; font-weight: 700; letter-spacing: .02em; }
   .team-pick { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--line); }
-  .team-pick .head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 10px; }
-  .team-pick .head strong { font-size: 1rem; }
 
   ul.matches { list-style: none; margin: 0; padding: 0; }
   ul.matches li { padding: 12px 0; border-bottom: 1px solid var(--line); }
   ul.matches li:last-child { border-bottom: 0; }
   .when { color: var(--muted); font-size: .85rem; }
   .live { color: var(--live); font-weight: 700; }
+  /* 경기별 중계 바로가기 */
+  .watch { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+  .watch a {
+    display: inline-flex; align-items: center; gap: 5px; padding: 4px 10px;
+    border: 1px solid var(--line); border-radius: 999px; color: var(--text);
+    font-size: .8rem; font-weight: 600; text-decoration: none; transition: background .15s, border-color .15s;
+  }
+  .watch a:hover { background: var(--hover); border-color: var(--accent); }
+  .watch a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .watch .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+  .watch .note { color: var(--muted); font-weight: 400; }
   footer { margin-top: 40px; color: var(--muted); font-size: .8rem; }
 
   /* 휴대폰: 구독 방법은 가로형 3줄, 로고는 5열 유지(작게) */
@@ -88,7 +106,7 @@
 </head>
 <body>
 <main>
-  <h1>2026 LCK 1군 경기 캘린더</h1>
+  <h1>2026 LCK 경기 일정 캘린더</h1>
   <p class="lead">LCK 정규 리그와 LCK 팀이 나서는 국제대회(First Stand·MSI·EWC·Worlds) 경기 일정·스코어가 15분마다 자동으로 갱신됩니다. 쓰는 캘린더를 골라 구독하세요.</p>
 
   <h2>전체 캘린더</h2>
@@ -99,12 +117,12 @@
   <div class="card">
     <div class="teams" id="teams"><span class="when">불러오는 중…</span></div>
     <div class="team-pick" id="team-pick" hidden>
-      <div class="head"><strong id="team-name"></strong><span class="when" id="team-meta"></span></div>
       <div class="options" id="team-options"></div>
     </div>
   </div>
 
-  <h2>다음 경기</h2>
+  <h2>다가오는 경기 일정</h2>
+  <p class="note">경기마다 한국어 생중계 채널로 바로 갈 수 있습니다. LCK는 치지직·SOOP에서, First Stand·MSI·월즈는 YouTube(한국어 LCK·영어 LoL Esports)에서도 볼 수 있습니다.</p>
   <div class="card"><ul class="matches" id="next"><li class="when">불러오는 중…</li></ul></div>
 
   <footer>
@@ -187,11 +205,11 @@
       const grid = document.getElementById('teams');
       const pick = document.getElementById('team-pick');
       grid.replaceChildren();
+      // 팀 이름 영문 알파벳순(대소문자 무시)
+      teams.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 
       function select(t, btn, scroll) {
         grid.querySelectorAll('.team').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
-        document.getElementById('team-name').textContent = t.name;
-        document.getElementById('team-meta').textContent = (t.name === t.code ? '' : t.code + ' · ') + t.matches + '경기';
         renderOptions(document.getElementById('team-options'), t.code, t.file);
         pick.hidden = false;
         history.replaceState(null, '', '#' + t.code.toLowerCase());
@@ -204,6 +222,7 @@
         btn.className = 'team';
         btn.setAttribute('aria-pressed', 'false');
         btn.title = t.name;
+        btn.setAttribute('aria-label', t.name);
         const logo = document.createElement('span');
         logo.className = 'logo';
         const fallback = () => {
@@ -227,6 +246,32 @@
     })
     .catch(() => { document.getElementById('teams').innerHTML = '<span class="when">팀 목록을 불러오지 못했습니다.</span>'; });
 
+  // 중계 채널(2026~ LCK 국내 생중계는 치지직·SOOP 독점, 유튜브 한국어 생중계 없음)
+  // 라이엇 국제대회(FST·MSI·Worlds)는 YouTube 한국어(LCK)·영어(LoL Esports) 중계를 맨 앞에 단다
+  const RIOT_INTL = ['FST', 'MSI', 'Worlds'];
+  const STREAMS = [
+    { name: 'YouTube', note: '한국어', color: '#ff0000', url: 'https://www.youtube.com/@LCK/streams', intl: true },
+    { name: 'YouTube', note: '영어', color: '#ff0000', url: 'https://www.youtube.com/@lolesports/streams', intl: true },
+    { name: '치지직', color: '#00ffa3', url: 'https://chzzk.naver.com/live/9381e7d6816e6d915a44a13c0195b202' },
+    { name: 'SOOP', color: '#0545b1', url: 'https://play.sooplive.com/aflol' }
+  ];
+
+  function watchLinks(m) {
+    const div = document.createElement('div');
+    div.className = 'watch';
+    STREAMS.filter(s => !s.intl || RIOT_INTL.includes(m.league)).forEach(s => {
+      const a = Object.assign(document.createElement('a'), { href: s.url, target: '_blank', rel: 'noopener' });
+      a.setAttribute('aria-label', m.title + ' ' + s.name + (s.note ? '(' + s.note + ')' : '') + ' 중계 보기');
+      const dot = document.createElement('span');
+      dot.className = 'dot';
+      dot.style.background = s.color;
+      a.append(dot, s.name);
+      if (s.note) a.append(Object.assign(document.createElement('span'), { className: 'note', textContent: s.note }));
+      div.append(a);
+    });
+    return div;
+  }
+
   const fmt = new Intl.DateTimeFormat('ko-KR', {
     timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', weekday: 'short', hour: '2-digit', minute: '2-digit'
   });
@@ -249,7 +294,7 @@
         const when = document.createElement('div');
         when.className = 'when';
         when.textContent = fmt.format(new Date(m.start)) + ' · ' + m.round;
-        li.append(title, when);
+        li.append(title, when, watchLinks(m));
         ul.append(li);
       });
     })
