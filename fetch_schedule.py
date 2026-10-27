@@ -125,12 +125,14 @@ def team_codes(event):
 def fetch_events():
     ids = league_ids()
     domestic = fetch_league(DOMESTIC, ids[DOMESTIC])
-    # 코드 → 풀네임. 시간순으로 덮어써서 가장 최근 경기의 팀명을 쓴다
+    # 코드 → (풀네임, 로고). 시간순으로 덮어써서 가장 최근 경기의 팀명·로고를 쓴다
     lck_teams = {}
     for e in sorted(domestic, key=lambda e: e["startTime"]):
         for t in e["match"].get("teams") or []:
             if t.get("code") and t["code"] != "TBD":
-                lck_teams[t["code"]] = t.get("name") or t["code"]
+                # Pages는 https라 로고도 https로(혼합 콘텐츠 방지)
+                image = re.sub(r"^http:", "https:", t.get("image") or "")
+                lck_teams[t["code"]] = (t.get("name") or t["code"], image)
     if not lck_teams:
         raise FetchError(f"{YEAR}년 LCK 경기에서 팀을 찾지 못함")
 
@@ -302,14 +304,14 @@ def build_outputs(matches, lck_teams, now):
         JSON_PATH: json.dumps(matches, ensure_ascii=False, indent=2) + "\n",
     }
     teams = []
-    for code, name in sorted(lck_teams.items()):
+    for code, (name, image) in sorted(lck_teams.items()):
         slug = team_slug(code)
         ms = team_matches(code, matches)
         outputs[TEAMS_DIR / f"{slug}.ics"] = build_ics(
             ms, now, calname=f"{YEAR} {code} 경기 일정 (LCK)", uid_suffix=f"-{slug}")
         # ids: Apps Script가 lck.json에서 이 팀 캘린더로 나눠 넣을 경기 목록
-        teams.append({"code": code, "name": name, "file": f"teams/{slug}.ics", "matches": len(ms),
-                      "ids": [m["id"] for m in ms]})
+        teams.append({"code": code, "name": name, "image": image, "file": f"teams/{slug}.ics",
+                      "matches": len(ms), "ids": [m["id"] for m in ms]})
     outputs[TEAMS_JSON_PATH] = json.dumps(teams, ensure_ascii=False, indent=2) + "\n"
     return outputs
 

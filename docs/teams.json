@@ -2,6 +2,7 @@
   {
     "code": "BFX",
     "name": "BNK FEARX",
+    "image": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
     "file": "teams/bfx.ics",
     "matches": 43,
     "ids": [
@@ -53,6 +54,7 @@
   {
     "code": "BRO",
     "name": "HANJIN BRION",
+    "image": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
     "file": "teams/bro.ics",
     "matches": 35,
     "ids": [
@@ -96,6 +98,7 @@
   {
     "code": "DK",
     "name": "Dplus KIA",
+    "image": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
     "file": "teams/dk.ics",
     "matches": 62,
     "ids": [
@@ -166,6 +169,7 @@
   {
     "code": "DNS",
     "name": "DN SOOPers",
+    "image": "https://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
     "file": "teams/dns.ics",
     "matches": 36,
     "ids": [
@@ -210,6 +214,7 @@
   {
     "code": "GEN",
     "name": "Gen.G Esports",
+    "image": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
     "file": "teams/gen.ics",
     "matches": 60,
     "ids": [
@@ -278,6 +283,7 @@
   {
     "code": "HLE",
     "name": "Hanwha Life Esports",
+    "image": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
     "file": "teams/hle.ics",
     "matches": 58,
     "ids": [
@@ -344,6 +350,7 @@
   {
     "code": "KRX",
     "name": "KIWOOM DRX",
+    "image": "https://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
     "file": "teams/krx.ics",
     "matches": 36,
     "ids": [
@@ -388,6 +395,7 @@
   {
     "code": "KT",
     "name": "kt Rolster",
+    "image": "https://static.lolesports.com/teams/kt_darkbackground.png",
     "file": "teams/kt.ics",
     "matches": 38,
     "ids": [
@@ -434,6 +442,7 @@
   {
     "code": "NS",
     "name": "NONGSHIM RED FORCE",
+    "image": "https://static.lolesports.com/teams/NSFullonDark.png",
     "file": "teams/ns.ics",
     "matches": 34,
     "ids": [
@@ -476,6 +485,7 @@
   {
     "code": "T1",
     "name": "T1",
+    "image": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
     "file": "teams/t1.ics",
     "matches": 65,
     "ids": [
