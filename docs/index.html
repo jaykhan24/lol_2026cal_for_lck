@@ -100,7 +100,19 @@
 <script>
   // Apps Script logLinks() 출력을 붙여 넣는다: { "ALL": "https://calendar.google.com/...?cid=...", "T1": "...", ... }
   // 비어 있는 키는 ICS 주소를 Google "URL로 추가"하는 링크로 대신한다(갱신이 느림)
-  const GOOGLE_LINKS = {};
+  const GOOGLE_LINKS = {
+    "ALL": "https://calendar.google.com/calendar/u/0?cid=ZTIzYmM3NTMyOGI0NTI1ZDBhYjhmYjc4MGE5MjVjNDdiNTlkOWQ2ZGM2ZmNkYTQxYjJlOWYxZWUxZmY4YTAyYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "BFX": "https://calendar.google.com/calendar/u/0?cid=NWFiZjQyNTY2MmJlNDNhMjIyOWM1N2NlMmRkYWJmMWNlNTAyZGE0MDI4ZDIxOWU5Yzg5OWY1YWIzMTNlYjA4M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "BRO": "https://calendar.google.com/calendar/u/0?cid=NjQ3ZWZkMmYxYjZiMTg0YWRlZWFlZmYyOGM5ZTQwZDU2ZTg4OGExMmE5MDNiYmFjZjkwNzJjODRlNjkzMmViMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "DK": "https://calendar.google.com/calendar/u/0?cid=NWNjNjFkOWE5NTJkMmM0Y2Y3N2YzZDU5OGZiM2I5ZmYzMTZmZGU5MDk5MmZjZmM2NDZkMGE3NGIzYjFkZWQ4NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "DNS": "https://calendar.google.com/calendar/u/0?cid=NmM3OTkyNTc5MzE2N2Q4YjM2M2Q0ZjE4OTg5NTI3ZDUwOWE1YTcwNjk1M2E0YmM0NjQ2YjJlODc1NjU3NDZjMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "GEN": "https://calendar.google.com/calendar/u/0?cid=NWM5ZmRlYTNhNTU1M2FlMTlhNDczYWE4ZDAxOGE5YWQyN2RkYjYyM2EyMTQzNWYyMzU4MmExOTUxMTQ2MjgwMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "HLE": "https://calendar.google.com/calendar/u/0?cid=YmI2ZDUzODEwMmY1ODBkMDkxN2YzZDcyNTVhMWRkMWMwYWM3Y2M1Y2JlYjljODNhYWNlNmUyMWQ5ZTY5NTZjZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "KRX": "https://calendar.google.com/calendar/u/0?cid=NThlMzZhN2FlZTZjM2Q0MWE2YzQ3NGM5OTc3YjdmMTNhMzUzNDY4NWUwZmE5MDFmMmJkNDljZDgzYmE0NzhlZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "KT": "https://calendar.google.com/calendar/u/0?cid=MThkZjZlZDIxNzdhNDVmMGJjNmI4M2VjMGE0MThkM2VkNWZjOTE3NmU3N2U5ZDJlYjA2OWQ1NTZkNTBlYmEwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "NS": "https://calendar.google.com/calendar/u/0?cid=Y2E4YTU4MDNmNGYwOTRhNGZiZTAxMGMyNDk3YTEwYmU2YmU2ODM5NTllZjhhOGFmZjk1NjA2NjUxMGJlMGIwZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "T1": "https://calendar.google.com/calendar/u/0?cid=YmQwNDU1MTZlYmYxOTI3ZjVhM2U4YmNkMGFiNWYxZDBiMDQwZjhlNzk2ZGFmNTg5NDg0YmRmNDdjNzRjNTI3MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+  };
 
   const base = new URL('.', location.href);
   const httpsUrl = path => new URL(path, base).href;
