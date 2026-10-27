@@ -6,6 +6,7 @@
 // 설정 순서
 // 1) 왼쪽 "서비스 +" → Google Calendar API 추가(식별자 Calendar) — 캘린더 공개 설정에 필요
 // 2) setup 1회 실행(권한 승인) → 캘린더 생성·공개 설정·15분 트리거 설치, 로그에 구독 링크 출력
+// 2-1) 로그에 "공개 설정 실패"가 있으면 서비스 추가 확인 후 makePublic 1회 실행
 // 3) 첫 동기화는 일정이 많아 실행당 MAX_WRITES건씩 나눠 들어간다. 로그에 "이어서"가 안 나올 때까지 syncAll 수동 실행 또는 트리거에 맡김
 const BASE_URL = 'https://jaykhan24.github.io/lol_2026cal_for_lck/';
 const YEAR = 2026;
@@ -63,6 +64,23 @@ function installTrigger() {
     .filter(t => ['syncAll', 'syncLck'].includes(t.getHandlerFunction()))
     .forEach(t => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('syncAll').timeBased().everyMinutes(15).create();
+}
+
+// 만든 캘린더 전부에 공개(모든 사람 읽기) 설정을 다시 건다. 여러 번 실행해도 안전.
+// 서비스에 Google Calendar API(식별자 Calendar)가 추가되어 있어야 한다.
+function makePublic() {
+  if (typeof Calendar === 'undefined') {
+    throw new Error('왼쪽 "서비스 +"에서 Google Calendar API를 추가한 뒤 다시 실행하세요');
+  }
+  props.getKeys().filter(k => k.startsWith('cal:')).sort().forEach(k => {
+    const id = props.getProperty(k);
+    try {
+      Calendar.Acl.insert({ role: 'reader', scope: { type: 'default' } }, id);
+      Logger.log('%s 공개 설정 완료', k.slice(4));
+    } catch (e) {
+      Logger.log('%s 공개 설정 실패: %s', k.slice(4), e.message);
+    }
+  });
 }
 
 // 안내 페이지(docs/index.html의 GOOGLE_LINKS)에 넣을 구독 링크를 로그로 출력
