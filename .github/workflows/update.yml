@@ -1,0 +1,32 @@
+name: update-lck-calendar
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - id: gen
+        run: |
+          out=$(python fetch_schedule.py)
+          echo "$out"
+          echo "changed=$([[ "$out" == *NO_CHANGE* ]] && echo false || echo true)" >> "$GITHUB_OUTPUT"
+      # 커밋 메시지에 [skip ci]를 넣지 않는다: Pages 배포(pages-build-deployment)까지 건너뛸 수 있음.
+      # GITHUB_TOKEN 푸시는 이 워크플로를 다시 트리거하지 않으므로 루프 걱정은 없다.
+      - if: steps.gen.outputs.changed == 'true'
+        run: |
+          git config user.name  "lck-cal-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/
+          git commit -m "update: $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push

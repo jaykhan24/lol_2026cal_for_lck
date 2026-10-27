@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026 LCK 캘린더</title>
+<style>
+  :root {
+    --bg: #f7f7f8; --card: #ffffff; --text: #18181b; --muted: #6b7280;
+    --line: #e4e4e7; --accent: #c89b3c; --live: #dc2626;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115; --card: #181b22; --text: #ececf1; --muted: #9ca3af;
+      --line: #2a2f3a; --accent: #d9b25c; --live: #f87171;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Malgun Gothic", sans-serif;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  h2 { font-size: 1.05rem; margin: 32px 0 12px; }
+  p.lead { color: var(--muted); margin: 0 0 24px; }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 16px; margin-bottom: 12px;
+  }
+  .card h3 { margin: 0 0 4px; font-size: 1rem; }
+  .card p { margin: 0 0 12px; color: var(--muted); font-size: .9rem; }
+  .row { display: flex; gap: 8px; }
+  .row input {
+    flex: 1; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px;
+    background: var(--bg); color: var(--text); font: .85rem ui-monospace, Menlo, monospace;
+  }
+  button, a.btn {
+    padding: 8px 14px; border: 0; border-radius: 8px; background: var(--accent); color: #111;
+    font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer; text-decoration: none; white-space: nowrap;
+  }
+  a.btn.disabled { opacity: .45; pointer-events: none; }
+  ul.matches { list-style: none; margin: 0; padding: 0; }
+  ul.matches li { padding: 12px 0; border-bottom: 1px solid var(--line); }
+  ul.matches li:last-child { border-bottom: 0; }
+  .when { color: var(--muted); font-size: .85rem; }
+  .live { color: var(--live); font-weight: 700; }
+  footer { margin-top: 40px; color: var(--muted); font-size: .8rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>2026 LCK 1군 경기 캘린더</h1>
+  <p class="lead">LCK 정규 리그와 LCK 팀이 나서는 국제대회(First Stand·MSI·EWC·Worlds) 경기 일정·스코어가 15분마다 자동으로 갱신됩니다. 쓰는 캘린더에 맞는 링크로 구독하세요.</p>
+
+  <div class="card">
+    <h3>애플 캘린더 · Outlook</h3>
+    <p>버튼을 누르거나 주소를 복사해 "구독 캘린더 추가"에 붙여 넣으세요.</p>
+    <div class="row">
+      <input id="ics-url" readonly>
+      <button data-copy="ics-url">복사</button>
+      <a class="btn" id="ics-open">구독</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Google 캘린더</h3>
+    <p>링크를 열고 "추가"를 누르면 내 Google 캘린더에 표시됩니다.</p>
+    <div class="row">
+      <input id="gcal-url" readonly>
+      <button data-copy="gcal-url">복사</button>
+      <a class="btn" id="gcal-open" target="_blank" rel="noopener">열기</a>
+    </div>
+  </div>
+
+  <h2>다음 경기</h2>
+  <div class="card"><ul class="matches" id="next"><li class="when">불러오는 중…</li></ul></div>
+
+  <footer>
+    아이폰은 설정 › 캘린더 › 계정 › 구독 캘린더에서 "새로고침"을 15분마다로 바꾸면 스코어가 빨리 반영됩니다.<br>
+    데이터: lolesports.com 공개 일정 · 시간은 한국 시간(KST)
+  </footer>
+</main>
+<script>
+  // 4·5단계 후 사람이 채운다: Google 캘린더 › 설정 › 캘린더 통합의 공개 URL
+  const GOOGLE_CAL_URL = 'https://calendar.google.com/calendar/u/0?cid=<CALENDAR_ID_BASE64>';
+
+  const base = new URL('.', location.href);
+  const icsUrl = 'webcal://' + base.host + base.pathname + 'lck.ics';
+  document.getElementById('ics-url').value = icsUrl;
+  document.getElementById('ics-open').href = icsUrl;
+
+  const gcalReady = !GOOGLE_CAL_URL.includes('<');
+  document.getElementById('gcal-url').value = gcalReady ? GOOGLE_CAL_URL : '준비 중';
+  const gcalOpen = document.getElementById('gcal-open');
+  if (gcalReady) gcalOpen.href = GOOGLE_CAL_URL; else gcalOpen.classList.add('disabled');
+
+  document.querySelectorAll('button[data-copy]').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const input = document.getElementById(btn.dataset.copy);
+      try { await navigator.clipboard.writeText(input.value); }
+      catch { input.select(); document.execCommand('copy'); }
+      btn.textContent = '복사됨';
+      setTimeout(() => { btn.textContent = '복사'; }, 1500);
+    });
+  });
+
+  const fmt = new Intl.DateTimeFormat('ko-KR', {
+    timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', weekday: 'short', hour: '2-digit', minute: '2-digit'
+  });
+  fetch('lck.json', { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(matches => {
+      const now = Date.now();
+      const next = matches
+        .filter(m => m.state !== 'completed' && new Date(m.end).getTime() > now)
+        .sort((a, b) => new Date(a.start) - new Date(b.start))
+        .slice(0, 3);
+      const ul = document.getElementById('next');
+      ul.innerHTML = '';
+      if (!next.length) { ul.innerHTML = '<li class="when">예정된 경기가 없습니다.</li>'; return; }
+      next.forEach(m => {
+        const li = document.createElement('li');
+        const title = document.createElement('div');
+        title.textContent = m.title;
+        if (m.state === 'inProgress') title.className = 'live';
+        const when = document.createElement('div');
+        when.className = 'when';
+        when.textContent = fmt.format(new Date(m.start)) + ' · ' + m.round;
+        li.append(title, when);
+        ul.append(li);
+      });
+    })
+    .catch(() => { document.getElementById('next').innerHTML = '<li class="when">일정을 불러오지 못했습니다.</li>'; });
+</script>
+</body>
+</html>

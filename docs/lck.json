@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "115848316381096423",
+    "start": "2026-01-14T17:00:00+09:00",
+    "end": "2026-01-14T19:30:00+09:00",
+    "title": "[LCK] KT vs DNS (2 : 1)",
+    "description": "승: KT\nLCK · 1주 차\nkt Rolster vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316596054531",
+    "start": "2026-01-14T19:00:00+09:00",
+    "end": "2026-01-14T21:30:00+09:00",
+    "title": "[LCK] BRO vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 1주 차\nHANJIN BRION vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315835312526",
+    "start": "2026-01-15T17:00:00+09:00",
+    "end": "2026-01-15T19:30:00+09:00",
+    "title": "[LCK] GEN vs KRX (2 : 0)",
+    "description": "승: GEN\nLCK · 1주 차\nGen.G Esports vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316120066501",
+    "start": "2026-01-15T19:00:00+09:00",
+    "end": "2026-01-15T21:30:00+09:00",
+    "title": "[LCK] BFX vs NS (2 : 0)",
+    "description": "승: BFX\nLCK · 1주 차\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316355275232",
+    "start": "2026-01-16T17:00:00+09:00",
+    "end": "2026-01-16T19:30:00+09:00",
+    "title": "[LCK] DNS vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 1주 차\nDN SOOPers vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315857267093",
+    "start": "2026-01-16T19:00:00+09:00",
+    "end": "2026-01-16T21:30:00+09:00",
+    "title": "[LCK] HLE vs T1 (1 : 2)",
+    "description": "승: T1\nLCK · 1주 차\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316736891410",
+    "start": "2026-01-17T17:00:00+09:00",
+    "end": "2026-01-17T19:30:00+09:00",
+    "title": "[LCK] BRO vs BFX (1 : 2)",
+    "description": "승: BFX\nLCK · 1주 차\nHANJIN BRION vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315792779652",
+    "start": "2026-01-17T19:00:00+09:00",
+    "end": "2026-01-17T21:30:00+09:00",
+    "title": "[LCK] GEN vs KT (2 : 0)",
+    "description": "승: GEN\nLCK · 1주 차\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316005247408",
+    "start": "2026-01-18T17:00:00+09:00",
+    "end": "2026-01-18T19:30:00+09:00",
+    "title": "[LCK] NS vs HLE (2 : 0)",
+    "description": "승: NS\nLCK · 1주 차\nNONGSHIM RED FORCE vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315958585771",
+    "start": "2026-01-18T19:00:00+09:00",
+    "end": "2026-01-18T21:30:00+09:00",
+    "title": "[LCK] KRX vs T1 (1 : 2)",
+    "description": "승: T1\nLCK · 1주 차\nKIWOOM DRX vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316064229817",
+    "start": "2026-01-21T17:00:00+09:00",
+    "end": "2026-01-21T19:30:00+09:00",
+    "title": "[LCK] NS vs DK (1 : 2)",
+    "description": "승: DK\nLCK · 2주 차\nNONGSHIM RED FORCE vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316475468277",
+    "start": "2026-01-21T19:00:00+09:00",
+    "end": "2026-01-21T21:30:00+09:00",
+    "title": "[LCK] KRX vs DNS (1 : 2)",
+    "description": "승: DNS\nLCK · 2주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316505221627",
+    "start": "2026-01-22T17:00:00+09:00",
+    "end": "2026-01-22T19:30:00+09:00",
+    "title": "[LCK] BRO vs HLE (1 : 2)",
+    "description": "승: HLE\nLCK · 2주 차\nHANJIN BRION vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315813882249",
+    "start": "2026-01-22T19:00:00+09:00",
+    "end": "2026-01-22T21:30:00+09:00",
+    "title": "[LCK] BFX vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 2주 차\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315902486943",
+    "start": "2026-01-23T17:00:00+09:00",
+    "end": "2026-01-23T19:30:00+09:00",
+    "title": "[LCK] KT vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 2주 차\nkt Rolster vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316188289487",
+    "start": "2026-01-23T19:00:00+09:00",
+    "end": "2026-01-23T21:30:00+09:00",
+    "title": "[LCK] NS vs KRX (1 : 2)",
+    "description": "승: KRX\nLCK · 2주 차\nNONGSHIM RED FORCE vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316302387673",
+    "start": "2026-01-24T17:00:00+09:00",
+    "end": "2026-01-24T19:30:00+09:00",
+    "title": "[LCK] HLE vs DNS (2 : 1)",
+    "description": "승: HLE\nLCK · 2주 차\nHanwha Life Esports vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315768924542",
+    "start": "2026-01-24T19:00:00+09:00",
+    "end": "2026-01-24T21:30:00+09:00",
+    "title": "[LCK] GEN vs DK (2 : 0)",
+    "description": "승: GEN\nLCK · 2주 차\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848315926276517",
+    "start": "2026-01-25T17:00:00+09:00",
+    "end": "2026-01-25T19:30:00+09:00",
+    "title": "[LCK] T1 vs BFX (2 : 1)",
+    "description": "승: T1\nLCK · 2주 차\nT1 vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115848316696848907",
+    "start": "2026-01-25T19:00:00+09:00",
+    "end": "2026-01-25T21:30:00+09:00",
+    "title": "[LCK] KT vs BRO (2 : 1)",
+    "description": "승: KT\nLCK · 2주 차\nkt Rolster vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115855145893081236",
+    "start": "2026-01-28T17:00:00+09:00",
+    "end": "2026-01-28T21:00:00+09:00",
+    "title": "[LCK] BRO vs KRX (2 : 3)",
+    "description": "승: KRX\nLCK · 3주 차\nHANJIN BRION vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115855145878728844",
+    "start": "2026-01-29T17:00:00+09:00",
+    "end": "2026-01-29T21:00:00+09:00",
+    "title": "[LCK] DNS vs BFX (1 : 3)",
+    "description": "승: BFX\nLCK · 3주 차\nDN SOOPers vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115855145864310916",
+    "start": "2026-01-30T17:00:00+09:00",
+    "end": "2026-01-30T21:00:00+09:00",
+    "title": "[LCK] NS vs KT (3 : 2)",
+    "description": "승: NS\nLCK · 3주 차\nNONGSHIM RED FORCE vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115855145849761916",
+    "start": "2026-01-31T17:00:00+09:00",
+    "end": "2026-01-31T21:00:00+09:00",
+    "title": "[LCK] T1 vs DK (3 : 0)",
+    "description": "승: T1\nLCK · 3주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115855145826562164",
+    "start": "2026-02-01T17:00:00+09:00",
+    "end": "2026-02-01T21:00:00+09:00",
+    "title": "[LCK] HLE vs GEN (0 : 3)",
+    "description": "승: GEN\nLCK · 3주 차\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650618779",
+    "start": "2026-02-06T17:00:00+09:00",
+    "end": "2026-02-06T19:30:00+09:00",
+    "title": "[LCK] KRX vs BRO (2 : 1)",
+    "description": "승: KRX\nLCK · 플레이-인\nKIWOOM DRX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650880927",
+    "start": "2026-02-06T19:00:00+09:00",
+    "end": "2026-02-06T21:30:00+09:00",
+    "title": "[LCK] KT vs DNS (0 : 2)",
+    "description": "승: DNS\nLCK · 플레이-인\nkt Rolster vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650880931",
+    "start": "2026-02-07T17:00:00+09:00",
+    "end": "2026-02-07T19:30:00+09:00",
+    "title": "[LCK] KRX vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 플레이-인\nKIWOOM DRX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946471",
+    "start": "2026-02-07T19:00:00+09:00",
+    "end": "2026-02-07T21:30:00+09:00",
+    "title": "[LCK] NS vs DNS (1 : 2)",
+    "description": "승: DNS\nLCK · 플레이-인\nNONGSHIM RED FORCE vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946475",
+    "start": "2026-02-08T17:00:00+09:00",
+    "end": "2026-02-08T21:00:00+09:00",
+    "title": "[LCK] KRX vs NS (3 : 0)",
+    "description": "승: KRX\nLCK · 플레이-인\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946481",
+    "start": "2026-02-12T17:00:00+09:00",
+    "end": "2026-02-12T21:00:00+09:00",
+    "title": "[LCK] BFX vs DNS (3 : 2)",
+    "description": "승: BFX\nLCK · 플레이오프\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946487",
+    "start": "2026-02-13T17:00:00+09:00",
+    "end": "2026-02-13T21:00:00+09:00",
+    "title": "[LCK] KRX vs DK (2 : 3)",
+    "description": "승: DK\nLCK · 플레이오프\nKIWOOM DRX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946499",
+    "start": "2026-02-14T17:00:00+09:00",
+    "end": "2026-02-14T21:00:00+09:00",
+    "title": "[LCK] GEN vs DK (3 : 1)",
+    "description": "승: GEN\nLCK · 플레이오프\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946493",
+    "start": "2026-02-15T17:00:00+09:00",
+    "end": "2026-02-15T21:00:00+09:00",
+    "title": "[LCK] T1 vs BFX (1 : 3)",
+    "description": "승: BFX\nLCK · 플레이오프\nT1 vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946505",
+    "start": "2026-02-19T17:00:00+09:00",
+    "end": "2026-02-19T21:00:00+09:00",
+    "title": "[LCK] DNS vs KRX (3 : 1)",
+    "description": "승: DNS\nLCK · 플레이오프\nDN SOOPers vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946517",
+    "start": "2026-02-20T17:00:00+09:00",
+    "end": "2026-02-20T21:00:00+09:00",
+    "title": "[LCK] DK vs DNS (3 : 1)",
+    "description": "승: DK\nLCK · 플레이오프\nDplus KIA vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946511",
+    "start": "2026-02-21T17:00:00+09:00",
+    "end": "2026-02-21T21:00:00+09:00",
+    "title": "[LCK] BFX vs GEN (1 : 3)",
+    "description": "승: GEN\nLCK · 플레이오프\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946523",
+    "start": "2026-02-22T17:00:00+09:00",
+    "end": "2026-02-22T21:00:00+09:00",
+    "title": "[LCK] T1 vs DK (2 : 3)",
+    "description": "승: DK\nLCK · 플레이오프\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946529",
+    "start": "2026-02-28T17:00:00+09:00",
+    "end": "2026-02-28T21:00:00+09:00",
+    "title": "[LCK] BFX vs DK (3 : 0)",
+    "description": "승: BFX\nLCK · 플레이오프\nBNK FEARX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115604876650946535",
+    "start": "2026-03-01T17:00:00+09:00",
+    "end": "2026-03-01T21:00:00+09:00",
+    "title": "[LCK] BFX vs GEN (0 : 3)",
+    "description": "승: GEN\nLCK · 결승\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 결승",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115570888977308363",
+    "start": "2026-03-16T22:00:00+09:00",
+    "end": "2026-03-17T02:00:00+09:00",
+    "title": "[FST] BFX vs BLG (2 : 3)",
+    "description": "승: BLG\nFirst Stand · 그룹\nBNK FEARX vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed"
+  },
+  {
+    "id": "115570888977308393",
+    "start": "2026-03-17T22:00:00+09:00",
+    "end": "2026-03-18T02:00:00+09:00",
+    "title": "[FST] JDG vs GEN (0 : 3)",
+    "description": "승: GEN\nFirst Stand · 그룹\nBeijing JDG Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed"
+  },
+  {
+    "id": "115846976541810692",
+    "start": "2026-03-19T03:00:00+09:00",
+    "end": "2026-03-19T07:00:00+09:00",
+    "title": "[FST] TSW vs BFX (0 : 3)",
+    "description": "승: BFX\nFirst Stand · 그룹\nTeam Secret Whales vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed"
+  },
+  {
+    "id": "115570888977308405",
+    "start": "2026-03-19T22:00:00+09:00",
+    "end": "2026-03-20T02:00:00+09:00",
+    "title": "[FST] LYON vs GEN (0 : 3)",
+    "description": "승: GEN\nFirst Stand · 그룹\nLYON vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed"
+  },
+  {
+    "id": "115570888977308387",
+    "start": "2026-03-20T22:00:00+09:00",
+    "end": "2026-03-21T02:00:00+09:00",
+    "title": "[FST] BFX vs G2 (0 : 3)",
+    "description": "승: G2\nFirst Stand · 그룹\nBNK FEARX vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed"
+  },
+  {
+    "id": "115570888977308429",
+    "start": "2026-03-21T22:00:00+09:00",
+    "end": "2026-03-22T02:00:00+09:00",
+    "title": "[FST] G2 vs GEN (3 : 0)",
+    "description": "승: G2\nFirst Stand · 4강\nG2 Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 4강",
+    "league": "FST",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840607",
+    "start": "2026-04-01T17:00:00+09:00",
+    "end": "2026-04-01T19:30:00+09:00",
+    "title": "[LCK] BRO vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 1주 차\nHANJIN BRION vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840651",
+    "start": "2026-04-01T19:00:00+09:00",
+    "end": "2026-04-01T21:30:00+09:00",
+    "title": "[LCK] KT vs T1 (2 : 0)",
+    "description": "승: KT\nLCK · 1주 차\nkt Rolster vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906291",
+    "start": "2026-04-02T17:00:00+09:00",
+    "end": "2026-04-02T19:30:00+09:00",
+    "title": "[LCK] NS vs DK (2 : 0)",
+    "description": "승: NS\nLCK · 1주 차\nNONGSHIM RED FORCE vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906247",
+    "start": "2026-04-02T19:00:00+09:00",
+    "end": "2026-04-02T21:30:00+09:00",
+    "title": "[LCK] KRX vs DNS (0 : 2)",
+    "description": "승: DNS\nLCK · 1주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906275",
+    "start": "2026-04-03T17:00:00+09:00",
+    "end": "2026-04-03T19:30:00+09:00",
+    "title": "[LCK] KT vs GEN (2 : 1)",
+    "description": "승: KT\nLCK · 1주 차\nkt Rolster vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840667",
+    "start": "2026-04-03T19:00:00+09:00",
+    "end": "2026-04-03T21:30:00+09:00",
+    "title": "[LCK] BRO vs BFX (2 : 0)",
+    "description": "승: BRO\nLCK · 1주 차\nHANJIN BRION vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962578451",
+    "start": "2026-04-04T17:00:00+09:00",
+    "end": "2026-04-04T19:30:00+09:00",
+    "title": "[LCK] HLE vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 1주 차\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906295",
+    "start": "2026-04-04T19:00:00+09:00",
+    "end": "2026-04-04T21:30:00+09:00",
+    "title": "[LCK] DK vs KRX (2 : 0)",
+    "description": "승: DK\nLCK · 1주 차\nDplus KIA vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906243",
+    "start": "2026-04-05T17:00:00+09:00",
+    "end": "2026-04-05T19:30:00+09:00",
+    "title": "[LCK] NS vs DNS (2 : 0)",
+    "description": "승: NS\nLCK · 1주 차\nNONGSHIM RED FORCE vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840671",
+    "start": "2026-04-05T19:00:00+09:00",
+    "end": "2026-04-05T21:30:00+09:00",
+    "title": "[LCK] GEN vs BFX (2 : 0)",
+    "description": "승: GEN\nLCK · 1주 차\nGen.G Esports vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 1주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840615",
+    "start": "2026-04-08T17:00:00+09:00",
+    "end": "2026-04-08T19:30:00+09:00",
+    "title": "[LCK] HLE vs DK (2 : 0)",
+    "description": "승: HLE\nLCK · 2주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840643",
+    "start": "2026-04-08T19:00:00+09:00",
+    "end": "2026-04-08T21:30:00+09:00",
+    "title": "[LCK] GEN vs T1 (2 : 0)",
+    "description": "승: GEN\nLCK · 2주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906267",
+    "start": "2026-04-09T17:00:00+09:00",
+    "end": "2026-04-09T19:30:00+09:00",
+    "title": "[LCK] KRX vs BRO (2 : 1)",
+    "description": "승: KRX\nLCK · 2주 차\nKIWOOM DRX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906299",
+    "start": "2026-04-09T19:00:00+09:00",
+    "end": "2026-04-09T21:30:00+09:00",
+    "title": "[LCK] NS vs KT (0 : 2)",
+    "description": "승: KT\nLCK · 2주 차\nNONGSHIM RED FORCE vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840635",
+    "start": "2026-04-10T17:00:00+09:00",
+    "end": "2026-04-10T19:30:00+09:00",
+    "title": "[LCK] DNS vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 2주 차\nDN SOOPers vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840599",
+    "start": "2026-04-10T19:00:00+09:00",
+    "end": "2026-04-10T21:30:00+09:00",
+    "title": "[LCK] BFX vs HLE (1 : 2)",
+    "description": "승: HLE\nLCK · 2주 차\nBNK FEARX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906307",
+    "start": "2026-04-11T17:00:00+09:00",
+    "end": "2026-04-11T19:30:00+09:00",
+    "title": "[LCK] KRX vs NS (2 : 0)",
+    "description": "승: KRX\nLCK · 2주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906271",
+    "start": "2026-04-11T19:00:00+09:00",
+    "end": "2026-04-11T21:30:00+09:00",
+    "title": "[LCK] DK vs GEN (2 : 0)",
+    "description": "승: DK\nLCK · 2주 차\nDplus KIA vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840663",
+    "start": "2026-04-12T17:00:00+09:00",
+    "end": "2026-04-12T19:30:00+09:00",
+    "title": "[LCK] BFX vs DNS (2 : 0)",
+    "description": "승: BFX\nLCK · 2주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906259",
+    "start": "2026-04-12T19:00:00+09:00",
+    "end": "2026-04-12T21:30:00+09:00",
+    "title": "[LCK] KT vs BRO (2 : 0)",
+    "description": "승: KT\nLCK · 2주 차\nkt Rolster vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 2주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906219",
+    "start": "2026-04-15T17:00:00+09:00",
+    "end": "2026-04-15T19:30:00+09:00",
+    "title": "[LCK] BFX vs NS (0 : 2)",
+    "description": "승: NS\nLCK · 3주 차\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906287",
+    "start": "2026-04-15T19:00:00+09:00",
+    "end": "2026-04-15T21:30:00+09:00",
+    "title": "[LCK] DK vs KT (1 : 2)",
+    "description": "승: KT\nLCK · 3주 차\nDplus KIA vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906251",
+    "start": "2026-04-16T17:00:00+09:00",
+    "end": "2026-04-16T19:30:00+09:00",
+    "title": "[LCK] BRO vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 3주 차\nHANJIN BRION vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840603",
+    "start": "2026-04-16T19:00:00+09:00",
+    "end": "2026-04-16T21:30:00+09:00",
+    "title": "[LCK] DNS vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 3주 차\nDN SOOPers vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906223",
+    "start": "2026-04-17T17:00:00+09:00",
+    "end": "2026-04-17T19:30:00+09:00",
+    "title": "[LCK] BFX vs KRX (2 : 0)",
+    "description": "승: BFX\nLCK · 3주 차\nBNK FEARX vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840647",
+    "start": "2026-04-17T19:00:00+09:00",
+    "end": "2026-04-17T21:30:00+09:00",
+    "title": "[LCK] T1 vs DK (1 : 2)",
+    "description": "승: DK\nLCK · 3주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840611",
+    "start": "2026-04-18T17:00:00+09:00",
+    "end": "2026-04-18T19:30:00+09:00",
+    "title": "[LCK] GEN vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 3주 차\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906239",
+    "start": "2026-04-18T19:00:00+09:00",
+    "end": "2026-04-18T21:30:00+09:00",
+    "title": "[LCK] DNS vs KT (0 : 2)",
+    "description": "승: KT\nLCK · 3주 차\nDN SOOPers vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906263",
+    "start": "2026-04-19T17:00:00+09:00",
+    "end": "2026-04-19T19:30:00+09:00",
+    "title": "[LCK] BRO vs NS (1 : 2)",
+    "description": "승: NS\nLCK · 3주 차\nHANJIN BRION vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840659",
+    "start": "2026-04-19T19:00:00+09:00",
+    "end": "2026-04-19T21:30:00+09:00",
+    "title": "[LCK] T1 vs KRX (2 : 0)",
+    "description": "승: T1\nLCK · 3주 차\nT1 vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 3주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906303",
+    "start": "2026-04-22T17:00:00+09:00",
+    "end": "2026-04-22T19:30:00+09:00",
+    "title": "[LCK] KRX vs KT (0 : 2)",
+    "description": "승: KT\nLCK · 4주 차\nKIWOOM DRX vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840623",
+    "start": "2026-04-22T19:00:00+09:00",
+    "end": "2026-04-22T21:30:00+09:00",
+    "title": "[LCK] HLE vs NS (2 : 1)",
+    "description": "승: HLE\nLCK · 4주 차\nHanwha Life Esports vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906255",
+    "start": "2026-04-23T17:00:00+09:00",
+    "end": "2026-04-23T19:30:00+09:00",
+    "title": "[LCK] BRO vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 4주 차\nHANJIN BRION vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906231",
+    "start": "2026-04-23T19:00:00+09:00",
+    "end": "2026-04-23T21:30:00+09:00",
+    "title": "[LCK] DNS vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 4주 차\nDN SOOPers vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906215",
+    "start": "2026-04-24T17:00:00+09:00",
+    "end": "2026-04-24T19:30:00+09:00",
+    "title": "[LCK] BFX vs KT (0 : 2)",
+    "description": "승: KT\nLCK · 4주 차\nBNK FEARX vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840627",
+    "start": "2026-04-24T19:00:00+09:00",
+    "end": "2026-04-24T21:30:00+09:00",
+    "title": "[LCK] KRX vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 4주 차\nKIWOOM DRX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840639",
+    "start": "2026-04-25T17:00:00+09:00",
+    "end": "2026-04-25T19:30:00+09:00",
+    "title": "[LCK] BRO vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 4주 차\nHANJIN BRION vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906235",
+    "start": "2026-04-25T19:00:00+09:00",
+    "end": "2026-04-25T21:30:00+09:00",
+    "title": "[LCK] DK vs DNS (2 : 0)",
+    "description": "승: DK\nLCK · 4주 차\nDplus KIA vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840631",
+    "start": "2026-04-26T17:00:00+09:00",
+    "end": "2026-04-26T19:30:00+09:00",
+    "title": "[LCK] BFX vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 4주 차\nBNK FEARX vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906279",
+    "start": "2026-04-26T19:00:00+09:00",
+    "end": "2026-04-26T21:30:00+09:00",
+    "title": "[LCK] NS vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 4주 차\nNONGSHIM RED FORCE vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 4주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840655",
+    "start": "2026-04-29T17:00:00+09:00",
+    "end": "2026-04-29T19:30:00+09:00",
+    "title": "[LCK] NS vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 5주 차\nNONGSHIM RED FORCE vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840619",
+    "start": "2026-04-29T19:00:00+09:00",
+    "end": "2026-04-29T21:30:00+09:00",
+    "title": "[LCK] KT vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 5주 차\nkt Rolster vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906283",
+    "start": "2026-04-30T17:00:00+09:00",
+    "end": "2026-04-30T19:30:00+09:00",
+    "title": "[LCK] GEN vs KRX (2 : 1)",
+    "description": "승: GEN\nLCK · 5주 차\nGen.G Esports vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962840675",
+    "start": "2026-04-30T19:00:00+09:00",
+    "end": "2026-04-30T21:30:00+09:00",
+    "title": "[LCK] BFX vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 5주 차\nBNK FEARX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906227",
+    "start": "2026-05-01T17:00:00+09:00",
+    "end": "2026-05-01T19:30:00+09:00",
+    "title": "[LCK] BRO vs DNS (2 : 0)",
+    "description": "승: BRO\nLCK · 5주 차\nHANJIN BRION vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906311",
+    "start": "2026-05-01T19:00:00+09:00",
+    "end": "2026-05-01T21:30:00+09:00",
+    "title": "[LCK] HLE vs T1 (2 : 1)",
+    "description": "승: HLE\nLCK · 5주 차\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037523",
+    "start": "2026-05-02T17:00:00+09:00",
+    "end": "2026-05-02T19:30:00+09:00",
+    "title": "[LCK] DK vs GEN (1 : 2)",
+    "description": "승: GEN\nLCK · 5주 차\nDplus KIA vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037559",
+    "start": "2026-05-02T19:00:00+09:00",
+    "end": "2026-05-02T21:30:00+09:00",
+    "title": "[LCK] KRX vs NS (2 : 0)",
+    "description": "승: KRX\nLCK · 5주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037511",
+    "start": "2026-05-03T17:00:00+09:00",
+    "end": "2026-05-03T19:30:00+09:00",
+    "title": "[LCK] KT vs BRO (0 : 2)",
+    "description": "승: BRO\nLCK · 5주 차\nkt Rolster vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971915",
+    "start": "2026-05-03T19:00:00+09:00",
+    "end": "2026-05-03T21:30:00+09:00",
+    "title": "[LCK] BFX vs DNS (2 : 0)",
+    "description": "승: BFX\nLCK · 5주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 5주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037531",
+    "start": "2026-05-06T17:00:00+09:00",
+    "end": "2026-05-06T19:30:00+09:00",
+    "title": "[LCK] NS vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 6주 차\nNONGSHIM RED FORCE vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971855",
+    "start": "2026-05-06T19:00:00+09:00",
+    "end": "2026-05-06T21:30:00+09:00",
+    "title": "[LCK] DNS vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 6주 차\nDN SOOPers vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037539",
+    "start": "2026-05-07T17:00:00+09:00",
+    "end": "2026-05-07T19:30:00+09:00",
+    "title": "[LCK] KT vs DK (2 : 0)",
+    "description": "승: KT\nLCK · 6주 차\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971919",
+    "start": "2026-05-07T19:00:00+09:00",
+    "end": "2026-05-07T21:30:00+09:00",
+    "title": "[LCK] BFX vs BRO (0 : 2)",
+    "description": "승: BRO\nLCK · 6주 차\nBNK FEARX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971887",
+    "start": "2026-05-08T17:00:00+09:00",
+    "end": "2026-05-08T19:30:00+09:00",
+    "title": "[LCK] T1 vs DNS (2 : 0)",
+    "description": "승: T1\nLCK · 6주 차\nT1 vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037535",
+    "start": "2026-05-08T19:00:00+09:00",
+    "end": "2026-05-08T21:30:00+09:00",
+    "title": "[LCK] GEN vs KRX (2 : 0)",
+    "description": "승: GEN\nLCK · 6주 차\nGen.G Esports vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971931",
+    "start": "2026-05-09T17:00:00+09:00",
+    "end": "2026-05-09T19:30:00+09:00",
+    "title": "[LCK] KT vs BFX (0 : 2)",
+    "description": "승: BFX\nLCK · 6주 차\nkt Rolster vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037515",
+    "start": "2026-05-09T19:00:00+09:00",
+    "end": "2026-05-09T21:30:00+09:00",
+    "title": "[LCK] BRO vs NS (2 : 0)",
+    "description": "승: BRO\nLCK · 6주 차\nHANJIN BRION vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971899",
+    "start": "2026-05-10T17:00:00+09:00",
+    "end": "2026-05-10T19:30:00+09:00",
+    "title": "[LCK] T1 vs DK (2 : 0)",
+    "description": "승: T1\nLCK · 6주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971879",
+    "start": "2026-05-10T19:00:00+09:00",
+    "end": "2026-05-10T21:30:00+09:00",
+    "title": "[LCK] KRX vs HLE (1 : 2)",
+    "description": "승: HLE\nLCK · 6주 차\nKIWOOM DRX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 6주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971907",
+    "start": "2026-05-13T17:00:00+09:00",
+    "end": "2026-05-13T19:30:00+09:00",
+    "title": "[LCK] T1 vs NS (2 : 0)",
+    "description": "승: T1\nLCK · 7주 차\nT1 vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971951",
+    "start": "2026-05-13T19:00:00+09:00",
+    "end": "2026-05-13T21:30:00+09:00",
+    "title": "[LCK] DK vs DNS (2 : 0)",
+    "description": "승: DK\nLCK · 7주 차\nDplus KIA vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971923",
+    "start": "2026-05-14T17:00:00+09:00",
+    "end": "2026-05-14T19:30:00+09:00",
+    "title": "[LCK] BFX vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 7주 차\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037555",
+    "start": "2026-05-14T19:00:00+09:00",
+    "end": "2026-05-14T21:30:00+09:00",
+    "title": "[LCK] KRX vs KT (1 : 2)",
+    "description": "승: KT\nLCK · 7주 차\nKIWOOM DRX vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971867",
+    "start": "2026-05-15T17:00:00+09:00",
+    "end": "2026-05-15T19:30:00+09:00",
+    "title": "[LCK] HLE vs DK (2 : 0)",
+    "description": "승: HLE\nLCK · 7주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971943",
+    "start": "2026-05-15T19:00:00+09:00",
+    "end": "2026-05-15T21:30:00+09:00",
+    "title": "[LCK] BRO vs DNS (2 : 0)",
+    "description": "승: BRO\nLCK · 7주 차\nHANJIN BRION vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971895",
+    "start": "2026-05-16T17:00:00+09:00",
+    "end": "2026-05-16T19:30:00+09:00",
+    "title": "[LCK] GEN vs T1 (1 : 2)",
+    "description": "승: T1\nLCK · 7주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971935",
+    "start": "2026-05-16T19:00:00+09:00",
+    "end": "2026-05-16T21:30:00+09:00",
+    "title": "[LCK] BFX vs NS (2 : 0)",
+    "description": "승: BFX\nLCK · 7주 차\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971871",
+    "start": "2026-05-17T17:00:00+09:00",
+    "end": "2026-05-17T19:30:00+09:00",
+    "title": "[LCK] KT vs HLE (2 : 1)",
+    "description": "승: KT\nLCK · 7주 차\nkt Rolster vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037519",
+    "start": "2026-05-17T19:00:00+09:00",
+    "end": "2026-05-17T21:30:00+09:00",
+    "title": "[LCK] BRO vs KRX (1 : 2)",
+    "description": "승: KRX\nLCK · 7주 차\nHANJIN BRION vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 7주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971911",
+    "start": "2026-05-20T17:00:00+09:00",
+    "end": "2026-05-20T19:30:00+09:00",
+    "title": "[LCK] T1 vs KRX (2 : 1)",
+    "description": "승: T1\nLCK · 8주 차\nT1 vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037551",
+    "start": "2026-05-20T19:00:00+09:00",
+    "end": "2026-05-20T21:30:00+09:00",
+    "title": "[LCK] NS vs KT (1 : 2)",
+    "description": "승: KT\nLCK · 8주 차\nNONGSHIM RED FORCE vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962906315",
+    "start": "2026-05-21T17:00:00+09:00",
+    "end": "2026-05-21T19:30:00+09:00",
+    "title": "[LCK] BFX vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 8주 차\nBNK FEARX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037507",
+    "start": "2026-05-21T19:00:00+09:00",
+    "end": "2026-05-21T21:30:00+09:00",
+    "title": "[LCK] DK vs BRO (2 : 1)",
+    "description": "승: DK\nLCK · 8주 차\nDplus KIA vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971963",
+    "start": "2026-05-22T17:00:00+09:00",
+    "end": "2026-05-22T19:30:00+09:00",
+    "title": "[LCK] DNS vs KRX (0 : 2)",
+    "description": "승: KRX\nLCK · 8주 차\nDN SOOPers vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037527",
+    "start": "2026-05-22T19:00:00+09:00",
+    "end": "2026-05-22T21:30:00+09:00",
+    "title": "[LCK] KT vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 8주 차\nkt Rolster vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971927",
+    "start": "2026-05-23T17:00:00+09:00",
+    "end": "2026-05-23T19:30:00+09:00",
+    "title": "[LCK] DK vs BFX (2 : 1)",
+    "description": "승: DK\nLCK · 8주 차\nDplus KIA vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971875",
+    "start": "2026-05-23T19:00:00+09:00",
+    "end": "2026-05-23T21:30:00+09:00",
+    "title": "[LCK] HLE vs NS (2 : 1)",
+    "description": "승: HLE\nLCK · 8주 차\nHanwha Life Esports vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971947",
+    "start": "2026-05-24T17:00:00+09:00",
+    "end": "2026-05-24T19:30:00+09:00",
+    "title": "[LCK] GEN vs DNS (2 : 0)",
+    "description": "승: GEN\nLCK · 8주 차\nGen.G Esports vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971891",
+    "start": "2026-05-24T19:00:00+09:00",
+    "end": "2026-05-24T21:30:00+09:00",
+    "title": "[LCK] T1 vs BRO (2 : 0)",
+    "description": "승: T1\nLCK · 8주 차\nT1 vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 8주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971863",
+    "start": "2026-05-27T17:00:00+09:00",
+    "end": "2026-05-27T19:30:00+09:00",
+    "title": "[LCK] GEN vs HLE (2 : 1)",
+    "description": "승: GEN\nLCK · 9주 차\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971939",
+    "start": "2026-05-27T19:00:00+09:00",
+    "end": "2026-05-27T21:30:00+09:00",
+    "title": "[LCK] BFX vs KRX (2 : 1)",
+    "description": "승: BFX\nLCK · 9주 차\nBNK FEARX vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971959",
+    "start": "2026-05-28T17:00:00+09:00",
+    "end": "2026-05-28T19:30:00+09:00",
+    "title": "[LCK] DNS vs NS (1 : 2)",
+    "description": "승: NS\nLCK · 9주 차\nDN SOOPers vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971903",
+    "start": "2026-05-28T19:00:00+09:00",
+    "end": "2026-05-28T21:30:00+09:00",
+    "title": "[LCK] T1 vs KT (2 : 0)",
+    "description": "승: T1\nLCK · 9주 차\nT1 vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037547",
+    "start": "2026-05-29T17:00:00+09:00",
+    "end": "2026-05-29T19:30:00+09:00",
+    "title": "[LCK] DK vs KRX (2 : 1)",
+    "description": "승: DK\nLCK · 9주 차\nDplus KIA vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037503",
+    "start": "2026-05-29T19:00:00+09:00",
+    "end": "2026-05-29T21:30:00+09:00",
+    "title": "[LCK] GEN vs BRO (2 : 0)",
+    "description": "승: GEN\nLCK · 9주 차\nGen.G Esports vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971955",
+    "start": "2026-05-30T17:00:00+09:00",
+    "end": "2026-05-30T19:30:00+09:00",
+    "title": "[LCK] KT vs DNS (2 : 0)",
+    "description": "승: KT\nLCK · 9주 차\nkt Rolster vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971883",
+    "start": "2026-05-30T19:00:00+09:00",
+    "end": "2026-05-30T21:30:00+09:00",
+    "title": "[LCK] BFX vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 9주 차\nBNK FEARX vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128962971859",
+    "start": "2026-05-31T17:00:00+09:00",
+    "end": "2026-05-31T19:30:00+09:00",
+    "title": "[LCK] HLE vs BRO (2 : 0)",
+    "description": "승: HLE\nLCK · 9주 차\nHanwha Life Esports vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037543",
+    "start": "2026-05-31T19:00:00+09:00",
+    "end": "2026-05-31T21:30:00+09:00",
+    "title": "[LCK] NS vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 9주 차\nNONGSHIM RED FORCE vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 9주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037563",
+    "start": "2026-06-06T17:00:00+09:00",
+    "end": "2026-06-06T21:00:00+09:00",
+    "title": "[LCK] DK vs BRO (3 : 0)",
+    "description": "승: DK\nLCK · 토너먼트 스테이지\nDplus KIA vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 토너먼트 스테이지",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037569",
+    "start": "2026-06-07T17:00:00+09:00",
+    "end": "2026-06-07T21:00:00+09:00",
+    "title": "[LCK] KT vs DK (3 : 2)",
+    "description": "승: KT\nLCK · 토너먼트 스테이지\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 토너먼트 스테이지",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037575",
+    "start": "2026-06-12T17:00:00+09:00",
+    "end": "2026-06-12T21:00:00+09:00",
+    "title": "[LCK] HLE vs T1 (3 : 1)",
+    "description": "승: HLE\nLCK · 토너먼트 스테이지\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 토너먼트 스테이지",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037581",
+    "start": "2026-06-13T15:00:00+09:00",
+    "end": "2026-06-13T19:00:00+09:00",
+    "title": "[LCK] GEN vs KT (3 : 0)",
+    "description": "승: GEN\nLCK · 토너먼트 스테이지\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 토너먼트 스테이지",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548128963037587",
+    "start": "2026-06-14T15:00:00+09:00",
+    "end": "2026-06-14T19:00:00+09:00",
+    "title": "[LCK] T1 vs GEN (3 : 2)",
+    "description": "승: T1\nLCK · 토너먼트 스테이지\nT1 vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 토너먼트 스테이지",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614497",
+    "start": "2026-06-28T12:00:00+09:00",
+    "end": "2026-06-28T16:00:00+09:00",
+    "title": "[MSI] T1 vs TLAW (3 : 0)",
+    "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614509",
+    "start": "2026-06-29T12:00:00+09:00",
+    "end": "2026-06-29T16:00:00+09:00",
+    "title": "[MSI] T1 vs KC (3 : 0)",
+    "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570969745329263",
+    "start": "2026-07-01T17:00:00+09:00",
+    "end": "2026-07-01T21:00:00+09:00",
+    "title": "[MSI] T1 vs TLAW (3 : 0)",
+    "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614539",
+    "start": "2026-07-03T12:00:00+09:00",
+    "end": "2026-07-03T16:00:00+09:00",
+    "title": "[MSI] HLE vs TSW (3 : 0)",
+    "description": "승: HLE\nMSI · 토너먼트 스테이지\nHanwha Life Esports vs Team Secret Whales\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614527",
+    "start": "2026-07-04T17:00:00+09:00",
+    "end": "2026-07-04T21:00:00+09:00",
+    "title": "[MSI] T1 vs BLG (2 : 3)",
+    "description": "승: BLG\nMSI · 토너먼트 스테이지\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614557",
+    "start": "2026-07-05T17:00:00+09:00",
+    "end": "2026-07-05T21:00:00+09:00",
+    "title": "[MSI] HLE vs G2 (3 : 0)",
+    "description": "승: HLE\nMSI · 토너먼트 스테이지\nHanwha Life Esports vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614563",
+    "start": "2026-07-06T17:00:00+09:00",
+    "end": "2026-07-06T21:00:00+09:00",
+    "title": "[MSI] T1 vs FUR (3 : 0)",
+    "description": "승: T1\nMSI · 토너먼트 스테이지\nT1 vs FURIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614581",
+    "start": "2026-07-08T17:00:00+09:00",
+    "end": "2026-07-08T21:00:00+09:00",
+    "title": "[MSI] G2 vs T1 (3 : 1)",
+    "description": "승: G2\nMSI · 토너먼트 스테이지\nG2 Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614575",
+    "start": "2026-07-09T17:00:00+09:00",
+    "end": "2026-07-09T21:00:00+09:00",
+    "title": "[MSI] BLG vs HLE (3 : 1)",
+    "description": "승: BLG\nMSI · 토너먼트 스테이지\nBILIBILI GAMING vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614599",
+    "start": "2026-07-11T17:00:00+09:00",
+    "end": "2026-07-11T21:00:00+09:00",
+    "title": "[MSI] LYON vs HLE (2 : 3)",
+    "description": "승: HLE\nMSI · 토너먼트 스테이지\nLYON vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "115570934355614605",
+    "start": "2026-07-12T15:00:00+09:00",
+    "end": "2026-07-12T19:00:00+09:00",
+    "title": "[MSI] BLG vs HLE (2 : 3)",
+    "description": "승: HLE\nMSI · 결승\nBILIBILI GAMING vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 결승",
+    "league": "MSI",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702316",
+    "start": "2026-07-15T18:00:00+09:00",
+    "end": "2026-07-15T19:30:00+09:00",
+    "title": "[EWC] GEN vs KC (1 : 0)",
+    "description": "승: GEN\nEsports World Cup · 그룹\nGen.G Esports vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702330",
+    "start": "2026-07-15T19:10:00+09:00",
+    "end": "2026-07-15T20:40:00+09:00",
+    "title": "[EWC] GAM vs T1 (0 : 1)",
+    "description": "승: T1\nEsports World Cup · 그룹\nGAM Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702302",
+    "start": "2026-07-15T20:20:00+09:00",
+    "end": "2026-07-15T21:50:00+09:00",
+    "title": "[EWC] DK vs AGAL (0 : 1)",
+    "description": "승: AGAL\nEsports World Cup · 그룹\nDplus KIA vs AG.AL\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702342",
+    "start": "2026-07-15T21:30:00+09:00",
+    "end": "2026-07-15T23:00:00+09:00",
+    "title": "[EWC] ML vs HLE (0 : 1)",
+    "description": "승: HLE\nEsports World Cup · 그룹\nMIBR.LOS vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702306",
+    "start": "2026-07-16T01:55:00+09:00",
+    "end": "2026-07-16T04:25:00+09:00",
+    "title": "[EWC] FUR vs DK (0 : 2)",
+    "description": "승: DK\nEsports World Cup · 그룹\nFURIA vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702318",
+    "start": "2026-07-16T18:00:00+09:00",
+    "end": "2026-07-16T19:30:00+09:00",
+    "title": "[EWC] GEN vs SEN (1 : 0)",
+    "description": "승: GEN\nEsports World Cup · 그룹\nGen.G Esports vs Sentinels\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702332",
+    "start": "2026-07-16T18:00:00+09:00",
+    "end": "2026-07-16T19:30:00+09:00",
+    "title": "[EWC] T1 vs BLG (0 : 1)",
+    "description": "승: BLG\nEsports World Cup · 그룹\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702346",
+    "start": "2026-07-16T19:10:00+09:00",
+    "end": "2026-07-16T20:40:00+09:00",
+    "title": "[EWC] JDG vs HLE (0 : 1)",
+    "description": "승: HLE\nEsports World Cup · 그룹\nBeijing JDG Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702338",
+    "start": "2026-07-16T20:20:00+09:00",
+    "end": "2026-07-16T22:50:00+09:00",
+    "title": "[EWC] GAM vs T1 (0 : 2)",
+    "description": "승: T1\nEsports World Cup · 그룹\nGAM Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702310",
+    "start": "2026-07-16T22:50:00+09:00",
+    "end": "2026-07-17T01:20:00+09:00",
+    "title": "[EWC] DK vs G2 (2 : 0)",
+    "description": "승: DK\nEsports World Cup · 그룹\nDplus KIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702356",
+    "start": "2026-07-17T20:00:00+09:00",
+    "end": "2026-07-17T22:30:00+09:00",
+    "title": "[EWC] T1 vs HLE (2 : 0)",
+    "description": "승: T1\nEsports World Cup · 8강\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702364",
+    "start": "2026-07-17T20:00:00+09:00",
+    "end": "2026-07-17T22:30:00+09:00",
+    "title": "[EWC] GEN vs JDG (2 : 0)",
+    "description": "승: GEN\nEsports World Cup · 8강\nGen.G Esports vs Beijing JDG Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702368",
+    "start": "2026-07-17T22:30:00+09:00",
+    "end": "2026-07-18T01:00:00+09:00",
+    "title": "[EWC] DK vs BLG (2 : 1)",
+    "description": "승: DK\nEsports World Cup · 8강\nDplus KIA vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702372",
+    "start": "2026-07-18T20:00:00+09:00",
+    "end": "2026-07-18T22:30:00+09:00",
+    "title": "[EWC] KC vs T1 (2 : 1)",
+    "description": "승: KC\nEsports World Cup · 4강\nKarmine Corp vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 4강",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702376",
+    "start": "2026-07-18T22:30:00+09:00",
+    "end": "2026-07-19T01:00:00+09:00",
+    "title": "[EWC] GEN vs DK (1 : 2)",
+    "description": "승: DK\nEsports World Cup · 4강\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 4강",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702386",
+    "start": "2026-07-19T19:00:00+09:00",
+    "end": "2026-07-19T21:30:00+09:00",
+    "title": "[EWC] GEN vs T1 (2 : 1)",
+    "description": "승: GEN\nEsports World Cup · 결승\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 결승",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "116855104460702380",
+    "start": "2026-07-19T21:30:00+09:00",
+    "end": "2026-07-20T01:30:00+09:00",
+    "title": "[EWC] KC vs DK (0 : 3)",
+    "description": "승: DK\nEsports World Cup · 결승\nKarmine Corp vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 결승",
+    "league": "EWC",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684661",
+    "start": "2026-07-29T17:00:00+09:00",
+    "end": "2026-07-29T19:30:00+09:00",
+    "title": "[LCK] KRX vs NS (0 : 2)",
+    "description": "승: NS\nLCK · 10주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553461",
+    "start": "2026-07-29T19:00:00+09:00",
+    "end": "2026-07-29T21:30:00+09:00",
+    "title": "[LCK] T1 vs KT (0 : 2)",
+    "description": "승: KT\nLCK · 10주 차\nT1 vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684657",
+    "start": "2026-07-30T17:00:00+09:00",
+    "end": "2026-07-30T19:30:00+09:00",
+    "title": "[LCK] BFX vs DNS (2 : 0)",
+    "description": "승: BFX\nLCK · 10주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553453",
+    "start": "2026-07-30T19:00:00+09:00",
+    "end": "2026-07-30T21:30:00+09:00",
+    "title": "[LCK] HLE vs DK (1 : 2)",
+    "description": "승: DK\nLCK · 10주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553457",
+    "start": "2026-07-31T17:00:00+09:00",
+    "end": "2026-07-31T19:30:00+09:00",
+    "title": "[LCK] GEN vs T1 (0 : 2)",
+    "description": "승: T1\nLCK · 10주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684637",
+    "start": "2026-07-31T19:00:00+09:00",
+    "end": "2026-07-31T21:30:00+09:00",
+    "title": "[LCK] KRX vs BRO (2 : 1)",
+    "description": "승: KRX\nLCK · 10주 차\nKIWOOM DRX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684653",
+    "start": "2026-08-01T17:00:00+09:00",
+    "end": "2026-08-01T19:30:00+09:00",
+    "title": "[LCK] NS vs BFX (2 : 1)",
+    "description": "승: NS\nLCK · 10주 차\nNONGSHIM RED FORCE vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553473",
+    "start": "2026-08-01T19:00:00+09:00",
+    "end": "2026-08-01T21:30:00+09:00",
+    "title": "[LCK] GEN vs DK (0 : 2)",
+    "description": "승: DK\nLCK · 10주 차\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684645",
+    "start": "2026-08-02T17:00:00+09:00",
+    "end": "2026-08-02T19:30:00+09:00",
+    "title": "[LCK] BRO vs DNS (1 : 2)",
+    "description": "승: DNS\nLCK · 10주 차\nHANJIN BRION vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553449",
+    "start": "2026-08-02T19:00:00+09:00",
+    "end": "2026-08-02T21:30:00+09:00",
+    "title": "[LCK] HLE vs KT (1 : 2)",
+    "description": "승: KT\nLCK · 10주 차\nHanwha Life Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 10주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684641",
+    "start": "2026-08-05T17:00:00+09:00",
+    "end": "2026-08-05T19:30:00+09:00",
+    "title": "[LCK] NS vs BRO (1 : 2)",
+    "description": "승: BRO\nLCK · 11주 차\nNONGSHIM RED FORCE vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553445",
+    "start": "2026-08-05T19:00:00+09:00",
+    "end": "2026-08-05T21:30:00+09:00",
+    "title": "[LCK] GEN vs HLE (2 : 1)",
+    "description": "승: GEN\nLCK · 11주 차\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684665",
+    "start": "2026-08-06T17:00:00+09:00",
+    "end": "2026-08-06T19:30:00+09:00",
+    "title": "[LCK] KRX vs DNS (2 : 0)",
+    "description": "승: KRX\nLCK · 11주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553465",
+    "start": "2026-08-06T19:00:00+09:00",
+    "end": "2026-08-06T21:30:00+09:00",
+    "title": "[LCK] T1 vs DK (2 : 0)",
+    "description": "승: T1\nLCK · 11주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553469",
+    "start": "2026-08-07T17:00:00+09:00",
+    "end": "2026-08-07T19:30:00+09:00",
+    "title": "[LCK] GEN vs KT (2 : 0)",
+    "description": "승: GEN\nLCK · 11주 차\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684633",
+    "start": "2026-08-07T19:00:00+09:00",
+    "end": "2026-08-07T21:30:00+09:00",
+    "title": "[LCK] BRO vs BFX (2 : 0)",
+    "description": "승: BRO\nLCK · 11주 차\nHANJIN BRION vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900487905",
+    "start": "2026-08-08T17:00:00+09:00",
+    "end": "2026-08-08T19:30:00+09:00",
+    "title": "[LCK] T1 vs HLE (1 : 2)",
+    "description": "승: HLE\nLCK · 11주 차\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684669",
+    "start": "2026-08-08T19:00:00+09:00",
+    "end": "2026-08-08T21:30:00+09:00",
+    "title": "[LCK] DNS vs NS (2 : 0)",
+    "description": "승: DNS\nLCK · 11주 차\nDN SOOPers vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553477",
+    "start": "2026-08-09T17:00:00+09:00",
+    "end": "2026-08-09T19:30:00+09:00",
+    "title": "[LCK] KT vs DK (1 : 2)",
+    "description": "승: DK\nLCK · 11주 차\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684649",
+    "start": "2026-08-09T19:00:00+09:00",
+    "end": "2026-08-09T21:30:00+09:00",
+    "title": "[LCK] BFX vs KRX (2 : 0)",
+    "description": "승: BFX\nLCK · 11주 차\nBNK FEARX vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 11주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900750245",
+    "start": "2026-08-12T17:00:00+09:00",
+    "end": "2026-08-12T19:30:00+09:00",
+    "title": "[LCK] NS vs DNS (1 : 2)",
+    "description": "승: DNS\nLCK · 12주 차\nNONGSHIM RED FORCE vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684589",
+    "start": "2026-08-12T19:00:00+09:00",
+    "end": "2026-08-12T21:30:00+09:00",
+    "title": "[LCK] DK vs KT (2 : 0)",
+    "description": "승: DK\nLCK · 12주 차\nDplus KIA vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900750225",
+    "start": "2026-08-13T17:00:00+09:00",
+    "end": "2026-08-13T19:30:00+09:00",
+    "title": "[LCK] KRX vs BFX (1 : 2)",
+    "description": "승: BFX\nLCK · 12주 차\nKIWOOM DRX vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619021",
+    "start": "2026-08-13T19:00:00+09:00",
+    "end": "2026-08-13T21:30:00+09:00",
+    "title": "[LCK] HLE vs GEN (0 : 2)",
+    "description": "승: GEN\nLCK · 12주 차\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619041",
+    "start": "2026-08-14T17:00:00+09:00",
+    "end": "2026-08-14T19:30:00+09:00",
+    "title": "[LCK] DK vs T1 (2 : 1)",
+    "description": "승: DK\nLCK · 12주 차\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684681",
+    "start": "2026-08-14T19:00:00+09:00",
+    "end": "2026-08-14T21:30:00+09:00",
+    "title": "[LCK] BRO vs NS (0 : 2)",
+    "description": "승: NS\nLCK · 12주 차\nHANJIN BRION vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619025",
+    "start": "2026-08-15T17:00:00+09:00",
+    "end": "2026-08-15T19:30:00+09:00",
+    "title": "[LCK] KT vs HLE (1 : 2)",
+    "description": "승: HLE\nLCK · 12주 차\nkt Rolster vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900750233",
+    "start": "2026-08-15T19:00:00+09:00",
+    "end": "2026-08-15T21:30:00+09:00",
+    "title": "[LCK] BFX vs DNS (0 : 2)",
+    "description": "승: DNS\nLCK · 12주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619033",
+    "start": "2026-08-16T17:00:00+09:00",
+    "end": "2026-08-16T19:30:00+09:00",
+    "title": "[LCK] GEN vs T1 (2 : 0)",
+    "description": "승: GEN\nLCK · 12주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684677",
+    "start": "2026-08-16T19:00:00+09:00",
+    "end": "2026-08-16T21:30:00+09:00",
+    "title": "[LCK] BRO vs KRX (2 : 1)",
+    "description": "승: BRO\nLCK · 12주 차\nHANJIN BRION vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 12주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619045",
+    "start": "2026-08-19T17:00:00+09:00",
+    "end": "2026-08-19T19:30:00+09:00",
+    "title": "[LCK] GEN vs KT (2 : 1)",
+    "description": "승: GEN\nLCK · 13주 차\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684685",
+    "start": "2026-08-19T19:00:00+09:00",
+    "end": "2026-08-19T21:30:00+09:00",
+    "title": "[LCK] DNS vs BRO (0 : 2)",
+    "description": "승: BRO\nLCK · 13주 차\nDN SOOPers vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619029",
+    "start": "2026-08-20T17:00:00+09:00",
+    "end": "2026-08-20T19:30:00+09:00",
+    "title": "[LCK] HLE vs DK (2 : 0)",
+    "description": "승: HLE\nLCK · 13주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900750237",
+    "start": "2026-08-20T19:00:00+09:00",
+    "end": "2026-08-20T21:30:00+09:00",
+    "title": "[LCK] KRX vs NS (0 : 2)",
+    "description": "승: NS\nLCK · 13주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900684673",
+    "start": "2026-08-21T17:00:00+09:00",
+    "end": "2026-08-21T19:30:00+09:00",
+    "title": "[LCK] BFX vs BRO (2 : 1)",
+    "description": "승: BFX\nLCK · 13주 차\nBNK FEARX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619037",
+    "start": "2026-08-21T19:00:00+09:00",
+    "end": "2026-08-21T21:30:00+09:00",
+    "title": "[LCK] T1 vs KT (2 : 1)",
+    "description": "승: T1\nLCK · 13주 차\nT1 vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900619049",
+    "start": "2026-08-22T17:00:00+09:00",
+    "end": "2026-08-22T19:30:00+09:00",
+    "title": "[LCK] GEN vs DK (1 : 2)",
+    "description": "승: DK\nLCK · 13주 차\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900750241",
+    "start": "2026-08-22T19:00:00+09:00",
+    "end": "2026-08-22T21:30:00+09:00",
+    "title": "[LCK] KRX vs DNS (0 : 2)",
+    "description": "승: DNS\nLCK · 13주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900553481",
+    "start": "2026-08-23T17:00:00+09:00",
+    "end": "2026-08-23T19:30:00+09:00",
+    "title": "[LCK] T1 vs HLE (0 : 2)",
+    "description": "승: HLE\nLCK · 13주 차\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115548147900750229",
+    "start": "2026-08-23T19:00:00+09:00",
+    "end": "2026-08-23T21:30:00+09:00",
+    "title": "[LCK] NS vs BFX (2 : 1)",
+    "description": "승: NS\nLCK · 13주 차\nNONGSHIM RED FORCE vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 13주 차",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841571",
+    "start": "2026-08-26T17:00:00+09:00",
+    "end": "2026-08-26T21:00:00+09:00",
+    "title": "[LCK] BRO vs KT (2 : 3)",
+    "description": "승: KT\nLCK · 플레이-인\nHANJIN BRION vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841577",
+    "start": "2026-08-27T17:00:00+09:00",
+    "end": "2026-08-27T21:00:00+09:00",
+    "title": "[LCK] BFX vs NS (3 : 1)",
+    "description": "승: BFX\nLCK · 플레이-인\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841583",
+    "start": "2026-08-28T17:00:00+09:00",
+    "end": "2026-08-28T21:00:00+09:00",
+    "title": "[LCK] BFX vs BRO (3 : 2)",
+    "description": "승: BFX\nLCK · 플레이-인\nBNK FEARX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이-인",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841589",
+    "start": "2026-08-29T17:00:00+09:00",
+    "end": "2026-08-29T21:00:00+09:00",
+    "title": "[LCK] BFX vs T1 (2 : 3)",
+    "description": "승: T1\nLCK · 플레이오프\nBNK FEARX vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841595",
+    "start": "2026-08-30T17:00:00+09:00",
+    "end": "2026-08-30T21:00:00+09:00",
+    "title": "[LCK] KT vs DK (3 : 0)",
+    "description": "승: KT\nLCK · 플레이오프\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841601",
+    "start": "2026-09-01T17:00:00+09:00",
+    "end": "2026-09-01T21:00:00+09:00",
+    "title": "[LCK] GEN vs KT (3 : 0)",
+    "description": "승: GEN\nLCK · 플레이오프\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841607",
+    "start": "2026-09-02T17:00:00+09:00",
+    "end": "2026-09-02T21:00:00+09:00",
+    "title": "[LCK] T1 vs HLE (2 : 3)",
+    "description": "승: HLE\nLCK · 플레이오프\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841613",
+    "start": "2026-09-03T17:00:00+09:00",
+    "end": "2026-09-03T21:00:00+09:00",
+    "title": "[LCK] BFX vs DK (2 : 3)",
+    "description": "승: DK\nLCK · 플레이오프\nBNK FEARX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841625",
+    "start": "2026-09-04T17:00:00+09:00",
+    "end": "2026-09-04T21:00:00+09:00",
+    "title": "[LCK] KT vs DK (1 : 3)",
+    "description": "승: DK\nLCK · 플레이오프\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841619",
+    "start": "2026-09-05T17:00:00+09:00",
+    "end": "2026-09-05T21:00:00+09:00",
+    "title": "[LCK] HLE vs GEN (1 : 3)",
+    "description": "승: GEN\nLCK · 플레이오프\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841631",
+    "start": "2026-09-06T17:00:00+09:00",
+    "end": "2026-09-06T21:00:00+09:00",
+    "title": "[LCK] DK vs T1 (1 : 3)",
+    "description": "승: T1\nLCK · 플레이오프\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841637",
+    "start": "2026-09-12T14:00:00+09:00",
+    "end": "2026-09-12T18:00:00+09:00",
+    "title": "[LCK] HLE vs T1 (3 : 1)",
+    "description": "승: HLE\nLCK · 플레이오프\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 플레이오프",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "117030752644841643",
+    "start": "2026-09-13T14:00:00+09:00",
+    "end": "2026-09-13T18:00:00+09:00",
+    "title": "[LCK] GEN vs HLE (3 : 1)",
+    "description": "승: GEN\nLCK · 결승\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "LCK · 결승",
+    "league": "LCK",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095005",
+    "start": "2026-10-24T02:00:00+09:00",
+    "end": "2026-10-24T03:30:00+09:00",
+    "title": "[Worlds] IG vs GEN (0 : 1)",
+    "description": "승: GEN\n월드 챔피언십 · 스위스\nInvictus Gaming vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095013",
+    "start": "2026-10-24T03:00:00+09:00",
+    "end": "2026-10-24T04:30:00+09:00",
+    "title": "[Worlds] TES vs HLE (0 : 1)",
+    "description": "승: HLE\n월드 챔피언십 · 스위스\nTOP ESPORTS vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095011",
+    "start": "2026-10-24T06:00:00+09:00",
+    "end": "2026-10-24T07:30:00+09:00",
+    "title": "[Worlds] DK vs G2 (1 : 0)",
+    "description": "승: DK\n월드 챔피언십 · 스위스\nDplus KIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095015",
+    "start": "2026-10-24T08:00:00+09:00",
+    "end": "2026-10-24T09:30:00+09:00",
+    "title": "[Worlds] LOS vs T1 (0 : 1)",
+    "description": "승: T1\n월드 챔피언십 · 스위스\nLOS vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095025",
+    "start": "2026-10-25T07:00:00+09:00",
+    "end": "2026-10-25T08:30:00+09:00",
+    "title": "[Worlds] HLE vs GEN (0 : 1)",
+    "description": "승: GEN\n월드 챔피언십 · 스위스\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095027",
+    "start": "2026-10-25T08:00:00+09:00",
+    "end": "2026-10-25T09:30:00+09:00",
+    "title": "[Worlds] DK vs T1 (1 : 0)",
+    "description": "승: DK\n월드 챔피언십 · 스위스\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095045",
+    "start": "2026-10-26T02:00:00+09:00",
+    "end": "2026-10-26T03:30:00+09:00",
+    "title": "[Worlds] IG vs HLE (1 : 0)",
+    "description": "승: IG\n월드 챔피언십 · 스위스\nInvictus Gaming vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095037",
+    "start": "2026-10-26T04:00:00+09:00",
+    "end": "2026-10-26T06:30:00+09:00",
+    "title": "[Worlds] MKOI vs DK (0 : 2)",
+    "description": "승: DK\n월드 챔피언십 · 스위스\nMovistar KOI vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095041",
+    "start": "2026-10-26T07:00:00+09:00",
+    "end": "2026-10-26T09:30:00+09:00",
+    "title": "[Worlds] LYON vs GEN (1 : 2)",
+    "description": "승: GEN\n월드 챔피언십 · 스위스\nLYON vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095049",
+    "start": "2026-10-27T02:00:00+09:00",
+    "end": "2026-10-27T03:30:00+09:00",
+    "title": "[Worlds] T1 vs CFO (1 : 0)",
+    "description": "승: T1\n월드 챔피언십 · 스위스\nT1 vs CTBC Flying Oyster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed"
+  },
+  {
+    "id": "115660540726095061",
+    "start": "2026-10-29T05:00:00+09:00",
+    "end": "2026-10-29T07:30:00+09:00",
+    "title": "[Worlds] MKOI vs T1 (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nMovistar KOI vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095081",
+    "start": "2026-10-31T08:00:00+09:00",
+    "end": "2026-10-31T10:30:00+09:00",
+    "title": "[Worlds] G2 vs HLE (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nG2 Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095085",
+    "start": "2026-11-01T02:00:00+09:00",
+    "end": "2026-11-01T04:30:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095089",
+    "start": "2026-11-01T05:00:00+09:00",
+    "end": "2026-11-01T07:30:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095093",
+    "start": "2026-11-01T08:00:00+09:00",
+    "end": "2026-11-01T10:30:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095097",
+    "start": "2026-11-04T07:00:00+09:00",
+    "end": "2026-11-04T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095103",
+    "start": "2026-11-05T07:00:00+09:00",
+    "end": "2026-11-05T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095109",
+    "start": "2026-11-06T07:00:00+09:00",
+    "end": "2026-11-06T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095115",
+    "start": "2026-11-07T07:00:00+09:00",
+    "end": "2026-11-07T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095121",
+    "start": "2026-11-08T07:00:00+09:00",
+    "end": "2026-11-08T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 4강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 4강",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095127",
+    "start": "2026-11-09T07:00:00+09:00",
+    "end": "2026-11-09T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 4강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 4강",
+    "league": "Worlds",
+    "state": "unstarted"
+  },
+  {
+    "id": "115660540726095133",
+    "start": "2026-11-15T04:00:00+09:00",
+    "end": "2026-11-15T08:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 결승\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 결승",
+    "league": "Worlds",
+    "state": "unstarted"
+  }
+]
