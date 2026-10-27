@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """lolesports API에서 2026년 LCK 1군 경기 일정을 받아 docs/lck.ics, docs/lck.json을 만든다.
 
+팀별 캘린더 docs/teams/<팀코드>.ics, 목록 docs/teams.json도 함께 만든다.
 대상: LCK 리그 경기 전부 + 국제대회(First Stand·MSI·EWC·Worlds) 중 LCK 팀이 나오는 경기.
 LCK 팀은 그 해 LCK 리그 경기에 나온 팀 코드로 정한다(LCK CL·2군 제외, 팀명 변경 자동 반영).
 국제대회의 TBD 경기는 LCK 팀이 들어갈 수 있으므로 포함하고, 상대가 확정되어 LCK 팀이 없으면 빠진다.
@@ -11,6 +12,7 @@ LCK 팀은 그 해 LCK 리그 경기에 나온 팀 코드로 정한다(LCK CL·2
 """
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -40,6 +42,8 @@ SCHEDULE_URL = "https://lolesports.com/ko-KR/schedule"
 DOCS = Path(__file__).resolve().parent / "docs"
 ICS_PATH = DOCS / "lck.ics"
 JSON_PATH = DOCS / "lck.json"
+TEAMS_DIR = DOCS / "teams"
+TEAMS_JSON_PATH = DOCS / "teams.json"
 
 
 class FetchError(Exception):
@@ -121,7 +125,12 @@ def team_codes(event):
 def fetch_events():
     ids = league_ids()
     domestic = fetch_league(DOMESTIC, ids[DOMESTIC])
-    lck_teams = {c for e in domestic for c in team_codes(e)} - {"TBD"}
+    # 코드 → 풀네임. 시간순으로 덮어써서 가장 최근 경기의 팀명을 쓴다
+    lck_teams = {}
+    for e in sorted(domestic, key=lambda e: e["startTime"]):
+        for t in e["match"].get("teams") or []:
+            if t.get("code") and t["code"] != "TBD":
+                lck_teams[t["code"]] = t.get("name") or t["code"]
     if not lck_teams:
         raise FetchError(f"{YEAR}년 LCK 경기에서 팀을 찾지 못함")
 
@@ -131,7 +140,7 @@ def fetch_events():
             continue
         for e in fetch_league(slug, league_id):
             codes = team_codes(e)
-            if "TBD" in codes or lck_teams.intersection(codes):
+            if "TBD" in codes or lck_teams.keys() & set(codes):
                 events.append(e)
     return events, lck_teams
 
@@ -186,6 +195,7 @@ def to_match(e):
         "round": round_name,
         "league": tag,
         "state": state,
+        "teams": [code1, code2],
     }
 
 
@@ -214,7 +224,7 @@ def ics_local(iso):
     return datetime.fromisoformat(iso).strftime("%Y%m%dT%H%M%S")
 
 
-def build_ics(matches, now):
+def build_ics(matches, now, calname=f"{YEAR} LCK 1군 경기 일정", uid_suffix=""):
     dtstamp = now.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     lines = [
         "BEGIN:VCALENDAR",
@@ -222,7 +232,7 @@ def build_ics(matches, now):
         "PRODID:-//lol_2026cal_for_lck//LCK Schedule//KO",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        f"X-WR-CALNAME:{YEAR} LCK 1군 경기 일정",
+        f"X-WR-CALNAME:{escape_text(calname)}",
         "X-WR-TIMEZONE:Asia/Seoul",
         "X-PUBLISHED-TTL:PT15M",
         "REFRESH-INTERVAL;VALUE=DURATION:PT15M",
@@ -240,7 +250,8 @@ def build_ics(matches, now):
     for m in matches:
         lines += [
             "BEGIN:VEVENT",
-            f"UID:lol-{m['id']}@lol_2026cal_for_lck",
+            # 팀 캘린더는 전체 캘린더와 함께 구독해도 겹치지 않게 UID를 따로 둔다
+            f"UID:lol-{m['id']}{uid_suffix}@lol_2026cal_for_lck",
             f"DTSTAMP:{dtstamp}",
             f"DTSTART;TZID=Asia/Seoul:{ics_local(m['start'])}",
             f"DTEND;TZID=Asia/Seoul:{ics_local(m['end'])}",
@@ -274,6 +285,42 @@ def write_atomic(path, text):
     os.replace(tmp, path)
 
 
+def team_slug(code):
+    return re.sub(r"[^a-z0-9]+", "-", code.lower()).strip("-")
+
+
+def team_matches(code, matches):
+    """그 팀 경기 + 그 팀이 나선 대회의 TBD 경기(그 팀이 들어갈 수 있는 자리)."""
+    leagues = {m["league"] for m in matches if code in m["teams"]}
+    return [m for m in matches if code in m["teams"] or ("TBD" in m["teams"] and m["league"] in leagues)]
+
+
+def build_outputs(matches, lck_teams, now):
+    """경로 → 내용. ICS는 DTSTAMP를 빼고 비교한다."""
+    outputs = {
+        ICS_PATH: build_ics(matches, now),
+        JSON_PATH: json.dumps(matches, ensure_ascii=False, indent=2) + "\n",
+    }
+    teams = []
+    for code, name in sorted(lck_teams.items()):
+        slug = team_slug(code)
+        ms = team_matches(code, matches)
+        outputs[TEAMS_DIR / f"{slug}.ics"] = build_ics(
+            ms, now, calname=f"{YEAR} {code} 경기 일정 (LCK)", uid_suffix=f"-{slug}")
+        teams.append({"code": code, "name": name, "file": f"teams/{slug}.ics", "matches": len(ms)})
+    outputs[TEAMS_JSON_PATH] = json.dumps(teams, ensure_ascii=False, indent=2) + "\n"
+    return outputs
+
+
+def same_content(path, new):
+    old = read_text(path)
+    if old is None:
+        return False
+    if path.suffix == ".ics":
+        return without_dtstamp(old) == without_dtstamp(new)
+    return old == new
+
+
 def main():
     now = datetime.now(timezone.utc)
     try:
@@ -292,19 +339,18 @@ def main():
         print("NO_CHANGE (시즌 마지막 경기 +3일 경과)")
         return 0
 
-    ics = build_ics(matches, now)
-    js = json.dumps(matches, ensure_ascii=False, indent=2) + "\n"
-    old_ics = read_text(ICS_PATH)
-    if old_ics is not None and without_dtstamp(old_ics) == without_dtstamp(ics) and read_text(JSON_PATH) == js:
+    # 팀 코드가 바뀌어 빠진 팀의 옛 파일은 지우지 않는다(구독자 쪽에서 갑자기 비지 않게)
+    changed = {p: t for p, t in build_outputs(matches, lck_teams, now).items() if not same_content(p, t)}
+    if not changed:
         print("NO_CHANGE")
         return 0
 
-    DOCS.mkdir(exist_ok=True)
-    write_atomic(JSON_PATH, js)
-    write_atomic(ICS_PATH, ics)
+    TEAMS_DIR.mkdir(parents=True, exist_ok=True)
+    for path, text in changed.items():
+        write_atomic(path, text)
     by_league = {tag: sum(m["league"] == tag for m in matches) for tag in LEAGUES.values()}
     states = {s: sum(m["state"] == s for m in matches) for s in ("completed", "inProgress", "unstarted")}
-    print(f"UPDATED: {len(matches)}경기 {by_league} {states} LCK팀={sorted(lck_teams)}")
+    print(f"UPDATED: {len(matches)}경기 {by_league} {states} 변경 파일 {len(changed)}개 LCK팀={sorted(lck_teams)}")
     return 0
 
 

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "BFX",
+    "name": "BNK FEARX",
+    "file": "teams/bfx.ics",
+    "matches": 43
+  },
+  {
+    "code": "BRO",
+    "name": "HANJIN BRION",
+    "file": "teams/bro.ics",
+    "matches": 35
+  },
+  {
+    "code": "DK",
+    "name": "Dplus KIA",
+    "file": "teams/dk.ics",
+    "matches": 62
+  },
+  {
+    "code": "DNS",
+    "name": "DN SOOPers",
+    "file": "teams/dns.ics",
+    "matches": 36
+  },
+  {
+    "code": "GEN",
+    "name": "Gen.G Esports",
+    "file": "teams/gen.ics",
+    "matches": 60
+  },
+  {
+    "code": "HLE",
+    "name": "Hanwha Life Esports",
+    "file": "teams/hle.ics",
+    "matches": 58
+  },
+  {
+    "code": "KRX",
+    "name": "KIWOOM DRX",
+    "file": "teams/krx.ics",
+    "matches": 36
+  },
+  {
+    "code": "KT",
+    "name": "kt Rolster",
+    "file": "teams/kt.ics",
+    "matches": 38
+  },
+  {
+    "code": "NS",
+    "name": "NONGSHIM RED FORCE",
+    "file": "teams/ns.ics",
+    "matches": 34
+  },
+  {
+    "code": "T1",
+    "name": "T1",
+    "file": "teams/t1.ics",
+    "matches": 65
+  }
+]

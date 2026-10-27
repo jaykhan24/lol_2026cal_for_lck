@@ -7,7 +7,11 @@
     "description": "승: KT\nLCK · 1주 차\nkt Rolster vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DNS"
+    ]
   },
   {
     "id": "115848316596054531",
@@ -17,7 +21,11 @@
     "description": "승: DK\nLCK · 1주 차\nHANJIN BRION vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "DK"
+    ]
   },
   {
     "id": "115848315835312526",
@@ -27,7 +35,11 @@
     "description": "승: GEN\nLCK · 1주 차\nGen.G Esports vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KRX"
+    ]
   },
   {
     "id": "115848316120066501",
@@ -37,7 +49,11 @@
     "description": "승: BFX\nLCK · 1주 차\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "NS"
+    ]
   },
   {
     "id": "115848316355275232",
@@ -47,7 +63,11 @@
     "description": "승: DK\nLCK · 1주 차\nDN SOOPers vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "DK"
+    ]
   },
   {
     "id": "115848315857267093",
@@ -57,7 +77,11 @@
     "description": "승: T1\nLCK · 1주 차\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "T1"
+    ]
   },
   {
     "id": "115848316736891410",
@@ -67,7 +91,11 @@
     "description": "승: BFX\nLCK · 1주 차\nHANJIN BRION vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "BFX"
+    ]
   },
   {
     "id": "115848315792779652",
@@ -77,7 +105,11 @@
     "description": "승: GEN\nLCK · 1주 차\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KT"
+    ]
   },
   {
     "id": "115848316005247408",
@@ -87,7 +119,11 @@
     "description": "승: NS\nLCK · 1주 차\nNONGSHIM RED FORCE vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "HLE"
+    ]
   },
   {
     "id": "115848315958585771",
@@ -97,7 +133,11 @@
     "description": "승: T1\nLCK · 1주 차\nKIWOOM DRX vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "T1"
+    ]
   },
   {
     "id": "115848316064229817",
@@ -107,7 +147,11 @@
     "description": "승: DK\nLCK · 2주 차\nNONGSHIM RED FORCE vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "DK"
+    ]
   },
   {
     "id": "115848316475468277",
@@ -117,7 +161,11 @@
     "description": "승: DNS\nLCK · 2주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "DNS"
+    ]
   },
   {
     "id": "115848316505221627",
@@ -127,7 +175,11 @@
     "description": "승: HLE\nLCK · 2주 차\nHANJIN BRION vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "HLE"
+    ]
   },
   {
     "id": "115848315813882249",
@@ -137,7 +189,11 @@
     "description": "승: GEN\nLCK · 2주 차\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "GEN"
+    ]
   },
   {
     "id": "115848315902486943",
@@ -147,7 +203,11 @@
     "description": "승: T1\nLCK · 2주 차\nkt Rolster vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "T1"
+    ]
   },
   {
     "id": "115848316188289487",
@@ -157,7 +217,11 @@
     "description": "승: KRX\nLCK · 2주 차\nNONGSHIM RED FORCE vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "KRX"
+    ]
   },
   {
     "id": "115848316302387673",
@@ -167,7 +231,11 @@
     "description": "승: HLE\nLCK · 2주 차\nHanwha Life Esports vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "DNS"
+    ]
   },
   {
     "id": "115848315768924542",
@@ -177,7 +245,11 @@
     "description": "승: GEN\nLCK · 2주 차\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DK"
+    ]
   },
   {
     "id": "115848315926276517",
@@ -187,7 +259,11 @@
     "description": "승: T1\nLCK · 2주 차\nT1 vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BFX"
+    ]
   },
   {
     "id": "115848316696848907",
@@ -197,7 +273,11 @@
     "description": "승: KT\nLCK · 2주 차\nkt Rolster vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "BRO"
+    ]
   },
   {
     "id": "115855145893081236",
@@ -207,7 +287,11 @@
     "description": "승: KRX\nLCK · 3주 차\nHANJIN BRION vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "KRX"
+    ]
   },
   {
     "id": "115855145878728844",
@@ -217,7 +301,11 @@
     "description": "승: BFX\nLCK · 3주 차\nDN SOOPers vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "BFX"
+    ]
   },
   {
     "id": "115855145864310916",
@@ -227,7 +315,11 @@
     "description": "승: NS\nLCK · 3주 차\nNONGSHIM RED FORCE vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "KT"
+    ]
   },
   {
     "id": "115855145849761916",
@@ -237,7 +329,11 @@
     "description": "승: T1\nLCK · 3주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "DK"
+    ]
   },
   {
     "id": "115855145826562164",
@@ -247,7 +343,11 @@
     "description": "승: GEN\nLCK · 3주 차\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "GEN"
+    ]
   },
   {
     "id": "115604876650618779",
@@ -257,7 +357,11 @@
     "description": "승: KRX\nLCK · 플레이-인\nKIWOOM DRX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "BRO"
+    ]
   },
   {
     "id": "115604876650880927",
@@ -267,7 +371,11 @@
     "description": "승: DNS\nLCK · 플레이-인\nkt Rolster vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DNS"
+    ]
   },
   {
     "id": "115604876650880931",
@@ -277,7 +385,11 @@
     "description": "승: DK\nLCK · 플레이-인\nKIWOOM DRX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "DK"
+    ]
   },
   {
     "id": "115604876650946471",
@@ -287,7 +399,11 @@
     "description": "승: DNS\nLCK · 플레이-인\nNONGSHIM RED FORCE vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "DNS"
+    ]
   },
   {
     "id": "115604876650946475",
@@ -297,7 +413,11 @@
     "description": "승: KRX\nLCK · 플레이-인\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "NS"
+    ]
   },
   {
     "id": "115604876650946481",
@@ -307,7 +427,11 @@
     "description": "승: BFX\nLCK · 플레이오프\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DNS"
+    ]
   },
   {
     "id": "115604876650946487",
@@ -317,7 +441,11 @@
     "description": "승: DK\nLCK · 플레이오프\nKIWOOM DRX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "DK"
+    ]
   },
   {
     "id": "115604876650946499",
@@ -327,7 +455,11 @@
     "description": "승: GEN\nLCK · 플레이오프\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DK"
+    ]
   },
   {
     "id": "115604876650946493",
@@ -337,7 +469,11 @@
     "description": "승: BFX\nLCK · 플레이오프\nT1 vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BFX"
+    ]
   },
   {
     "id": "115604876650946505",
@@ -347,7 +483,11 @@
     "description": "승: DNS\nLCK · 플레이오프\nDN SOOPers vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "KRX"
+    ]
   },
   {
     "id": "115604876650946517",
@@ -357,7 +497,11 @@
     "description": "승: DK\nLCK · 플레이오프\nDplus KIA vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "DNS"
+    ]
   },
   {
     "id": "115604876650946511",
@@ -367,7 +511,11 @@
     "description": "승: GEN\nLCK · 플레이오프\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "GEN"
+    ]
   },
   {
     "id": "115604876650946523",
@@ -377,7 +525,11 @@
     "description": "승: DK\nLCK · 플레이오프\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "DK"
+    ]
   },
   {
     "id": "115604876650946529",
@@ -387,7 +539,11 @@
     "description": "승: BFX\nLCK · 플레이오프\nBNK FEARX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DK"
+    ]
   },
   {
     "id": "115604876650946535",
@@ -397,7 +553,11 @@
     "description": "승: GEN\nLCK · 결승\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 결승",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "GEN"
+    ]
   },
   {
     "id": "115570888977308363",
@@ -407,7 +567,11 @@
     "description": "승: BLG\nFirst Stand · 그룹\nBNK FEARX vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "First Stand · 그룹",
     "league": "FST",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "BLG"
+    ]
   },
   {
     "id": "115570888977308393",
@@ -417,7 +581,11 @@
     "description": "승: GEN\nFirst Stand · 그룹\nBeijing JDG Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "First Stand · 그룹",
     "league": "FST",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "GEN"
+    ]
   },
   {
     "id": "115846976541810692",
@@ -427,7 +595,11 @@
     "description": "승: BFX\nFirst Stand · 그룹\nTeam Secret Whales vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "First Stand · 그룹",
     "league": "FST",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "TSW",
+      "BFX"
+    ]
   },
   {
     "id": "115570888977308405",
@@ -437,7 +609,11 @@
     "description": "승: GEN\nFirst Stand · 그룹\nLYON vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "First Stand · 그룹",
     "league": "FST",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "GEN"
+    ]
   },
   {
     "id": "115570888977308387",
@@ -447,7 +623,11 @@
     "description": "승: G2\nFirst Stand · 그룹\nBNK FEARX vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "First Stand · 그룹",
     "league": "FST",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "G2"
+    ]
   },
   {
     "id": "115570888977308429",
@@ -457,7 +637,11 @@
     "description": "승: G2\nFirst Stand · 4강\nG2 Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "First Stand · 4강",
     "league": "FST",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "G2",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962840607",
@@ -467,7 +651,11 @@
     "description": "승: HLE\nLCK · 1주 차\nHANJIN BRION vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962840651",
@@ -477,7 +665,11 @@
     "description": "승: KT\nLCK · 1주 차\nkt Rolster vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "T1"
+    ]
   },
   {
     "id": "115548128962906291",
@@ -487,7 +679,11 @@
     "description": "승: NS\nLCK · 1주 차\nNONGSHIM RED FORCE vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "DK"
+    ]
   },
   {
     "id": "115548128962906247",
@@ -497,7 +693,11 @@
     "description": "승: DNS\nLCK · 1주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962906275",
@@ -507,7 +707,11 @@
     "description": "승: KT\nLCK · 1주 차\nkt Rolster vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962840667",
@@ -517,7 +721,11 @@
     "description": "승: BRO\nLCK · 1주 차\nHANJIN BRION vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "BFX"
+    ]
   },
   {
     "id": "115548128962578451",
@@ -527,7 +735,11 @@
     "description": "승: T1\nLCK · 1주 차\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "T1"
+    ]
   },
   {
     "id": "115548128962906295",
@@ -537,7 +749,11 @@
     "description": "승: DK\nLCK · 1주 차\nDplus KIA vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962906243",
@@ -547,7 +763,11 @@
     "description": "승: NS\nLCK · 1주 차\nNONGSHIM RED FORCE vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962840671",
@@ -557,7 +777,11 @@
     "description": "승: GEN\nLCK · 1주 차\nGen.G Esports vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 1주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "BFX"
+    ]
   },
   {
     "id": "115548128962840615",
@@ -567,7 +791,11 @@
     "description": "승: HLE\nLCK · 2주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "DK"
+    ]
   },
   {
     "id": "115548128962840643",
@@ -577,7 +805,11 @@
     "description": "승: GEN\nLCK · 2주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "T1"
+    ]
   },
   {
     "id": "115548128962906267",
@@ -587,7 +819,11 @@
     "description": "승: KRX\nLCK · 2주 차\nKIWOOM DRX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962906299",
@@ -597,7 +833,11 @@
     "description": "승: KT\nLCK · 2주 차\nNONGSHIM RED FORCE vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "KT"
+    ]
   },
   {
     "id": "115548128962840635",
@@ -607,7 +847,11 @@
     "description": "승: T1\nLCK · 2주 차\nDN SOOPers vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "T1"
+    ]
   },
   {
     "id": "115548128962840599",
@@ -617,7 +861,11 @@
     "description": "승: HLE\nLCK · 2주 차\nBNK FEARX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962906307",
@@ -627,7 +875,11 @@
     "description": "승: KRX\nLCK · 2주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "NS"
+    ]
   },
   {
     "id": "115548128962906271",
@@ -637,7 +889,11 @@
     "description": "승: DK\nLCK · 2주 차\nDplus KIA vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962840663",
@@ -647,7 +903,11 @@
     "description": "승: BFX\nLCK · 2주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962906259",
@@ -657,7 +917,11 @@
     "description": "승: KT\nLCK · 2주 차\nkt Rolster vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 2주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962906219",
@@ -667,7 +931,11 @@
     "description": "승: NS\nLCK · 3주 차\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "NS"
+    ]
   },
   {
     "id": "115548128962906287",
@@ -677,7 +945,11 @@
     "description": "승: KT\nLCK · 3주 차\nDplus KIA vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "KT"
+    ]
   },
   {
     "id": "115548128962906251",
@@ -687,7 +959,11 @@
     "description": "승: GEN\nLCK · 3주 차\nHANJIN BRION vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962840603",
@@ -697,7 +973,11 @@
     "description": "승: HLE\nLCK · 3주 차\nDN SOOPers vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962906223",
@@ -707,7 +987,11 @@
     "description": "승: BFX\nLCK · 3주 차\nBNK FEARX vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962840647",
@@ -717,7 +1001,11 @@
     "description": "승: DK\nLCK · 3주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "DK"
+    ]
   },
   {
     "id": "115548128962840611",
@@ -727,7 +1015,11 @@
     "description": "승: HLE\nLCK · 3주 차\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962906239",
@@ -737,7 +1029,11 @@
     "description": "승: KT\nLCK · 3주 차\nDN SOOPers vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "KT"
+    ]
   },
   {
     "id": "115548128962906263",
@@ -747,7 +1043,11 @@
     "description": "승: NS\nLCK · 3주 차\nHANJIN BRION vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "NS"
+    ]
   },
   {
     "id": "115548128962840659",
@@ -757,7 +1057,11 @@
     "description": "승: T1\nLCK · 3주 차\nT1 vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 3주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962906303",
@@ -767,7 +1071,11 @@
     "description": "승: KT\nLCK · 4주 차\nKIWOOM DRX vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "KT"
+    ]
   },
   {
     "id": "115548128962840623",
@@ -777,7 +1085,11 @@
     "description": "승: HLE\nLCK · 4주 차\nHanwha Life Esports vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "NS"
+    ]
   },
   {
     "id": "115548128962906255",
@@ -787,7 +1099,11 @@
     "description": "승: DK\nLCK · 4주 차\nHANJIN BRION vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "DK"
+    ]
   },
   {
     "id": "115548128962906231",
@@ -797,7 +1113,11 @@
     "description": "승: GEN\nLCK · 4주 차\nDN SOOPers vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962906215",
@@ -807,7 +1127,11 @@
     "description": "승: KT\nLCK · 4주 차\nBNK FEARX vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "KT"
+    ]
   },
   {
     "id": "115548128962840627",
@@ -817,7 +1141,11 @@
     "description": "승: HLE\nLCK · 4주 차\nKIWOOM DRX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962840639",
@@ -827,7 +1155,11 @@
     "description": "승: T1\nLCK · 4주 차\nHANJIN BRION vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "T1"
+    ]
   },
   {
     "id": "115548128962906235",
@@ -837,7 +1169,11 @@
     "description": "승: DK\nLCK · 4주 차\nDplus KIA vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962840631",
@@ -847,7 +1183,11 @@
     "description": "승: T1\nLCK · 4주 차\nBNK FEARX vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "T1"
+    ]
   },
   {
     "id": "115548128962906279",
@@ -857,7 +1197,11 @@
     "description": "승: GEN\nLCK · 4주 차\nNONGSHIM RED FORCE vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 4주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962840655",
@@ -867,7 +1211,11 @@
     "description": "승: T1\nLCK · 5주 차\nNONGSHIM RED FORCE vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "T1"
+    ]
   },
   {
     "id": "115548128962840619",
@@ -877,7 +1225,11 @@
     "description": "승: HLE\nLCK · 5주 차\nkt Rolster vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962906283",
@@ -887,7 +1239,11 @@
     "description": "승: GEN\nLCK · 5주 차\nGen.G Esports vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962840675",
@@ -897,7 +1253,11 @@
     "description": "승: DK\nLCK · 5주 차\nBNK FEARX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DK"
+    ]
   },
   {
     "id": "115548128962906227",
@@ -907,7 +1267,11 @@
     "description": "승: BRO\nLCK · 5주 차\nHANJIN BRION vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962906311",
@@ -917,7 +1281,11 @@
     "description": "승: HLE\nLCK · 5주 차\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "T1"
+    ]
   },
   {
     "id": "115548128963037523",
@@ -927,7 +1295,11 @@
     "description": "승: GEN\nLCK · 5주 차\nDplus KIA vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "GEN"
+    ]
   },
   {
     "id": "115548128963037559",
@@ -937,7 +1309,11 @@
     "description": "승: KRX\nLCK · 5주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "NS"
+    ]
   },
   {
     "id": "115548128963037511",
@@ -947,7 +1323,11 @@
     "description": "승: BRO\nLCK · 5주 차\nkt Rolster vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962971915",
@@ -957,7 +1337,11 @@
     "description": "승: BFX\nLCK · 5주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 5주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DNS"
+    ]
   },
   {
     "id": "115548128963037531",
@@ -967,7 +1351,11 @@
     "description": "승: GEN\nLCK · 6주 차\nNONGSHIM RED FORCE vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962971855",
@@ -977,7 +1365,11 @@
     "description": "승: HLE\nLCK · 6주 차\nDN SOOPers vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "HLE"
+    ]
   },
   {
     "id": "115548128963037539",
@@ -987,7 +1379,11 @@
     "description": "승: KT\nLCK · 6주 차\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DK"
+    ]
   },
   {
     "id": "115548128962971919",
@@ -997,7 +1393,11 @@
     "description": "승: BRO\nLCK · 6주 차\nBNK FEARX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962971887",
@@ -1007,7 +1407,11 @@
     "description": "승: T1\nLCK · 6주 차\nT1 vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "DNS"
+    ]
   },
   {
     "id": "115548128963037535",
@@ -1017,7 +1421,11 @@
     "description": "승: GEN\nLCK · 6주 차\nGen.G Esports vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962971931",
@@ -1027,7 +1435,11 @@
     "description": "승: BFX\nLCK · 6주 차\nkt Rolster vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "BFX"
+    ]
   },
   {
     "id": "115548128963037515",
@@ -1037,7 +1449,11 @@
     "description": "승: BRO\nLCK · 6주 차\nHANJIN BRION vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "NS"
+    ]
   },
   {
     "id": "115548128962971899",
@@ -1047,7 +1463,11 @@
     "description": "승: T1\nLCK · 6주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "DK"
+    ]
   },
   {
     "id": "115548128962971879",
@@ -1057,7 +1477,11 @@
     "description": "승: HLE\nLCK · 6주 차\nKIWOOM DRX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 6주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962971907",
@@ -1067,7 +1491,11 @@
     "description": "승: T1\nLCK · 7주 차\nT1 vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "NS"
+    ]
   },
   {
     "id": "115548128962971951",
@@ -1077,7 +1505,11 @@
     "description": "승: DK\nLCK · 7주 차\nDplus KIA vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962971923",
@@ -1087,7 +1519,11 @@
     "description": "승: GEN\nLCK · 7주 차\nBNK FEARX vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "GEN"
+    ]
   },
   {
     "id": "115548128963037555",
@@ -1097,7 +1533,11 @@
     "description": "승: KT\nLCK · 7주 차\nKIWOOM DRX vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "KT"
+    ]
   },
   {
     "id": "115548128962971867",
@@ -1107,7 +1547,11 @@
     "description": "승: HLE\nLCK · 7주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "DK"
+    ]
   },
   {
     "id": "115548128962971943",
@@ -1117,7 +1561,11 @@
     "description": "승: BRO\nLCK · 7주 차\nHANJIN BRION vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962971895",
@@ -1127,7 +1575,11 @@
     "description": "승: T1\nLCK · 7주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "T1"
+    ]
   },
   {
     "id": "115548128962971935",
@@ -1137,7 +1589,11 @@
     "description": "승: BFX\nLCK · 7주 차\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "NS"
+    ]
   },
   {
     "id": "115548128962971871",
@@ -1147,7 +1603,11 @@
     "description": "승: KT\nLCK · 7주 차\nkt Rolster vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "HLE"
+    ]
   },
   {
     "id": "115548128963037519",
@@ -1157,7 +1617,11 @@
     "description": "승: KRX\nLCK · 7주 차\nHANJIN BRION vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 7주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962971911",
@@ -1167,7 +1631,11 @@
     "description": "승: T1\nLCK · 8주 차\nT1 vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KRX"
+    ]
   },
   {
     "id": "115548128963037551",
@@ -1177,7 +1645,11 @@
     "description": "승: KT\nLCK · 8주 차\nNONGSHIM RED FORCE vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "KT"
+    ]
   },
   {
     "id": "115548128962906315",
@@ -1187,7 +1659,11 @@
     "description": "승: HLE\nLCK · 8주 차\nBNK FEARX vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "HLE"
+    ]
   },
   {
     "id": "115548128963037507",
@@ -1197,7 +1673,11 @@
     "description": "승: DK\nLCK · 8주 차\nDplus KIA vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962971963",
@@ -1207,7 +1687,11 @@
     "description": "승: KRX\nLCK · 8주 차\nDN SOOPers vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "KRX"
+    ]
   },
   {
     "id": "115548128963037527",
@@ -1217,7 +1701,11 @@
     "description": "승: GEN\nLCK · 8주 차\nkt Rolster vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "GEN"
+    ]
   },
   {
     "id": "115548128962971927",
@@ -1227,7 +1715,11 @@
     "description": "승: DK\nLCK · 8주 차\nDplus KIA vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "BFX"
+    ]
   },
   {
     "id": "115548128962971875",
@@ -1237,7 +1729,11 @@
     "description": "승: HLE\nLCK · 8주 차\nHanwha Life Esports vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "NS"
+    ]
   },
   {
     "id": "115548128962971947",
@@ -1247,7 +1743,11 @@
     "description": "승: GEN\nLCK · 8주 차\nGen.G Esports vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962971891",
@@ -1257,7 +1757,11 @@
     "description": "승: T1\nLCK · 8주 차\nT1 vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 8주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962971863",
@@ -1267,7 +1771,11 @@
     "description": "승: GEN\nLCK · 9주 차\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "HLE"
+    ]
   },
   {
     "id": "115548128962971939",
@@ -1277,7 +1785,11 @@
     "description": "승: BFX\nLCK · 9주 차\nBNK FEARX vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "KRX"
+    ]
   },
   {
     "id": "115548128962971959",
@@ -1287,7 +1799,11 @@
     "description": "승: NS\nLCK · 9주 차\nDN SOOPers vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "NS"
+    ]
   },
   {
     "id": "115548128962971903",
@@ -1297,7 +1813,11 @@
     "description": "승: T1\nLCK · 9주 차\nT1 vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KT"
+    ]
   },
   {
     "id": "115548128963037547",
@@ -1307,7 +1827,11 @@
     "description": "승: DK\nLCK · 9주 차\nDplus KIA vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "KRX"
+    ]
   },
   {
     "id": "115548128963037503",
@@ -1317,7 +1841,11 @@
     "description": "승: GEN\nLCK · 9주 차\nGen.G Esports vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "BRO"
+    ]
   },
   {
     "id": "115548128962971955",
@@ -1327,7 +1855,11 @@
     "description": "승: KT\nLCK · 9주 차\nkt Rolster vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DNS"
+    ]
   },
   {
     "id": "115548128962971883",
@@ -1337,7 +1869,11 @@
     "description": "승: T1\nLCK · 9주 차\nBNK FEARX vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "T1"
+    ]
   },
   {
     "id": "115548128962971859",
@@ -1347,7 +1883,11 @@
     "description": "승: HLE\nLCK · 9주 차\nHanwha Life Esports vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "BRO"
+    ]
   },
   {
     "id": "115548128963037543",
@@ -1357,7 +1897,11 @@
     "description": "승: DK\nLCK · 9주 차\nNONGSHIM RED FORCE vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 9주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "DK"
+    ]
   },
   {
     "id": "115548128963037563",
@@ -1367,7 +1911,11 @@
     "description": "승: DK\nLCK · 토너먼트 스테이지\nDplus KIA vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 토너먼트 스테이지",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "BRO"
+    ]
   },
   {
     "id": "115548128963037569",
@@ -1377,7 +1925,11 @@
     "description": "승: KT\nLCK · 토너먼트 스테이지\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 토너먼트 스테이지",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DK"
+    ]
   },
   {
     "id": "115548128963037575",
@@ -1387,7 +1939,11 @@
     "description": "승: HLE\nLCK · 토너먼트 스테이지\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 토너먼트 스테이지",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "T1"
+    ]
   },
   {
     "id": "115548128963037581",
@@ -1397,7 +1953,11 @@
     "description": "승: GEN\nLCK · 토너먼트 스테이지\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 토너먼트 스테이지",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KT"
+    ]
   },
   {
     "id": "115548128963037587",
@@ -1407,7 +1967,11 @@
     "description": "승: T1\nLCK · 토너먼트 스테이지\nT1 vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 토너먼트 스테이지",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "GEN"
+    ]
   },
   {
     "id": "115570934355614497",
@@ -1417,7 +1981,11 @@
     "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 플레이-인 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "TLAW"
+    ]
   },
   {
     "id": "115570934355614509",
@@ -1427,7 +1995,11 @@
     "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 플레이-인 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KC"
+    ]
   },
   {
     "id": "115570969745329263",
@@ -1437,7 +2009,11 @@
     "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 플레이-인 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "TLAW"
+    ]
   },
   {
     "id": "115570934355614539",
@@ -1447,7 +2023,11 @@
     "description": "승: HLE\nMSI · 토너먼트 스테이지\nHanwha Life Esports vs Team Secret Whales\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "TSW"
+    ]
   },
   {
     "id": "115570934355614527",
@@ -1457,7 +2037,11 @@
     "description": "승: BLG\nMSI · 토너먼트 스테이지\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BLG"
+    ]
   },
   {
     "id": "115570934355614557",
@@ -1467,7 +2051,11 @@
     "description": "승: HLE\nMSI · 토너먼트 스테이지\nHanwha Life Esports vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "G2"
+    ]
   },
   {
     "id": "115570934355614563",
@@ -1477,7 +2065,11 @@
     "description": "승: T1\nMSI · 토너먼트 스테이지\nT1 vs FURIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "FUR"
+    ]
   },
   {
     "id": "115570934355614581",
@@ -1487,7 +2079,11 @@
     "description": "승: G2\nMSI · 토너먼트 스테이지\nG2 Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "G2",
+      "T1"
+    ]
   },
   {
     "id": "115570934355614575",
@@ -1497,7 +2093,11 @@
     "description": "승: BLG\nMSI · 토너먼트 스테이지\nBILIBILI GAMING vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "HLE"
+    ]
   },
   {
     "id": "115570934355614599",
@@ -1507,7 +2107,11 @@
     "description": "승: HLE\nMSI · 토너먼트 스테이지\nLYON vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 토너먼트 스테이지",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "HLE"
+    ]
   },
   {
     "id": "115570934355614605",
@@ -1517,7 +2121,11 @@
     "description": "승: HLE\nMSI · 결승\nBILIBILI GAMING vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "MSI · 결승",
     "league": "MSI",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "HLE"
+    ]
   },
   {
     "id": "116855104460702316",
@@ -1527,7 +2135,11 @@
     "description": "승: GEN\nEsports World Cup · 그룹\nGen.G Esports vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KC"
+    ]
   },
   {
     "id": "116855104460702330",
@@ -1537,7 +2149,11 @@
     "description": "승: T1\nEsports World Cup · 그룹\nGAM Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GAM",
+      "T1"
+    ]
   },
   {
     "id": "116855104460702302",
@@ -1547,7 +2163,11 @@
     "description": "승: AGAL\nEsports World Cup · 그룹\nDplus KIA vs AG.AL\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "AGAL"
+    ]
   },
   {
     "id": "116855104460702342",
@@ -1557,7 +2177,11 @@
     "description": "승: HLE\nEsports World Cup · 그룹\nMIBR.LOS vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "ML",
+      "HLE"
+    ]
   },
   {
     "id": "116855104460702306",
@@ -1567,7 +2191,11 @@
     "description": "승: DK\nEsports World Cup · 그룹\nFURIA vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "FUR",
+      "DK"
+    ]
   },
   {
     "id": "116855104460702318",
@@ -1577,7 +2205,11 @@
     "description": "승: GEN\nEsports World Cup · 그룹\nGen.G Esports vs Sentinels\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "SEN"
+    ]
   },
   {
     "id": "116855104460702332",
@@ -1587,7 +2219,11 @@
     "description": "승: BLG\nEsports World Cup · 그룹\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BLG"
+    ]
   },
   {
     "id": "116855104460702346",
@@ -1597,7 +2233,11 @@
     "description": "승: HLE\nEsports World Cup · 그룹\nBeijing JDG Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "HLE"
+    ]
   },
   {
     "id": "116855104460702338",
@@ -1607,7 +2247,11 @@
     "description": "승: T1\nEsports World Cup · 그룹\nGAM Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GAM",
+      "T1"
+    ]
   },
   {
     "id": "116855104460702310",
@@ -1617,7 +2261,11 @@
     "description": "승: DK\nEsports World Cup · 그룹\nDplus KIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 그룹",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "G2"
+    ]
   },
   {
     "id": "116855104460702356",
@@ -1627,7 +2275,11 @@
     "description": "승: T1\nEsports World Cup · 8강\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 8강",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "HLE"
+    ]
   },
   {
     "id": "116855104460702364",
@@ -1637,7 +2289,11 @@
     "description": "승: GEN\nEsports World Cup · 8강\nGen.G Esports vs Beijing JDG Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 8강",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "JDG"
+    ]
   },
   {
     "id": "116855104460702368",
@@ -1647,7 +2303,11 @@
     "description": "승: DK\nEsports World Cup · 8강\nDplus KIA vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 8강",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "BLG"
+    ]
   },
   {
     "id": "116855104460702372",
@@ -1657,7 +2317,11 @@
     "description": "승: KC\nEsports World Cup · 4강\nKarmine Corp vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 4강",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KC",
+      "T1"
+    ]
   },
   {
     "id": "116855104460702376",
@@ -1667,7 +2331,11 @@
     "description": "승: DK\nEsports World Cup · 4강\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 4강",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DK"
+    ]
   },
   {
     "id": "116855104460702386",
@@ -1677,7 +2345,11 @@
     "description": "승: GEN\nEsports World Cup · 결승\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 결승",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "T1"
+    ]
   },
   {
     "id": "116855104460702380",
@@ -1687,7 +2359,11 @@
     "description": "승: DK\nEsports World Cup · 결승\nKarmine Corp vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "Esports World Cup · 결승",
     "league": "EWC",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KC",
+      "DK"
+    ]
   },
   {
     "id": "115548147900684661",
@@ -1697,7 +2373,11 @@
     "description": "승: NS\nLCK · 10주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "NS"
+    ]
   },
   {
     "id": "115548147900553461",
@@ -1707,7 +2387,11 @@
     "description": "승: KT\nLCK · 10주 차\nT1 vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KT"
+    ]
   },
   {
     "id": "115548147900684657",
@@ -1717,7 +2401,11 @@
     "description": "승: BFX\nLCK · 10주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DNS"
+    ]
   },
   {
     "id": "115548147900553453",
@@ -1727,7 +2415,11 @@
     "description": "승: DK\nLCK · 10주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "DK"
+    ]
   },
   {
     "id": "115548147900553457",
@@ -1737,7 +2429,11 @@
     "description": "승: T1\nLCK · 10주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "T1"
+    ]
   },
   {
     "id": "115548147900684637",
@@ -1747,7 +2443,11 @@
     "description": "승: KRX\nLCK · 10주 차\nKIWOOM DRX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "BRO"
+    ]
   },
   {
     "id": "115548147900684653",
@@ -1757,7 +2457,11 @@
     "description": "승: NS\nLCK · 10주 차\nNONGSHIM RED FORCE vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "BFX"
+    ]
   },
   {
     "id": "115548147900553473",
@@ -1767,7 +2471,11 @@
     "description": "승: DK\nLCK · 10주 차\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DK"
+    ]
   },
   {
     "id": "115548147900684645",
@@ -1777,7 +2485,11 @@
     "description": "승: DNS\nLCK · 10주 차\nHANJIN BRION vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "DNS"
+    ]
   },
   {
     "id": "115548147900553449",
@@ -1787,7 +2499,11 @@
     "description": "승: KT\nLCK · 10주 차\nHanwha Life Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 10주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "KT"
+    ]
   },
   {
     "id": "115548147900684641",
@@ -1797,7 +2513,11 @@
     "description": "승: BRO\nLCK · 11주 차\nNONGSHIM RED FORCE vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "BRO"
+    ]
   },
   {
     "id": "115548147900553445",
@@ -1807,7 +2527,11 @@
     "description": "승: GEN\nLCK · 11주 차\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "HLE"
+    ]
   },
   {
     "id": "115548147900684665",
@@ -1817,7 +2541,11 @@
     "description": "승: KRX\nLCK · 11주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "DNS"
+    ]
   },
   {
     "id": "115548147900553465",
@@ -1827,7 +2555,11 @@
     "description": "승: T1\nLCK · 11주 차\nT1 vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "DK"
+    ]
   },
   {
     "id": "115548147900553469",
@@ -1837,7 +2569,11 @@
     "description": "승: GEN\nLCK · 11주 차\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KT"
+    ]
   },
   {
     "id": "115548147900684633",
@@ -1847,7 +2583,11 @@
     "description": "승: BRO\nLCK · 11주 차\nHANJIN BRION vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "BFX"
+    ]
   },
   {
     "id": "115548147900487905",
@@ -1857,7 +2597,11 @@
     "description": "승: HLE\nLCK · 11주 차\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "HLE"
+    ]
   },
   {
     "id": "115548147900684669",
@@ -1867,7 +2611,11 @@
     "description": "승: DNS\nLCK · 11주 차\nDN SOOPers vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "NS"
+    ]
   },
   {
     "id": "115548147900553477",
@@ -1877,7 +2625,11 @@
     "description": "승: DK\nLCK · 11주 차\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DK"
+    ]
   },
   {
     "id": "115548147900684649",
@@ -1887,7 +2639,11 @@
     "description": "승: BFX\nLCK · 11주 차\nBNK FEARX vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 11주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "KRX"
+    ]
   },
   {
     "id": "115548147900750245",
@@ -1897,7 +2653,11 @@
     "description": "승: DNS\nLCK · 12주 차\nNONGSHIM RED FORCE vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "DNS"
+    ]
   },
   {
     "id": "115548147900684589",
@@ -1907,7 +2667,11 @@
     "description": "승: DK\nLCK · 12주 차\nDplus KIA vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "KT"
+    ]
   },
   {
     "id": "115548147900750225",
@@ -1917,7 +2681,11 @@
     "description": "승: BFX\nLCK · 12주 차\nKIWOOM DRX vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "BFX"
+    ]
   },
   {
     "id": "115548147900619021",
@@ -1927,7 +2695,11 @@
     "description": "승: GEN\nLCK · 12주 차\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "GEN"
+    ]
   },
   {
     "id": "115548147900619041",
@@ -1937,7 +2709,11 @@
     "description": "승: DK\nLCK · 12주 차\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "T1"
+    ]
   },
   {
     "id": "115548147900684681",
@@ -1947,7 +2723,11 @@
     "description": "승: NS\nLCK · 12주 차\nHANJIN BRION vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "NS"
+    ]
   },
   {
     "id": "115548147900619025",
@@ -1957,7 +2737,11 @@
     "description": "승: HLE\nLCK · 12주 차\nkt Rolster vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "HLE"
+    ]
   },
   {
     "id": "115548147900750233",
@@ -1967,7 +2751,11 @@
     "description": "승: DNS\nLCK · 12주 차\nBNK FEARX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DNS"
+    ]
   },
   {
     "id": "115548147900619033",
@@ -1977,7 +2765,11 @@
     "description": "승: GEN\nLCK · 12주 차\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "T1"
+    ]
   },
   {
     "id": "115548147900684677",
@@ -1987,7 +2779,11 @@
     "description": "승: BRO\nLCK · 12주 차\nHANJIN BRION vs KIWOOM DRX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 12주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "KRX"
+    ]
   },
   {
     "id": "115548147900619045",
@@ -1997,7 +2793,11 @@
     "description": "승: GEN\nLCK · 13주 차\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KT"
+    ]
   },
   {
     "id": "115548147900684685",
@@ -2007,7 +2807,11 @@
     "description": "승: BRO\nLCK · 13주 차\nDN SOOPers vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DNS",
+      "BRO"
+    ]
   },
   {
     "id": "115548147900619029",
@@ -2017,7 +2821,11 @@
     "description": "승: HLE\nLCK · 13주 차\nHanwha Life Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "DK"
+    ]
   },
   {
     "id": "115548147900750237",
@@ -2027,7 +2835,11 @@
     "description": "승: NS\nLCK · 13주 차\nKIWOOM DRX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "NS"
+    ]
   },
   {
     "id": "115548147900684673",
@@ -2037,7 +2849,11 @@
     "description": "승: BFX\nLCK · 13주 차\nBNK FEARX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "BRO"
+    ]
   },
   {
     "id": "115548147900619037",
@@ -2047,7 +2863,11 @@
     "description": "승: T1\nLCK · 13주 차\nT1 vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KT"
+    ]
   },
   {
     "id": "115548147900619049",
@@ -2057,7 +2877,11 @@
     "description": "승: DK\nLCK · 13주 차\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DK"
+    ]
   },
   {
     "id": "115548147900750241",
@@ -2067,7 +2891,11 @@
     "description": "승: DNS\nLCK · 13주 차\nKIWOOM DRX vs DN SOOPers\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KRX",
+      "DNS"
+    ]
   },
   {
     "id": "115548147900553481",
@@ -2077,7 +2905,11 @@
     "description": "승: HLE\nLCK · 13주 차\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "HLE"
+    ]
   },
   {
     "id": "115548147900750229",
@@ -2087,7 +2919,11 @@
     "description": "승: NS\nLCK · 13주 차\nNONGSHIM RED FORCE vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 13주 차",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "NS",
+      "BFX"
+    ]
   },
   {
     "id": "117030752644841571",
@@ -2097,7 +2933,11 @@
     "description": "승: KT\nLCK · 플레이-인\nHANJIN BRION vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BRO",
+      "KT"
+    ]
   },
   {
     "id": "117030752644841577",
@@ -2107,7 +2947,11 @@
     "description": "승: BFX\nLCK · 플레이-인\nBNK FEARX vs NONGSHIM RED FORCE\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "NS"
+    ]
   },
   {
     "id": "117030752644841583",
@@ -2117,7 +2961,11 @@
     "description": "승: BFX\nLCK · 플레이-인\nBNK FEARX vs HANJIN BRION\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이-인",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "BRO"
+    ]
   },
   {
     "id": "117030752644841589",
@@ -2127,7 +2975,11 @@
     "description": "승: T1\nLCK · 플레이오프\nBNK FEARX vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "T1"
+    ]
   },
   {
     "id": "117030752644841595",
@@ -2137,7 +2989,11 @@
     "description": "승: KT\nLCK · 플레이오프\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DK"
+    ]
   },
   {
     "id": "117030752644841601",
@@ -2147,7 +3003,11 @@
     "description": "승: GEN\nLCK · 플레이오프\nGen.G Esports vs kt Rolster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KT"
+    ]
   },
   {
     "id": "117030752644841607",
@@ -2157,7 +3017,11 @@
     "description": "승: HLE\nLCK · 플레이오프\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "HLE"
+    ]
   },
   {
     "id": "117030752644841613",
@@ -2167,7 +3031,11 @@
     "description": "승: DK\nLCK · 플레이오프\nBNK FEARX vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "DK"
+    ]
   },
   {
     "id": "117030752644841625",
@@ -2177,7 +3045,11 @@
     "description": "승: DK\nLCK · 플레이오프\nkt Rolster vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "KT",
+      "DK"
+    ]
   },
   {
     "id": "117030752644841619",
@@ -2187,7 +3059,11 @@
     "description": "승: GEN\nLCK · 플레이오프\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "GEN"
+    ]
   },
   {
     "id": "117030752644841631",
@@ -2197,7 +3073,11 @@
     "description": "승: T1\nLCK · 플레이오프\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "T1"
+    ]
   },
   {
     "id": "117030752644841637",
@@ -2207,7 +3087,11 @@
     "description": "승: HLE\nLCK · 플레이오프\nHanwha Life Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 플레이오프",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "T1"
+    ]
   },
   {
     "id": "117030752644841643",
@@ -2217,7 +3101,11 @@
     "description": "승: GEN\nLCK · 결승\nGen.G Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "LCK · 결승",
     "league": "LCK",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "HLE"
+    ]
   },
   {
     "id": "115660540726095005",
@@ -2227,7 +3115,11 @@
     "description": "승: GEN\n월드 챔피언십 · 스위스\nInvictus Gaming vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "IG",
+      "GEN"
+    ]
   },
   {
     "id": "115660540726095013",
@@ -2237,7 +3129,11 @@
     "description": "승: HLE\n월드 챔피언십 · 스위스\nTOP ESPORTS vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "TES",
+      "HLE"
+    ]
   },
   {
     "id": "115660540726095011",
@@ -2247,7 +3143,11 @@
     "description": "승: DK\n월드 챔피언십 · 스위스\nDplus KIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "G2"
+    ]
   },
   {
     "id": "115660540726095015",
@@ -2257,7 +3157,11 @@
     "description": "승: T1\n월드 챔피언십 · 스위스\nLOS vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "LOS",
+      "T1"
+    ]
   },
   {
     "id": "115660540726095025",
@@ -2267,7 +3171,11 @@
     "description": "승: GEN\n월드 챔피언십 · 스위스\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "GEN"
+    ]
   },
   {
     "id": "115660540726095027",
@@ -2277,7 +3185,11 @@
     "description": "승: DK\n월드 챔피언십 · 스위스\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "DK",
+      "T1"
+    ]
   },
   {
     "id": "115660540726095045",
@@ -2287,7 +3199,11 @@
     "description": "승: IG\n월드 챔피언십 · 스위스\nInvictus Gaming vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "IG",
+      "HLE"
+    ]
   },
   {
     "id": "115660540726095037",
@@ -2297,7 +3213,11 @@
     "description": "승: DK\n월드 챔피언십 · 스위스\nMovistar KOI vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "MKOI",
+      "DK"
+    ]
   },
   {
     "id": "115660540726095041",
@@ -2307,7 +3227,11 @@
     "description": "승: GEN\n월드 챔피언십 · 스위스\nLYON vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "GEN"
+    ]
   },
   {
     "id": "115660540726095049",
@@ -2317,7 +3241,11 @@
     "description": "승: T1\n월드 챔피언십 · 스위스\nT1 vs CTBC Flying Oyster\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "completed"
+    "state": "completed",
+    "teams": [
+      "T1",
+      "CFO"
+    ]
   },
   {
     "id": "115660540726095061",
@@ -2327,7 +3255,11 @@
     "description": "월드 챔피언십 · 스위스\nMovistar KOI vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "MKOI",
+      "T1"
+    ]
   },
   {
     "id": "115660540726095081",
@@ -2337,7 +3269,11 @@
     "description": "월드 챔피언십 · 스위스\nG2 Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "G2",
+      "HLE"
+    ]
   },
   {
     "id": "115660540726095085",
@@ -2347,7 +3283,11 @@
     "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095089",
@@ -2357,7 +3297,11 @@
     "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095093",
@@ -2367,7 +3311,11 @@
     "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095097",
@@ -2377,7 +3325,11 @@
     "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095103",
@@ -2387,7 +3339,11 @@
     "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095109",
@@ -2397,7 +3353,11 @@
     "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095115",
@@ -2407,7 +3367,11 @@
     "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095121",
@@ -2417,7 +3381,11 @@
     "description": "월드 챔피언십 · 4강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 4강",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095127",
@@ -2427,7 +3395,11 @@
     "description": "월드 챔피언십 · 4강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 4강",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   },
   {
     "id": "115660540726095133",
@@ -2437,6 +3409,10 @@
     "description": "월드 챔피언십 · 결승\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 결승",
     "league": "Worlds",
-    "state": "unstarted"
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
   }
 ]

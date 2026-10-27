@@ -8,6 +8,11 @@
 - 국제대회의 TBD 경기(LCK 팀이 들어갈 수 있는 자리). 상대가 확정되어 LCK 팀이 없으면 자동으로 빠진다
 - LCK 팀 = 그 해 LCK 리그 경기에 나온 팀 코드. LCK CL(2군)은 제외
 
+**팀별 캘린더**: `docs/teams/<팀코드 소문자>.ics`(목록 `docs/teams.json`). 그 팀 경기 + 그 팀이 나선 대회의 TBD 경기.
+안내 페이지에서 팀마다 애플 구독(webcal) / Google "URL로 추가" / 주소 복사 버튼을 제공한다.
+- Google·갤럭시(삼성 캘린더는 Google 계정 캘린더로 표시)는 URL 구독이라 Google이 몇 시간~하루 간격으로만 갱신한다. 빠른 갱신이 필요하면 안드로이드 ICSx⁵ 같은 구독 앱 사용
+- 팀 코드가 바뀌면(리브랜딩) 새 파일이 생기고 옛 파일은 지우지 않고 마지막 상태로 남는다. 구독자는 새 주소로 다시 구독해야 한다
+
 ```
 lolesports API ─(15분 cron)→ GitHub Actions → docs/lck.ics + lck.json → GitHub Pages
                                                 애플/Outlook: webcal 구독 ←──────┤
@@ -16,7 +21,7 @@ lolesports API ─(15분 cron)→ GitHub Actions → docs/lck.ics + lck.json →
 
 | 파일 | 역할 |
 |---|---|
-| `fetch_schedule.py` | API 수집 → `docs/lck.ics`, `docs/lck.json` 생성. 실패 시 기존 파일 보존(exit 1), 변경 없으면 `NO_CHANGE` |
+| `fetch_schedule.py` | API 수집 → `docs/lck.ics`, `docs/lck.json`, `docs/teams/*.ics`, `docs/teams.json` 생성. 실패 시 기존 파일 보존(exit 1), 변경 없으면 `NO_CHANGE` |
 | `.github/workflows/update.yml` | 15분 cron + 수동 실행. 변경 시에만 커밋·푸시 |
 | `docs/index.html` | 구독 안내 페이지(Pages 루트) |
 | `apps-script/Code.gs` | `lck.json` → Google 캘린더 미러(복붙용) |
