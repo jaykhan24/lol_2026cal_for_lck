@@ -93,13 +93,14 @@
 
   <footer>
     아이폰은 설정 › 캘린더 › 계정 › 구독 캘린더에서 "새로고침"을 15분마다로 바꾸면 스코어가 빨리 반영됩니다.<br>
-    Google·갤럭시: "Google" 버튼으로 추가한 캘린더는 Google이 몇 시간~하루 간격으로 가져와 스코어가 늦게 반영됩니다. 더 빨리 받으려면 안드로이드에서 ICSx⁵ 같은 구독 앱에 복사한 주소를 넣으세요.<br>
+    Google·갤럭시: "Google" 버튼은 15분마다 갱신되는 공개 Google 캘린더를 추가합니다. 갤럭시 삼성 캘린더에는 Google 계정 캘린더로 표시됩니다.<br>
     데이터: lolesports.com 공개 일정 · 시간은 한국 시간(KST)
   </footer>
 </main>
 <script>
-  // 4·5단계 후 사람이 채운다: Google 캘린더 › 설정 › 캘린더 통합의 공개 URL
-  const GOOGLE_CAL_URL = 'https://calendar.google.com/calendar/u/0?cid=<CALENDAR_ID_BASE64>';
+  // Apps Script logLinks() 출력을 붙여 넣는다: { "ALL": "https://calendar.google.com/...?cid=...", "T1": "...", ... }
+  // 비어 있는 키는 ICS 주소를 Google "URL로 추가"하는 링크로 대신한다(갱신이 느림)
+  const GOOGLE_LINKS = {};
 
   const base = new URL('.', location.href);
   const httpsUrl = path => new URL(path, base).href;
@@ -121,9 +122,8 @@
   document.getElementById('ics-url').value = httpsUrl('lck.ics');
   document.getElementById('ics-open').href = webcalUrl('lck.ics');
 
-  // Google 미러 캘린더 연결 전에는 ICS 주소를 Google에 직접 추가하게 한다
-  const gcalReady = !GOOGLE_CAL_URL.includes('<');
-  const gcalLink = gcalReady ? GOOGLE_CAL_URL : googleAddUrl('lck.ics');
+  const googleLink = (key, path) => GOOGLE_LINKS[key] || googleAddUrl(path);
+  const gcalLink = googleLink('ALL', 'lck.ics');
   document.getElementById('gcal-url').value = gcalLink;
   document.getElementById('gcal-open').href = gcalLink;
 
@@ -149,7 +149,7 @@
 
         const apple = Object.assign(document.createElement('a'), { className: 'btn', href: webcalUrl(t.file), textContent: '애플 구독' });
         const google = Object.assign(document.createElement('a'), {
-          className: 'btn secondary', href: googleAddUrl(t.file), target: '_blank', rel: 'noopener', textContent: 'Google'
+          className: 'btn secondary', href: googleLink(t.code, t.file), target: '_blank', rel: 'noopener', textContent: 'Google'
         });
         const copy = Object.assign(document.createElement('button'), { className: 'secondary', textContent: '주소 복사' });
         copy.addEventListener('click', () => copyText(httpsUrl(t.file), copy));

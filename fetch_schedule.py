@@ -307,7 +307,9 @@ def build_outputs(matches, lck_teams, now):
         ms = team_matches(code, matches)
         outputs[TEAMS_DIR / f"{slug}.ics"] = build_ics(
             ms, now, calname=f"{YEAR} {code} 경기 일정 (LCK)", uid_suffix=f"-{slug}")
-        teams.append({"code": code, "name": name, "file": f"teams/{slug}.ics", "matches": len(ms)})
+        # ids: Apps Script가 lck.json에서 이 팀 캘린더로 나눠 넣을 경기 목록
+        teams.append({"code": code, "name": name, "file": f"teams/{slug}.ics", "matches": len(ms),
+                      "ids": [m["id"] for m in ms]})
     outputs[TEAMS_JSON_PATH] = json.dumps(teams, ensure_ascii=False, indent=2) + "\n"
     return outputs
 
