@@ -2,6 +2,7 @@
 """lolesports API에서 2026년 LCK 1군 경기 일정을 받아 docs/lck.ics, docs/lck.json을 만든다.
 
 팀별 캘린더 docs/teams/<팀코드>.ics, 목록 docs/teams.json도 함께 만든다.
+국제대회 전 경기(지역 무관) 캘린더 docs/intl.ics, docs/intl.json도 함께 만든다.
 대상: LCK 리그 경기 전부 + 국제대회(First Stand·MSI·EWC·Worlds) 중 LCK 팀이 나오는 경기.
 LCK 팀은 그 해 LCK 리그 경기에 나온 팀 코드로 정한다(LCK CL·2군 제외, 팀명 변경 자동 반영).
 국제대회의 TBD 경기는 LCK 팀이 들어갈 수 있으므로 포함하고, 상대가 확정되어 LCK 팀이 없으면 빠진다.
@@ -44,6 +45,8 @@ ICS_PATH = DOCS / "lck.ics"
 JSON_PATH = DOCS / "lck.json"
 TEAMS_DIR = DOCS / "teams"
 TEAMS_JSON_PATH = DOCS / "teams.json"
+INTL_ICS_PATH = DOCS / "intl.ics"
+INTL_JSON_PATH = DOCS / "intl.json"
 
 
 class FetchError(Exception):
@@ -137,14 +140,16 @@ def fetch_events():
         raise FetchError(f"{YEAR}년 LCK 경기에서 팀을 찾지 못함")
 
     events = list(domestic)
+    intl_events = []  # 국제대회 전 경기
     for slug, league_id in ids.items():
         if slug == DOMESTIC:
             continue
         for e in fetch_league(slug, league_id):
+            intl_events.append(e)
             codes = team_codes(e)
             if "TBD" in codes or lck_teams.keys() & set(codes):
                 events.append(e)
-    return events, lck_teams
+    return events, lck_teams, intl_events
 
 
 def year_of(event):
@@ -297,11 +302,13 @@ def team_matches(code, matches):
     return [m for m in matches if code in m["teams"] or ("TBD" in m["teams"] and m["league"] in leagues)]
 
 
-def build_outputs(matches, lck_teams, now):
+def build_outputs(matches, lck_teams, intl_matches, now):
     """경로 → 내용. ICS는 DTSTAMP를 빼고 비교한다."""
     outputs = {
         ICS_PATH: build_ics(matches, now),
         JSON_PATH: json.dumps(matches, ensure_ascii=False, indent=2) + "\n",
+        INTL_ICS_PATH: build_ics(intl_matches, now, calname=f"{YEAR} LoL 국제대회 전 경기", uid_suffix="-intl"),
+        INTL_JSON_PATH: json.dumps(intl_matches, ensure_ascii=False, indent=2) + "\n",
     }
     teams = []
     for code, (name, image) in sorted(lck_teams.items()):
@@ -328,23 +335,24 @@ def same_content(path, new):
 def main():
     now = datetime.now(timezone.utc)
     try:
-        events, lck_teams = fetch_events()
+        events, lck_teams, intl_events = fetch_events()
     except FetchError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         return 1
 
     try:
         matches = sorted((to_match(e) for e in events), key=lambda m: (m["start"], m["id"]))
+        intl_matches = sorted((to_match(e) for e in intl_events), key=lambda m: (m["start"], m["id"]))
     except (KeyError, TypeError, ValueError) as e:
         print(f"ERROR: 이벤트 변환 실패: {e}", file=sys.stderr)
         return 1
 
-    if now > max(datetime.fromisoformat(m["end"]) for m in matches) + GRACE_AFTER_END:
+    if now > max(datetime.fromisoformat(m["end"]) for m in matches + intl_matches) + GRACE_AFTER_END:
         print("NO_CHANGE (시즌 마지막 경기 +3일 경과)")
         return 0
 
     # 팀 코드가 바뀌어 빠진 팀의 옛 파일은 지우지 않는다(구독자 쪽에서 갑자기 비지 않게)
-    changed = {p: t for p, t in build_outputs(matches, lck_teams, now).items() if not same_content(p, t)}
+    changed = {p: t for p, t in build_outputs(matches, lck_teams, intl_matches, now).items() if not same_content(p, t)}
     if not changed:
         print("NO_CHANGE")
         return 0
@@ -354,7 +362,8 @@ def main():
         write_atomic(path, text)
     by_league = {tag: sum(m["league"] == tag for m in matches) for tag in LEAGUES.values()}
     states = {s: sum(m["state"] == s for m in matches) for s in ("completed", "inProgress", "unstarted")}
-    print(f"UPDATED: {len(matches)}경기 {by_league} {states} 변경 파일 {len(changed)}개 LCK팀={sorted(lck_teams)}")
+    print(f"UPDATED: {len(matches)}경기 {by_league} {states} 국제대회 전 경기 {len(intl_matches)} "
+          f"변경 파일 {len(changed)}개 LCK팀={sorted(lck_teams)}")
     return 0
 
 

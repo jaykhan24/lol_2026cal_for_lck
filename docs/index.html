@@ -121,6 +121,10 @@
     </div>
   </div>
 
+  <h2>국제대회 전 경기</h2>
+  <p class="note">LCK 팀 경기만이 아니라 First Stand·MSI·EWC·Worlds의 모든 경기(다른 지역 팀끼리 경기 포함)를 받고 싶을 때. 위 LCK 캘린더와 따로 구독합니다.</p>
+  <div class="card"><div class="options" id="intl-options"></div></div>
+
   <h2>다가오는 경기 일정</h2>
   <p class="note">경기마다 한국어 생중계 채널로 바로 갈 수 있습니다. LCK는 치지직·SOOP에서, First Stand·MSI·월즈는 YouTube(한국어 LCK·영어 LoL Esports)에서도 볼 수 있습니다.</p>
   <div class="card"><ul class="matches" id="next"><li class="when">불러오는 중…</li></ul></div>
@@ -198,6 +202,7 @@
   }
 
   renderOptions(document.getElementById('all-options'), 'ALL', 'lck.ics');
+  renderOptions(document.getElementById('intl-options'), 'INTL', 'intl.ics');
 
   fetch('teams.json', { cache: 'no-store' })
     .then(r => r.ok ? r.json() : Promise.reject(r.status))

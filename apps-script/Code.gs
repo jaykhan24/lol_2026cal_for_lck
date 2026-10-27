@@ -1,7 +1,7 @@
 // 2026 LCK 1군 경기 일정 → 공개 Google 캘린더 미러 (script.google.com에 복붙)
 //
-// GitHub Pages의 lck.json(전체 경기)·teams.json(팀별 경기 ID)을 15분마다 한 번 읽어
-// 전체 캘린더 1개 + 팀 캘린더(LCK 팀 수만큼)에 나눠 넣는다. Riot API는 호출하지 않는다.
+// GitHub Pages의 lck.json(전체 경기)·teams.json(팀별 경기 ID)·intl.json(국제대회 전 경기)을 15분마다 한 번 읽어
+// 전체 캘린더 1개 + 팀 캘린더(LCK 팀 수만큼) + 국제대회 캘린더 1개에 나눠 넣는다. Riot API는 호출하지 않는다.
 //
 // 설정 순서
 // 1) 왼쪽 "서비스 +" → Google Calendar API 추가(식별자 Calendar) — 캘린더 공개 설정에 필요
@@ -11,6 +11,8 @@
 const BASE_URL = 'https://jaykhan24.github.io/lol_2026cal_for_lck/';
 const YEAR = 2026;
 const ALL = 'ALL';                 // 전체 캘린더 키(팀 코드와 겹치지 않음)
+const INTL = 'INTL';               // 국제대회 전 경기 캘린더 키
+const NAMES = { [ALL]: `${YEAR} LCK 1군 전체`, [INTL]: `${YEAR} LoL 국제대회 전 경기` };
 const TAG = 'lolMatchId';
 const MAX_WRITES = 150;            // 실행당 생성·수정·삭제 상한(실행 6분·캘린더 쓰기 속도 제한 대비)
 const TIME_BUDGET_MS = 4.5 * 60e3;
@@ -19,8 +21,9 @@ const props = PropertiesService.getScriptProperties();
 function setup() {
   const data = fetchData_();
   if (!data) throw new Error('lck.json·teams.json을 가져오지 못함 — BASE_URL과 Pages 상태 확인');
-  ensureCalendar_(ALL, `${YEAR} LCK 1군 전체`);
+  ensureCalendar_(ALL, NAMES[ALL]);
   data.teams.forEach(t => ensureCalendar_(t.code, `${YEAR} LCK · ${t.code}`));
+  ensureCalendar_(INTL, NAMES[INTL]);
   installTrigger();
   logLinks();
   syncAll();
@@ -38,10 +41,11 @@ function syncAll() {
 
   const byId = {};
   data.matches.forEach(m => { byId[m.id] = m; });
-  const targets = [{ key: ALL, name: `${YEAR} LCK 1군 전체`, matches: data.matches }]
+  const targets = [{ key: ALL, name: NAMES[ALL], matches: data.matches }]
     .concat(data.teams.map(t => ({
       key: t.code, name: `${YEAR} LCK · ${t.code}`, matches: t.ids.map(id => byId[id]).filter(Boolean),
-    })));
+    })))
+    .concat(data.intl ? [{ key: INTL, name: NAMES[INTL], matches: data.intl }] : []);
 
   const budget = { writes: 0, left: () => budget.writes < MAX_WRITES && Date.now() - startedAt < TIME_BUDGET_MS };
   const summary = [];
@@ -101,18 +105,20 @@ function fetchData_() {
     if (res.getResponseCode() !== 200) throw new Error(path + ' 응답 ' + res.getResponseCode());
     return res.getContentText();
   };
-  let matchesText, teamsText;
+  let matchesText, teamsText, intlText;
   try {
     matchesText = get('lck.json');
     teamsText = get('teams.json');
+    intlText = get('intl.json');
   } catch (e) {
     Logger.log('데이터를 못 가져옴 — 건너뜀: %s', e.message);
     return null;
   }
-  const matches = JSON.parse(matchesText), teams = JSON.parse(teamsText);
+  const matches = JSON.parse(matchesText), teams = JSON.parse(teamsText), intl = JSON.parse(intlText);
   if (!Array.isArray(matches) || !matches.length || !Array.isArray(teams)) return null;
-  const digest = Utilities.computeDigest(Utilities.DigestAlgorithm.MD5, matchesText + teamsText);
-  return { matches, teams, hash: Utilities.base64Encode(digest) };
+  const digest = Utilities.computeDigest(Utilities.DigestAlgorithm.MD5, matchesText + teamsText + intlText);
+  // intl.json이 비면(리그 조회 실패 등) 국제대회 캘린더는 건드리지 않는다(전부 지워지지 않게)
+  return { matches, teams, intl: Array.isArray(intl) && intl.length ? intl : null, hash: Utilities.base64Encode(digest) };
 }
 
 // 키(ALL 또는 팀 코드)에 해당하는 캘린더를 찾고, 없으면 만들어 공개로 설정한다
@@ -123,7 +129,7 @@ function ensureCalendar_(key, name) {
 
   const cal = CalendarApp.createCalendar(name, {
     timeZone: 'Asia/Seoul',
-    summary: 'LCK 1군 경기 일정·스코어 자동 갱신 · ' + BASE_URL,
+    summary: (key === INTL ? 'LoL 국제대회 전 경기' : 'LCK 1군 경기') + ' 일정·스코어 자동 갱신 · ' + BASE_URL,
     selected: key === ALL,   // 내 캘린더 목록에는 전체만 기본 표시
   });
   props.setProperty('cal:' + key, cal.getId());

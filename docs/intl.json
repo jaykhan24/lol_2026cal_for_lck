@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "115570888977308363",
+    "start": "2026-03-16T22:00:00+09:00",
+    "end": "2026-03-17T02:00:00+09:00",
+    "title": "[FST] BFX vs BLG (2 : 3)",
+    "description": "승: BLG\nFirst Stand · 그룹\nBNK FEARX vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "BLG"
+    ]
+  },
+  {
+    "id": "115570888977308369",
+    "start": "2026-03-17T03:00:00+09:00",
+    "end": "2026-03-17T07:00:00+09:00",
+    "title": "[FST] TSW vs G2 (0 : 3)",
+    "description": "승: G2\nFirst Stand · 그룹\nTeam Secret Whales vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "TSW",
+      "G2"
+    ]
+  },
+  {
+    "id": "115570888977308393",
+    "start": "2026-03-17T22:00:00+09:00",
+    "end": "2026-03-18T02:00:00+09:00",
+    "title": "[FST] JDG vs GEN (0 : 3)",
+    "description": "승: GEN\nFirst Stand · 그룹\nBeijing JDG Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "GEN"
+    ]
+  },
+  {
+    "id": "115570888977308399",
+    "start": "2026-03-18T03:00:00+09:00",
+    "end": "2026-03-18T07:00:00+09:00",
+    "title": "[FST] LYON vs LOUD (3 : 2)",
+    "description": "승: LYON\nFirst Stand · 그룹\nLYON vs LOUD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "LOUD"
+    ]
+  },
+  {
+    "id": "115570888977308375",
+    "start": "2026-03-18T22:00:00+09:00",
+    "end": "2026-03-19T02:00:00+09:00",
+    "title": "[FST] BLG vs G2 (3 : 0)",
+    "description": "승: BLG\nFirst Stand · 그룹\nBILIBILI GAMING vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "G2"
+    ]
+  },
+  {
+    "id": "115846976541810692",
+    "start": "2026-03-19T03:00:00+09:00",
+    "end": "2026-03-19T07:00:00+09:00",
+    "title": "[FST] TSW vs BFX (0 : 3)",
+    "description": "승: BFX\nFirst Stand · 그룹\nTeam Secret Whales vs BNK FEARX\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "TSW",
+      "BFX"
+    ]
+  },
+  {
+    "id": "115570888977308405",
+    "start": "2026-03-19T22:00:00+09:00",
+    "end": "2026-03-20T02:00:00+09:00",
+    "title": "[FST] LYON vs GEN (0 : 3)",
+    "description": "승: GEN\nFirst Stand · 그룹\nLYON vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "GEN"
+    ]
+  },
+  {
+    "id": "115846976541941770",
+    "start": "2026-03-20T03:00:00+09:00",
+    "end": "2026-03-20T07:00:00+09:00",
+    "title": "[FST] JDG vs LOUD (3 : 0)",
+    "description": "승: JDG\nFirst Stand · 그룹\nBeijing JDG Esports vs LOUD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "LOUD"
+    ]
+  },
+  {
+    "id": "115570888977308387",
+    "start": "2026-03-20T22:00:00+09:00",
+    "end": "2026-03-21T02:00:00+09:00",
+    "title": "[FST] BFX vs G2 (0 : 3)",
+    "description": "승: G2\nFirst Stand · 그룹\nBNK FEARX vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "BFX",
+      "G2"
+    ]
+  },
+  {
+    "id": "115570888977308417",
+    "start": "2026-03-21T03:00:00+09:00",
+    "end": "2026-03-21T07:00:00+09:00",
+    "title": "[FST] JDG vs LYON (3 : 1)",
+    "description": "승: JDG\nFirst Stand · 그룹\nBeijing JDG Esports vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 그룹",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "LYON"
+    ]
+  },
+  {
+    "id": "115570888977308429",
+    "start": "2026-03-21T22:00:00+09:00",
+    "end": "2026-03-22T02:00:00+09:00",
+    "title": "[FST] G2 vs GEN (3 : 0)",
+    "description": "승: G2\nFirst Stand · 4강\nG2 Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 4강",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "G2",
+      "GEN"
+    ]
+  },
+  {
+    "id": "115570888977308423",
+    "start": "2026-03-22T03:00:00+09:00",
+    "end": "2026-03-22T07:00:00+09:00",
+    "title": "[FST] JDG vs BLG (0 : 3)",
+    "description": "승: BLG\nFirst Stand · 4강\nBeijing JDG Esports vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 4강",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "BLG"
+    ]
+  },
+  {
+    "id": "115570888977308435",
+    "start": "2026-03-22T22:00:00+09:00",
+    "end": "2026-03-23T02:00:00+09:00",
+    "title": "[FST] G2 vs BLG (1 : 3)",
+    "description": "승: BLG\nFirst Stand · 결승\nG2 Esports vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "First Stand · 결승",
+    "league": "FST",
+    "state": "completed",
+    "teams": [
+      "G2",
+      "BLG"
+    ]
+  },
+  {
+    "id": "115570934355614497",
+    "start": "2026-06-28T12:00:00+09:00",
+    "end": "2026-06-28T16:00:00+09:00",
+    "title": "[MSI] T1 vs TLAW (3 : 0)",
+    "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "TLAW"
+    ]
+  },
+  {
+    "id": "115570934355614503",
+    "start": "2026-06-28T17:00:00+09:00",
+    "end": "2026-06-28T21:00:00+09:00",
+    "title": "[MSI] DCG vs KC (0 : 3)",
+    "description": "승: KC\nMSI · 플레이-인 토너먼트 스테이지\nRelove Deep Cross Gaming vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "DCG",
+      "KC"
+    ]
+  },
+  {
+    "id": "115570934355614509",
+    "start": "2026-06-29T12:00:00+09:00",
+    "end": "2026-06-29T16:00:00+09:00",
+    "title": "[MSI] T1 vs KC (3 : 0)",
+    "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "KC"
+    ]
+  },
+  {
+    "id": "115846993721104369",
+    "start": "2026-06-29T17:00:00+09:00",
+    "end": "2026-06-29T21:00:00+09:00",
+    "title": "[MSI] TLAW vs DCG (3 : 0)",
+    "description": "승: TLAW\nMSI · 플레이-인 토너먼트 스테이지\nTeam Liquid Alienware vs Relove Deep Cross Gaming\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "TLAW",
+      "DCG"
+    ]
+  },
+  {
+    "id": "115570934355614521",
+    "start": "2026-06-30T17:00:00+09:00",
+    "end": "2026-06-30T21:00:00+09:00",
+    "title": "[MSI] TLAW vs KC (3 : 0)",
+    "description": "승: TLAW\nMSI · 플레이-인 토너먼트 스테이지\nTeam Liquid Alienware vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "TLAW",
+      "KC"
+    ]
+  },
+  {
+    "id": "115570969745329263",
+    "start": "2026-07-01T17:00:00+09:00",
+    "end": "2026-07-01T21:00:00+09:00",
+    "title": "[MSI] T1 vs TLAW (3 : 0)",
+    "description": "승: T1\nMSI · 플레이-인 토너먼트 스테이지\nT1 vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 플레이-인 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "TLAW"
+    ]
+  },
+  {
+    "id": "115570934355614539",
+    "start": "2026-07-03T12:00:00+09:00",
+    "end": "2026-07-03T16:00:00+09:00",
+    "title": "[MSI] HLE vs TSW (3 : 0)",
+    "description": "승: HLE\nMSI · 토너먼트 스테이지\nHanwha Life Esports vs Team Secret Whales\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "TSW"
+    ]
+  },
+  {
+    "id": "115570934355614545",
+    "start": "2026-07-03T17:00:00+09:00",
+    "end": "2026-07-03T21:00:00+09:00",
+    "title": "[MSI] TES vs G2 (2 : 3)",
+    "description": "승: G2\nMSI · 토너먼트 스테이지\nTOP ESPORTS vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "TES",
+      "G2"
+    ]
+  },
+  {
+    "id": "115570934355614533",
+    "start": "2026-07-04T12:00:00+09:00",
+    "end": "2026-07-04T16:00:00+09:00",
+    "title": "[MSI] FUR vs LYON (0 : 3)",
+    "description": "승: LYON\nMSI · 토너먼트 스테이지\nFURIA vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "FUR",
+      "LYON"
+    ]
+  },
+  {
+    "id": "115570934355614527",
+    "start": "2026-07-04T17:00:00+09:00",
+    "end": "2026-07-04T21:00:00+09:00",
+    "title": "[MSI] T1 vs BLG (2 : 3)",
+    "description": "승: BLG\nMSI · 토너먼트 스테이지\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BLG"
+    ]
+  },
+  {
+    "id": "115570934355614569",
+    "start": "2026-07-05T12:00:00+09:00",
+    "end": "2026-07-05T16:00:00+09:00",
+    "title": "[MSI] TSW vs TES (3 : 1)",
+    "description": "승: TSW\nMSI · 토너먼트 스테이지\nTeam Secret Whales vs TOP ESPORTS\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "TSW",
+      "TES"
+    ]
+  },
+  {
+    "id": "115570934355614557",
+    "start": "2026-07-05T17:00:00+09:00",
+    "end": "2026-07-05T21:00:00+09:00",
+    "title": "[MSI] HLE vs G2 (3 : 0)",
+    "description": "승: HLE\nMSI · 토너먼트 스테이지\nHanwha Life Esports vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "G2"
+    ]
+  },
+  {
+    "id": "115570934355614551",
+    "start": "2026-07-06T12:00:00+09:00",
+    "end": "2026-07-06T16:00:00+09:00",
+    "title": "[MSI] BLG vs LYON (3 : 0)",
+    "description": "승: BLG\nMSI · 토너먼트 스테이지\nBILIBILI GAMING vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "LYON"
+    ]
+  },
+  {
+    "id": "115570934355614563",
+    "start": "2026-07-06T17:00:00+09:00",
+    "end": "2026-07-06T21:00:00+09:00",
+    "title": "[MSI] T1 vs FUR (3 : 0)",
+    "description": "승: T1\nMSI · 토너먼트 스테이지\nT1 vs FURIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "FUR"
+    ]
+  },
+  {
+    "id": "115570934355614587",
+    "start": "2026-07-08T12:00:00+09:00",
+    "end": "2026-07-08T16:00:00+09:00",
+    "title": "[MSI] LYON vs TSW (3 : 0)",
+    "description": "승: LYON\nMSI · 토너먼트 스테이지\nLYON vs Team Secret Whales\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "TSW"
+    ]
+  },
+  {
+    "id": "115570934355614581",
+    "start": "2026-07-08T17:00:00+09:00",
+    "end": "2026-07-08T21:00:00+09:00",
+    "title": "[MSI] G2 vs T1 (3 : 1)",
+    "description": "승: G2\nMSI · 토너먼트 스테이지\nG2 Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "G2",
+      "T1"
+    ]
+  },
+  {
+    "id": "115570934355614575",
+    "start": "2026-07-09T17:00:00+09:00",
+    "end": "2026-07-09T21:00:00+09:00",
+    "title": "[MSI] BLG vs HLE (3 : 1)",
+    "description": "승: BLG\nMSI · 토너먼트 스테이지\nBILIBILI GAMING vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "HLE"
+    ]
+  },
+  {
+    "id": "115570934355614593",
+    "start": "2026-07-10T17:00:00+09:00",
+    "end": "2026-07-10T21:00:00+09:00",
+    "title": "[MSI] G2 vs LYON (0 : 3)",
+    "description": "승: LYON\nMSI · 토너먼트 스테이지\nG2 Esports vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "G2",
+      "LYON"
+    ]
+  },
+  {
+    "id": "115570934355614599",
+    "start": "2026-07-11T17:00:00+09:00",
+    "end": "2026-07-11T21:00:00+09:00",
+    "title": "[MSI] LYON vs HLE (2 : 3)",
+    "description": "승: HLE\nMSI · 토너먼트 스테이지\nLYON vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 토너먼트 스테이지",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "HLE"
+    ]
+  },
+  {
+    "id": "115570934355614605",
+    "start": "2026-07-12T15:00:00+09:00",
+    "end": "2026-07-12T19:00:00+09:00",
+    "title": "[MSI] BLG vs HLE (2 : 3)",
+    "description": "승: HLE\nMSI · 결승\nBILIBILI GAMING vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "MSI · 결승",
+    "league": "MSI",
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "HLE"
+    ]
+  },
+  {
+    "id": "116855104460702314",
+    "start": "2026-07-15T18:00:00+09:00",
+    "end": "2026-07-15T19:30:00+09:00",
+    "title": "[EWC] SEN vs TS (1 : 0)",
+    "description": "승: SEN\nEsports World Cup · 그룹\nSentinels vs Team Secret\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "SEN",
+      "TS"
+    ]
+  },
+  {
+    "id": "116855104460702316",
+    "start": "2026-07-15T18:00:00+09:00",
+    "end": "2026-07-15T19:30:00+09:00",
+    "title": "[EWC] GEN vs KC (1 : 0)",
+    "description": "승: GEN\nEsports World Cup · 그룹\nGen.G Esports vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "KC"
+    ]
+  },
+  {
+    "id": "116855104460702328",
+    "start": "2026-07-15T19:10:00+09:00",
+    "end": "2026-07-15T20:40:00+09:00",
+    "title": "[EWC] BLG vs MKOI (1 : 0)",
+    "description": "승: BLG\nEsports World Cup · 그룹\nBILIBILI GAMING vs Movistar KOI\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "MKOI"
+    ]
+  },
+  {
+    "id": "116855104460702330",
+    "start": "2026-07-15T19:10:00+09:00",
+    "end": "2026-07-15T20:40:00+09:00",
+    "title": "[EWC] GAM vs T1 (0 : 1)",
+    "description": "승: T1\nEsports World Cup · 그룹\nGAM Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GAM",
+      "T1"
+    ]
+  },
+  {
+    "id": "116855104460702300",
+    "start": "2026-07-15T20:20:00+09:00",
+    "end": "2026-07-15T21:50:00+09:00",
+    "title": "[EWC] FUR vs G2 (0 : 1)",
+    "description": "승: G2\nEsports World Cup · 그룹\nFURIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "FUR",
+      "G2"
+    ]
+  },
+  {
+    "id": "116855104460702302",
+    "start": "2026-07-15T20:20:00+09:00",
+    "end": "2026-07-15T21:50:00+09:00",
+    "title": "[EWC] DK vs AGAL (0 : 1)",
+    "description": "승: AGAL\nEsports World Cup · 그룹\nDplus KIA vs AG.AL\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "DK",
+      "AGAL"
+    ]
+  },
+  {
+    "id": "116855104460702342",
+    "start": "2026-07-15T21:30:00+09:00",
+    "end": "2026-07-15T23:00:00+09:00",
+    "title": "[EWC] ML vs HLE (0 : 1)",
+    "description": "승: HLE\nEsports World Cup · 그룹\nMIBR.LOS vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "ML",
+      "HLE"
+    ]
+  },
+  {
+    "id": "116855104460702344",
+    "start": "2026-07-15T21:30:00+09:00",
+    "end": "2026-07-15T23:00:00+09:00",
+    "title": "[EWC] JDG vs LYON (1 : 0)",
+    "description": "승: JDG\nEsports World Cup · 그룹\nBeijing JDG Esports vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "LYON"
+    ]
+  },
+  {
+    "id": "116855104460702320",
+    "start": "2026-07-15T23:25:00+09:00",
+    "end": "2026-07-16T01:55:00+09:00",
+    "title": "[EWC] KC vs TS (2 : 1)",
+    "description": "승: KC\nEsports World Cup · 그룹\nKarmine Corp vs Team Secret\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "TS"
+    ]
+  },
+  {
+    "id": "116855104460702334",
+    "start": "2026-07-15T23:25:00+09:00",
+    "end": "2026-07-16T01:55:00+09:00",
+    "title": "[EWC] GAM vs MKOI (2 : 1)",
+    "description": "승: GAM\nEsports World Cup · 그룹\nGAM Esports vs Movistar KOI\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GAM",
+      "MKOI"
+    ]
+  },
+  {
+    "id": "116855104460702306",
+    "start": "2026-07-16T01:55:00+09:00",
+    "end": "2026-07-16T04:25:00+09:00",
+    "title": "[EWC] FUR vs DK (0 : 2)",
+    "description": "승: DK\nEsports World Cup · 그룹\nFURIA vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "FUR",
+      "DK"
+    ]
+  },
+  {
+    "id": "116855104460702348",
+    "start": "2026-07-16T01:55:00+09:00",
+    "end": "2026-07-16T04:25:00+09:00",
+    "title": "[EWC] LYON vs ML (0 : 2)",
+    "description": "승: ML\nEsports World Cup · 그룹\nLYON vs MIBR.LOS\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "ML"
+    ]
+  },
+  {
+    "id": "116855104460702318",
+    "start": "2026-07-16T18:00:00+09:00",
+    "end": "2026-07-16T19:30:00+09:00",
+    "title": "[EWC] GEN vs SEN (1 : 0)",
+    "description": "승: GEN\nEsports World Cup · 그룹\nGen.G Esports vs Sentinels\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "SEN"
+    ]
+  },
+  {
+    "id": "116855104460702332",
+    "start": "2026-07-16T18:00:00+09:00",
+    "end": "2026-07-16T19:30:00+09:00",
+    "title": "[EWC] T1 vs BLG (0 : 1)",
+    "description": "승: BLG\nEsports World Cup · 그룹\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "BLG"
+    ]
+  },
+  {
+    "id": "116855104460702304",
+    "start": "2026-07-16T19:10:00+09:00",
+    "end": "2026-07-16T20:40:00+09:00",
+    "title": "[EWC] AGAL vs G2 (1 : 0)",
+    "description": "승: AGAL\nEsports World Cup · 그룹\nAG.AL vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "AGAL",
+      "G2"
+    ]
+  },
+  {
+    "id": "116855104460702346",
+    "start": "2026-07-16T19:10:00+09:00",
+    "end": "2026-07-16T20:40:00+09:00",
+    "title": "[EWC] JDG vs HLE (0 : 1)",
+    "description": "승: HLE\nEsports World Cup · 그룹\nBeijing JDG Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "HLE"
+    ]
+  },
+  {
+    "id": "116855104460702324",
+    "start": "2026-07-16T20:20:00+09:00",
+    "end": "2026-07-16T22:50:00+09:00",
+    "title": "[EWC] KC vs SEN (2 : 0)",
+    "description": "승: KC\nEsports World Cup · 그룹\nKarmine Corp vs Sentinels\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "SEN"
+    ]
+  },
+  {
+    "id": "116855104460702338",
+    "start": "2026-07-16T20:20:00+09:00",
+    "end": "2026-07-16T22:50:00+09:00",
+    "title": "[EWC] GAM vs T1 (0 : 2)",
+    "description": "승: T1\nEsports World Cup · 그룹\nGAM Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GAM",
+      "T1"
+    ]
+  },
+  {
+    "id": "116855104460702310",
+    "start": "2026-07-16T22:50:00+09:00",
+    "end": "2026-07-17T01:20:00+09:00",
+    "title": "[EWC] DK vs G2 (2 : 0)",
+    "description": "승: DK\nEsports World Cup · 그룹\nDplus KIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "DK",
+      "G2"
+    ]
+  },
+  {
+    "id": "116855104460702352",
+    "start": "2026-07-16T22:50:00+09:00",
+    "end": "2026-07-17T01:20:00+09:00",
+    "title": "[EWC] JDG vs ML (2 : 0)",
+    "description": "승: JDG\nEsports World Cup · 그룹\nBeijing JDG Esports vs MIBR.LOS\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 그룹",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "JDG",
+      "ML"
+    ]
+  },
+  {
+    "id": "116855104460702356",
+    "start": "2026-07-17T20:00:00+09:00",
+    "end": "2026-07-17T22:30:00+09:00",
+    "title": "[EWC] T1 vs HLE (2 : 0)",
+    "description": "승: T1\nEsports World Cup · 8강\nT1 vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "HLE"
+    ]
+  },
+  {
+    "id": "116855104460702364",
+    "start": "2026-07-17T20:00:00+09:00",
+    "end": "2026-07-17T22:30:00+09:00",
+    "title": "[EWC] GEN vs JDG (2 : 0)",
+    "description": "승: GEN\nEsports World Cup · 8강\nGen.G Esports vs Beijing JDG Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "JDG"
+    ]
+  },
+  {
+    "id": "116855104460702360",
+    "start": "2026-07-17T22:30:00+09:00",
+    "end": "2026-07-18T01:00:00+09:00",
+    "title": "[EWC] KC vs AGAL (2 : 0)",
+    "description": "승: KC\nEsports World Cup · 8강\nKarmine Corp vs AG.AL\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "AGAL"
+    ]
+  },
+  {
+    "id": "116855104460702368",
+    "start": "2026-07-17T22:30:00+09:00",
+    "end": "2026-07-18T01:00:00+09:00",
+    "title": "[EWC] DK vs BLG (2 : 1)",
+    "description": "승: DK\nEsports World Cup · 8강\nDplus KIA vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 8강",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "DK",
+      "BLG"
+    ]
+  },
+  {
+    "id": "116855104460702372",
+    "start": "2026-07-18T20:00:00+09:00",
+    "end": "2026-07-18T22:30:00+09:00",
+    "title": "[EWC] KC vs T1 (2 : 1)",
+    "description": "승: KC\nEsports World Cup · 4강\nKarmine Corp vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 4강",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "T1"
+    ]
+  },
+  {
+    "id": "116855104460702376",
+    "start": "2026-07-18T22:30:00+09:00",
+    "end": "2026-07-19T01:00:00+09:00",
+    "title": "[EWC] GEN vs DK (1 : 2)",
+    "description": "승: DK\nEsports World Cup · 4강\nGen.G Esports vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 4강",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "DK"
+    ]
+  },
+  {
+    "id": "116855104460702386",
+    "start": "2026-07-19T19:00:00+09:00",
+    "end": "2026-07-19T21:30:00+09:00",
+    "title": "[EWC] GEN vs T1 (2 : 1)",
+    "description": "승: GEN\nEsports World Cup · 결승\nGen.G Esports vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 결승",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "GEN",
+      "T1"
+    ]
+  },
+  {
+    "id": "116855104460702380",
+    "start": "2026-07-19T21:30:00+09:00",
+    "end": "2026-07-20T01:30:00+09:00",
+    "title": "[EWC] KC vs DK (0 : 3)",
+    "description": "승: DK\nEsports World Cup · 결승\nKarmine Corp vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "Esports World Cup · 결승",
+    "league": "EWC",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "DK"
+    ]
+  },
+  {
+    "id": "115660588583171786",
+    "start": "2026-10-16T03:00:00+09:00",
+    "end": "2026-10-16T07:00:00+09:00",
+    "title": "[Worlds] KC vs C9 (3 : 2)",
+    "description": "승: KC\n월드 챔피언십 · 플레이-인\nKarmine Corp vs Cloud9 Kia\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 플레이-인",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "C9"
+    ]
+  },
+  {
+    "id": "115660588583040710",
+    "start": "2026-10-16T08:00:00+09:00",
+    "end": "2026-10-16T12:00:00+09:00",
+    "title": "[Worlds] MVK vs FUR (3 : 0)",
+    "description": "승: MVK\n월드 챔피언십 · 플레이-인\nMVK Esports vs FURIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 플레이-인",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "MVK",
+      "FUR"
+    ]
+  },
+  {
+    "id": "115660588583171790",
+    "start": "2026-10-17T03:00:00+09:00",
+    "end": "2026-10-17T07:00:00+09:00",
+    "title": "[Worlds] KC vs MVK (3 : 0)",
+    "description": "승: KC\n월드 챔피언십 · 플레이-인\nKarmine Corp vs MVK Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 플레이-인",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "MVK"
+    ]
+  },
+  {
+    "id": "115660588583171794",
+    "start": "2026-10-17T08:00:00+09:00",
+    "end": "2026-10-17T12:00:00+09:00",
+    "title": "[Worlds] FUR vs C9 (3 : 1)",
+    "description": "승: FUR\n월드 챔피언십 · 플레이-인\nFURIA vs Cloud9 Kia\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 플레이-인",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "FUR",
+      "C9"
+    ]
+  },
+  {
+    "id": "115660588583171798",
+    "start": "2026-10-18T03:00:00+09:00",
+    "end": "2026-10-18T07:00:00+09:00",
+    "title": "[Worlds] MVK vs FUR (3 : 1)",
+    "description": "승: MVK\n월드 챔피언십 · 플레이-인\nMVK Esports vs FURIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 플레이-인",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "MVK",
+      "FUR"
+    ]
+  },
+  {
+    "id": "116299649498303884",
+    "start": "2026-10-19T03:00:00+09:00",
+    "end": "2026-10-19T07:00:00+09:00",
+    "title": "[Worlds] KC vs MVK (3 : 0)",
+    "description": "승: KC\n월드 챔피언십 · 플레이-인\nKarmine Corp vs MVK Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 플레이-인",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "MVK"
+    ]
+  },
+  {
+    "id": "115660540726095005",
+    "start": "2026-10-24T02:00:00+09:00",
+    "end": "2026-10-24T03:30:00+09:00",
+    "title": "[Worlds] IG vs GEN (0 : 1)",
+    "description": "승: GEN\n월드 챔피언십 · 스위스\nInvictus Gaming vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "IG",
+      "GEN"
+    ]
+  },
+  {
+    "id": "115660540726095013",
+    "start": "2026-10-24T03:00:00+09:00",
+    "end": "2026-10-24T04:30:00+09:00",
+    "title": "[Worlds] TES vs HLE (0 : 1)",
+    "description": "승: HLE\n월드 챔피언십 · 스위스\nTOP ESPORTS vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TES",
+      "HLE"
+    ]
+  },
+  {
+    "id": "115660540726095019",
+    "start": "2026-10-24T04:00:00+09:00",
+    "end": "2026-10-24T05:30:00+09:00",
+    "title": "[Worlds] MKOI vs BLG (1 : 0)",
+    "description": "승: MKOI\n월드 챔피언십 · 스위스\nMovistar KOI vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "MKOI",
+      "BLG"
+    ]
+  },
+  {
+    "id": "115660540726095009",
+    "start": "2026-10-24T05:00:00+09:00",
+    "end": "2026-10-24T06:30:00+09:00",
+    "title": "[Worlds] KC vs AL (1 : 0)",
+    "description": "승: KC\n월드 챔피언십 · 스위스\nKarmine Corp vs Anyone's Legend\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "AL"
+    ]
+  },
+  {
+    "id": "115660540726095011",
+    "start": "2026-10-24T06:00:00+09:00",
+    "end": "2026-10-24T07:30:00+09:00",
+    "title": "[Worlds] DK vs G2 (1 : 0)",
+    "description": "승: DK\n월드 챔피언십 · 스위스\nDplus KIA vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "DK",
+      "G2"
+    ]
+  },
+  {
+    "id": "115660540726095007",
+    "start": "2026-10-24T07:00:00+09:00",
+    "end": "2026-10-24T08:30:00+09:00",
+    "title": "[Worlds] TLAW vs CFO (0 : 1)",
+    "description": "승: CFO\n월드 챔피언십 · 스위스\nTeam Liquid Alienware vs CTBC Flying Oyster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TLAW",
+      "CFO"
+    ]
+  },
+  {
+    "id": "115660540726095015",
+    "start": "2026-10-24T08:00:00+09:00",
+    "end": "2026-10-24T09:30:00+09:00",
+    "title": "[Worlds] LOS vs T1 (0 : 1)",
+    "description": "승: T1\n월드 챔피언십 · 스위스\nLOS vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "LOS",
+      "T1"
+    ]
+  },
+  {
+    "id": "115660540726095017",
+    "start": "2026-10-24T09:00:00+09:00",
+    "end": "2026-10-24T10:30:00+09:00",
+    "title": "[Worlds] LYON vs TSW (1 : 0)",
+    "description": "승: LYON\n월드 챔피언십 · 스위스\nLYON vs Team Secret Whales\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "TSW"
+    ]
+  },
+  {
+    "id": "115660540726095029",
+    "start": "2026-10-25T02:00:00+09:00",
+    "end": "2026-10-25T03:30:00+09:00",
+    "title": "[Worlds] TES vs AL (1 : 0)",
+    "description": "승: TES\n월드 챔피언십 · 스위스\nTOP ESPORTS vs Anyone's Legend\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TES",
+      "AL"
+    ]
+  },
+  {
+    "id": "115660540726095021",
+    "start": "2026-10-25T03:00:00+09:00",
+    "end": "2026-10-25T04:30:00+09:00",
+    "title": "[Worlds] MKOI vs CFO (1 : 0)",
+    "description": "승: MKOI\n월드 챔피언십 · 스위스\nMovistar KOI vs CTBC Flying Oyster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "MKOI",
+      "CFO"
+    ]
+  },
+  {
+    "id": "115660540726095031",
+    "start": "2026-10-25T04:00:00+09:00",
+    "end": "2026-10-25T05:30:00+09:00",
+    "title": "[Worlds] LOS vs G2 (0 : 1)",
+    "description": "승: G2\n월드 챔피언십 · 스위스\nLOS vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "LOS",
+      "G2"
+    ]
+  },
+  {
+    "id": "115660540726095023",
+    "start": "2026-10-25T05:00:00+09:00",
+    "end": "2026-10-25T06:30:00+09:00",
+    "title": "[Worlds] KC vs LYON (0 : 1)",
+    "description": "승: LYON\n월드 챔피언십 · 스위스\nKarmine Corp vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "KC",
+      "LYON"
+    ]
+  },
+  {
+    "id": "115660540726095033",
+    "start": "2026-10-25T06:00:00+09:00",
+    "end": "2026-10-25T07:30:00+09:00",
+    "title": "[Worlds] TSW vs IG (0 : 1)",
+    "description": "승: IG\n월드 챔피언십 · 스위스\nTeam Secret Whales vs Invictus Gaming\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TSW",
+      "IG"
+    ]
+  },
+  {
+    "id": "115660540726095025",
+    "start": "2026-10-25T07:00:00+09:00",
+    "end": "2026-10-25T08:30:00+09:00",
+    "title": "[Worlds] HLE vs GEN (0 : 1)",
+    "description": "승: GEN\n월드 챔피언십 · 스위스\nHanwha Life Esports vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "HLE",
+      "GEN"
+    ]
+  },
+  {
+    "id": "115660540726095027",
+    "start": "2026-10-25T08:00:00+09:00",
+    "end": "2026-10-25T09:30:00+09:00",
+    "title": "[Worlds] DK vs T1 (1 : 0)",
+    "description": "승: DK\n월드 챔피언십 · 스위스\nDplus KIA vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "DK",
+      "T1"
+    ]
+  },
+  {
+    "id": "115660540726095035",
+    "start": "2026-10-25T09:00:00+09:00",
+    "end": "2026-10-25T10:30:00+09:00",
+    "title": "[Worlds] TLAW vs BLG (0 : 1)",
+    "description": "승: BLG\n월드 챔피언십 · 스위스\nTeam Liquid Alienware vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TLAW",
+      "BLG"
+    ]
+  },
+  {
+    "id": "115660540726095045",
+    "start": "2026-10-26T02:00:00+09:00",
+    "end": "2026-10-26T03:30:00+09:00",
+    "title": "[Worlds] IG vs HLE (1 : 0)",
+    "description": "승: IG\n월드 챔피언십 · 스위스\nInvictus Gaming vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "IG",
+      "HLE"
+    ]
+  },
+  {
+    "id": "115660540726095047",
+    "start": "2026-10-26T03:00:00+09:00",
+    "end": "2026-10-26T04:30:00+09:00",
+    "title": "[Worlds] TES vs G2 (1 : 0)",
+    "description": "승: TES\n월드 챔피언십 · 스위스\nTOP ESPORTS vs G2 Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TES",
+      "G2"
+    ]
+  },
+  {
+    "id": "115660540726095037",
+    "start": "2026-10-26T04:00:00+09:00",
+    "end": "2026-10-26T06:30:00+09:00",
+    "title": "[Worlds] MKOI vs DK (0 : 2)",
+    "description": "승: DK\n월드 챔피언십 · 스위스\nMovistar KOI vs Dplus KIA\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "MKOI",
+      "DK"
+    ]
+  },
+  {
+    "id": "115660540726095041",
+    "start": "2026-10-26T07:00:00+09:00",
+    "end": "2026-10-26T09:30:00+09:00",
+    "title": "[Worlds] LYON vs GEN (1 : 2)",
+    "description": "승: GEN\n월드 챔피언십 · 스위스\nLYON vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "LYON",
+      "GEN"
+    ]
+  },
+  {
+    "id": "115660540726095049",
+    "start": "2026-10-27T02:00:00+09:00",
+    "end": "2026-10-27T03:30:00+09:00",
+    "title": "[Worlds] T1 vs CFO (1 : 0)",
+    "description": "승: T1\n월드 챔피언십 · 스위스\nT1 vs CTBC Flying Oyster\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "T1",
+      "CFO"
+    ]
+  },
+  {
+    "id": "115660540726095051",
+    "start": "2026-10-27T03:00:00+09:00",
+    "end": "2026-10-27T04:30:00+09:00",
+    "title": "[Worlds] BLG vs KC (1 : 0)",
+    "description": "승: BLG\n월드 챔피언십 · 스위스\nBILIBILI GAMING vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "BLG",
+      "KC"
+    ]
+  },
+  {
+    "id": "115660540726095053",
+    "start": "2026-10-27T04:00:00+09:00",
+    "end": "2026-10-27T06:30:00+09:00",
+    "title": "[Worlds] TSW vs LOS (0 : 2)",
+    "description": "승: LOS\n월드 챔피언십 · 스위스\nTeam Secret Whales vs LOS\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "TSW",
+      "LOS"
+    ]
+  },
+  {
+    "id": "115660540726095057",
+    "start": "2026-10-27T07:00:00+09:00",
+    "end": "2026-10-27T09:30:00+09:00",
+    "title": "[Worlds] AL vs TLAW (0 : 2)",
+    "description": "승: TLAW\n월드 챔피언십 · 스위스\nAnyone's Legend vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "completed",
+    "teams": [
+      "AL",
+      "TLAW"
+    ]
+  },
+  {
+    "id": "115660540726095061",
+    "start": "2026-10-29T05:00:00+09:00",
+    "end": "2026-10-29T07:30:00+09:00",
+    "title": "[Worlds] MKOI vs T1 (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nMovistar KOI vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "MKOI",
+      "T1"
+    ]
+  },
+  {
+    "id": "115660540726095065",
+    "start": "2026-10-29T08:00:00+09:00",
+    "end": "2026-10-29T10:30:00+09:00",
+    "title": "[Worlds] LYON vs IG (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nLYON vs Invictus Gaming\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "LYON",
+      "IG"
+    ]
+  },
+  {
+    "id": "115660540726095073",
+    "start": "2026-10-30T05:00:00+09:00",
+    "end": "2026-10-30T07:30:00+09:00",
+    "title": "[Worlds] CFO vs KC (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nCTBC Flying Oyster vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "CFO",
+      "KC"
+    ]
+  },
+  {
+    "id": "115660540726095069",
+    "start": "2026-10-30T08:00:00+09:00",
+    "end": "2026-10-30T10:30:00+09:00",
+    "title": "[Worlds] BLG vs TES (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nBILIBILI GAMING vs TOP ESPORTS\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "BLG",
+      "TES"
+    ]
+  },
+  {
+    "id": "115660540726095077",
+    "start": "2026-10-31T05:00:00+09:00",
+    "end": "2026-10-31T07:30:00+09:00",
+    "title": "[Worlds] TLAW vs LOS (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTeam Liquid Alienware vs LOS\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TLAW",
+      "LOS"
+    ]
+  },
+  {
+    "id": "115660540726095081",
+    "start": "2026-10-31T08:00:00+09:00",
+    "end": "2026-10-31T10:30:00+09:00",
+    "title": "[Worlds] G2 vs HLE (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nG2 Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "G2",
+      "HLE"
+    ]
+  },
+  {
+    "id": "115660540726095085",
+    "start": "2026-11-01T02:00:00+09:00",
+    "end": "2026-11-01T04:30:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095089",
+    "start": "2026-11-01T05:00:00+09:00",
+    "end": "2026-11-01T07:30:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095093",
+    "start": "2026-11-01T08:00:00+09:00",
+    "end": "2026-11-01T10:30:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 스위스",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095097",
+    "start": "2026-11-04T07:00:00+09:00",
+    "end": "2026-11-04T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095103",
+    "start": "2026-11-05T07:00:00+09:00",
+    "end": "2026-11-05T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095109",
+    "start": "2026-11-06T07:00:00+09:00",
+    "end": "2026-11-06T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095115",
+    "start": "2026-11-07T07:00:00+09:00",
+    "end": "2026-11-07T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095121",
+    "start": "2026-11-08T07:00:00+09:00",
+    "end": "2026-11-08T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 4강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 4강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095127",
+    "start": "2026-11-09T07:00:00+09:00",
+    "end": "2026-11-09T11:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 4강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 4강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  },
+  {
+    "id": "115660540726095133",
+    "start": "2026-11-15T04:00:00+09:00",
+    "end": "2026-11-15T08:00:00+09:00",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 결승\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 결승",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "TBD",
+      "TBD"
+    ]
+  }
+]

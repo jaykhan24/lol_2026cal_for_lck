@@ -14,18 +14,21 @@
 - `GOOGLE_LINKS`가 비어 있는 동안 Google 버튼은 ICS를 Google "URL로 추가"하는 링크로 대신한다(Google이 몇 시간~하루 간격으로만 갱신)
 - 팀 코드가 바뀌면(리브랜딩) 새 파일이 생기고 옛 파일은 지우지 않고 마지막 상태로 남는다. 구독자는 새 주소로 다시 구독해야 한다
 
+**국제대회 전 경기 캘린더**: `docs/intl.ics`(데이터 `docs/intl.json`). First Stand·MSI·EWC·Worlds의 모든 경기(LCK 팀 여부 무관, TBD 포함).
+LCK 캘린더와 따로 구독하며 UID 접미사 `-intl`로 분리한다. Google 미러 키는 `INTL`.
+
 ```
 lolesports API ─(15분 cron)→ GitHub Actions → docs/lck.ics + lck.json → GitHub Pages
                                                 애플/Outlook: webcal 구독 ←──────┤
-                     Apps Script(15분, lck.json + teams.json) → 공개 Google 캘린더(전체 + 팀별) ←┘
+                     Apps Script(15분, lck.json + teams.json + intl.json) → 공개 Google 캘린더(전체 + 팀별 + 국제대회) ←┘
 ```
 
 | 파일 | 역할 |
 |---|---|
-| `fetch_schedule.py` | API 수집 → `docs/lck.ics`, `docs/lck.json`, `docs/teams/*.ics`, `docs/teams.json` 생성. 실패 시 기존 파일 보존(exit 1), 변경 없으면 `NO_CHANGE` |
+| `fetch_schedule.py` | API 수집 → `docs/lck.ics`, `docs/lck.json`, `docs/teams/*.ics`, `docs/teams.json`, `docs/intl.ics`, `docs/intl.json` 생성. 실패 시 기존 파일 보존(exit 1), 변경 없으면 `NO_CHANGE` |
 | `.github/workflows/update.yml` | 15분 cron + 수동 실행. 변경 시에만 커밋·푸시 |
 | `docs/index.html` | 구독 안내 페이지(Pages 루트) |
-| `apps-script/Code.gs` | `lck.json` → Google 캘린더 미러(복붙용) |
+| `apps-script/Code.gs` | `lck.json`·`teams.json`·`intl.json` → Google 캘린더 미러(복붙용). `intl.json`이 Pages에 없으면 동기화 전체를 건너뛰므로 Pages 배포 후 붙여 넣는다 |
 
 일정 제목 형식: `[LCK] T1 vs GEN (Bo3)` / `[MSI] T1 vs GEN 🔴 1:0` / `[Worlds] T1 vs GEN (3 : 1)`
 
