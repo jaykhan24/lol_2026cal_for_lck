@@ -1277,25 +1277,25 @@
     "id": "115660540726095061",
     "start": "2026-10-29T05:00:00+09:00",
     "end": "2026-10-29T07:30:00+09:00",
-    "title": "[Worlds] MKOI vs T1 (Bo3)",
-    "description": "월드 챔피언십 · 스위스\nMovistar KOI vs T1\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] T1 vs MKOI (2 : 0)",
+    "description": "승: T1\n월드 챔피언십 · 스위스\nT1 vs Movistar KOI\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted",
+    "state": "completed",
     "teams": [
-      "MKOI",
-      "T1"
+      "T1",
+      "MKOI"
     ]
   },
   {
     "id": "115660540726095065",
     "start": "2026-10-29T08:00:00+09:00",
     "end": "2026-10-29T10:30:00+09:00",
-    "title": "[Worlds] LYON vs IG (Bo3)",
+    "title": "[Worlds] LYON vs IG 🔴 1:1",
     "description": "월드 챔피언십 · 스위스\nLYON vs Invictus Gaming\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted",
+    "state": "inProgress",
     "teams": [
       "LYON",
       "IG"
