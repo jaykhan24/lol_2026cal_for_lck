@@ -145,6 +145,10 @@ function shutdownNow() { shutdown_(); }
 
 // GitHub 토큰·API 연결 점검: 워크플로 정보가 로그에 나오면 정상
 function checkGithub() {
+  const keys = props.getKeys();
+  if (!githubToken_()) {
+    throw new Error('스크립트 속성 GITHUB_TOKEN이 없음. 프로젝트 설정 › 스크립트 속성에서 이름이 정확히 GITHUB_TOKEN인지(공백·소문자 없이) 확인. 현재 속성: ' + keys.join(', '));
+  }
   const res = github_('GET', `/actions/workflows/${WORKFLOW_FILE}`);
   Logger.log('%s %s', res.getResponseCode(), res.getContentText().slice(0, 300));
 }
