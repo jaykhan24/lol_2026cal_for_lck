@@ -13,6 +13,65 @@
 <meta property="og:description" content="LCK·MSI·월즈 롤 경기 일정과 스코어를 구글·아이폰 캘린더로 구독. 팀별 캘린더, 경기 중 1분 간격 자동 갱신.">
 <meta property="og:url" content="https://jaykhan24.github.io/lol_2026cal_for_lck/">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="2026 LCK 일정 · LOL 롤 경기 일정 캘린더 구독">
+<meta name="twitter:description" content="LCK·MSI·월즈 롤 경기 일정과 스코어를 구글·아이폰 캘린더로 구독. 팀별 캘린더, 경기 중 1분 간격 자동 갱신.">
+<link rel="sitemap" type="application/xml" href="sitemap.xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://jaykhan24.github.io/lol_2026cal_for_lck/#website",
+      "url": "https://jaykhan24.github.io/lol_2026cal_for_lck/",
+      "name": "LCK 일정 캘린더",
+      "alternateName": ["2026 LCK 경기 일정", "롤 경기 일정 캘린더"],
+      "description": "2026 LCK 롤 경기 일정과 스코어를 구글·아이폰 캘린더로 구독하는 무료 공유 캘린더",
+      "inLanguage": "ko-KR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jaykhan24.github.io/lol_2026cal_for_lck/#webpage",
+      "url": "https://jaykhan24.github.io/lol_2026cal_for_lck/",
+      "name": "2026 LCK 일정 · LOL 롤 경기 일정 캘린더 구독",
+      "isPartOf": { "@id": "https://jaykhan24.github.io/lol_2026cal_for_lck/#website" },
+      "about": { "@type": "SportsOrganization", "name": "LCK (League of Legends Champions Korea)", "sport": "League of Legends" },
+      "inLanguage": "ko-KR",
+      "dateModified": "2026-10-29"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "2026 LCK 경기 일정을 구글 캘린더에 추가하려면?",
+          "acceptedAnswer": { "@type": "Answer", "text": "이 페이지에서 'Google 캘린더' 버튼을 누르면 공개 LCK 캘린더가 내 Google 계정에 추가됩니다. 경기 중에는 1분 간격으로 스코어가 반영되고, 갤럭시 삼성 캘린더에도 Google 계정 캘린더로 표시됩니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "아이폰 캘린더에서 LCK 일정을 구독하려면?",
+          "acceptedAnswer": { "@type": "Answer", "text": "'애플 캘린더' 버튼을 누르면 webcal 구독 캘린더로 추가됩니다. 설정 › 캘린더 › 계정 › 구독 캘린더에서 새로고침 주기를 5분으로 바꾸면 스코어가 더 빨리 반영됩니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "T1·젠지 등 특정 팀 경기만 받을 수 있나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "팀별 캘린더에서 T1(티원), 젠지, 한화생명e스포츠, KT 롤스터, 디플러스 기아, DN 수퍼스, BNK 피어엑스, 농심 레드포스, 한진 브리온, 키움 DRX 중 응원하는 팀을 고르면 그 팀의 LCK·국제대회 경기만 들어간 캘린더를 구독할 수 있습니다." }
+        },
+        {
+          "@type": "Question",
+          "name": "MSI·월즈(롤드컵) 일정도 포함되나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "LCK 캘린더에는 LCK 팀이 나서는 First Stand·MSI·EWC·Worlds 경기가 포함됩니다. 다른 지역 팀끼리의 경기까지 모두 받으려면 '국제대회 전 경기' 캘린더를 따로 구독하세요." }
+        },
+        {
+          "@type": "Question",
+          "name": "LCK 경기는 어디서 볼 수 있나요?",
+          "acceptedAnswer": { "@type": "Answer", "text": "2026년부터 LCK 국내 생중계는 네이버 치지직과 SOOP에서 볼 수 있습니다. First Stand·MSI·월즈는 YouTube LCK(한국어)·LoL Esports(영어) 채널에서도 중계합니다. 다가오는 경기마다 중계 바로가기가 있습니다." }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
   :root {
     --bg: #f7f7f8; --card: #ffffff; --text: #18181b; --muted: #6b7280;
@@ -92,6 +151,10 @@
   .watch .note { color: var(--muted); font-weight: 400; }
   footer { margin-top: 40px; color: var(--muted); font-size: .8rem; }
 
+  .faq h3 { font-size: .95rem; margin: 14px 0 4px; }
+  .faq h3:first-child { margin-top: 0; }
+  .faq p { margin: 0; color: var(--muted); font-size: .9rem; }
+
   /* 휴대폰: 구독 방법은 가로형 3줄, 로고는 5열 유지(작게) */
   @media (max-width: 480px) {
     .options { grid-template-columns: 1fr; }
@@ -128,6 +191,20 @@
   <h2>다가오는 경기 일정</h2>
   <p class="note">경기마다 한국어 생중계 채널로 바로 갈 수 있습니다. LCK는 치지직·SOOP에서, First Stand·MSI·월즈는 YouTube(한국어 LCK·영어 LoL Esports)에서도 볼 수 있습니다.</p>
   <div class="card"><ul class="matches" id="next"><li class="when">불러오는 중…</li></ul></div>
+
+  <h2>자주 묻는 질문</h2>
+  <div class="card faq">
+    <h3>2026 LCK 경기 일정을 구글 캘린더에 추가하려면?</h3>
+    <p>위 "Google 캘린더" 버튼을 누르면 공개 LCK 캘린더가 내 Google 계정에 추가됩니다. 경기 중에는 1분 간격으로 스코어가 반영되고, 갤럭시 삼성 캘린더에도 Google 계정 캘린더로 표시됩니다.</p>
+    <h3>아이폰 캘린더에서 LCK 일정을 구독하려면?</h3>
+    <p>"애플 캘린더" 버튼을 누르면 webcal 구독 캘린더로 추가됩니다. 설정 › 캘린더 › 계정 › 구독 캘린더에서 새로고침 주기를 5분으로 바꾸면 스코어가 더 빨리 반영됩니다.</p>
+    <h3>T1·젠지 등 특정 팀 경기만 받을 수 있나요?</h3>
+    <p>팀별 캘린더에서 T1(티원), 젠지(GEN), 한화생명e스포츠(HLE), KT 롤스터(KT), 디플러스 기아(DK), DN 수퍼스(DNS), BNK 피어엑스(BFX), 농심 레드포스(NS), 한진 브리온(BRO), 키움 DRX(KRX) 중 응원하는 팀을 고르면 그 팀 경기만 들어간 캘린더를 구독할 수 있습니다.</p>
+    <h3>MSI·월즈(롤드컵) 일정도 포함되나요?</h3>
+    <p>LCK 캘린더에는 LCK 팀이 나서는 First Stand·MSI·EWC·Worlds 경기가 포함됩니다. 다른 지역 팀끼리의 경기까지 모두 받으려면 "국제대회 전 경기" 캘린더를 따로 구독하세요.</p>
+    <h3>LCK 경기는 어디서 볼 수 있나요?</h3>
+    <p>2026년부터 LCK 국내 생중계는 네이버 치지직과 SOOP에서 볼 수 있습니다. First Stand·MSI·월즈는 YouTube LCK(한국어)·LoL Esports(영어) 채널에서도 중계합니다.</p>
+  </div>
 
   <footer>
     Google 캘린더: 경기 중 1분 간격으로 스코어가 반영되는 공개 Google 캘린더를 추가합니다. 갤럭시 삼성 캘린더에는 Google 계정 캘린더로 표시됩니다.<br>

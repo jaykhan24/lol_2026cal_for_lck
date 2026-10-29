@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaykhan24.github.io/lol_2026cal_for_lck/sitemap.xml
