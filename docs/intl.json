@@ -1333,11 +1333,11 @@
     "id": "115660540726095077",
     "start": "2026-10-31T05:00:00+09:00",
     "end": "2026-10-31T07:30:00+09:00",
-    "title": "[Worlds] LOS vs TLAW 🔴 2:1",
-    "description": "월드 챔피언십 · 스위스\nLOS vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] LOS vs TLAW (2 : 1)",
+    "description": "승: LOS\n월드 챔피언십 · 스위스\nLOS vs Team Liquid Alienware\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "inProgress",
+    "state": "completed",
     "teams": [
       "LOS",
       "TLAW"
@@ -1347,11 +1347,11 @@
     "id": "115660540726095081",
     "start": "2026-10-31T08:00:00+09:00",
     "end": "2026-10-31T10:30:00+09:00",
-    "title": "[Worlds] G2 vs HLE (Bo3)",
+    "title": "[Worlds] G2 vs HLE 🔴 0:0",
     "description": "월드 챔피언십 · 스위스\nG2 Esports vs Hanwha Life Esports\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
-    "state": "unstarted",
+    "state": "inProgress",
     "teams": [
       "G2",
       "HLE"
