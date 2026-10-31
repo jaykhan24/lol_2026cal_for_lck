@@ -1375,14 +1375,14 @@
     "id": "115660540726095089",
     "start": "2026-11-01T05:00:00+09:00",
     "end": "2026-11-01T07:30:00+09:00",
-    "title": "[Worlds] LOS vs LYON 🔴 0:0",
-    "description": "월드 챔피언십 · 스위스\nLOS vs LYON\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] LYON vs LOS 🔴 0:0",
+    "description": "월드 챔피언십 · 스위스\nLYON vs LOS\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
     "state": "inProgress",
     "teams": [
-      "LOS",
-      "LYON"
+      "LYON",
+      "LOS"
     ]
   },
   {
