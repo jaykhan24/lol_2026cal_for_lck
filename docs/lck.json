@@ -3276,45 +3276,17 @@
     ]
   },
   {
-    "id": "115660540726095085",
-    "start": "2026-11-01T02:00:00+09:00",
-    "end": "2026-11-01T04:30:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo3)",
-    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
-    "round": "월드 챔피언십 · 스위스",
-    "league": "Worlds",
-    "state": "unstarted",
-    "teams": [
-      "TBD",
-      "TBD"
-    ]
-  },
-  {
-    "id": "115660540726095089",
-    "start": "2026-11-01T05:00:00+09:00",
-    "end": "2026-11-01T07:30:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo3)",
-    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
-    "round": "월드 챔피언십 · 스위스",
-    "league": "Worlds",
-    "state": "unstarted",
-    "teams": [
-      "TBD",
-      "TBD"
-    ]
-  },
-  {
     "id": "115660540726095093",
     "start": "2026-11-01T08:00:00+09:00",
     "end": "2026-11-01T10:30:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo3)",
-    "description": "월드 챔피언십 · 스위스\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] HLE vs BLG (Bo3)",
+    "description": "월드 챔피언십 · 스위스\nHanwha Life Esports vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 스위스",
     "league": "Worlds",
     "state": "unstarted",
     "teams": [
-      "TBD",
-      "TBD"
+      "HLE",
+      "BLG"
     ]
   },
   {
