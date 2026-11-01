@@ -3290,63 +3290,49 @@
     ]
   },
   {
-    "id": "115660540726095097",
-    "start": "2026-11-04T07:00:00+09:00",
-    "end": "2026-11-04T11:00:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo5)",
-    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "id": "115660540726095115",
+    "start": "2026-11-05T07:00:00+09:00",
+    "end": "2026-11-05T11:00:00+09:00",
+    "title": "[Worlds] GEN vs LYON (Bo5)",
+    "description": "월드 챔피언십 · 8강\nGen.G Esports vs LYON\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
     "state": "unstarted",
     "teams": [
-      "TBD",
-      "TBD"
+      "GEN",
+      "LYON"
+    ]
+  },
+  {
+    "id": "115660540726095097",
+    "start": "2026-11-06T07:00:00+09:00",
+    "end": "2026-11-06T11:00:00+09:00",
+    "title": "[Worlds] DK vs BLG (Bo5)",
+    "description": "월드 챔피언십 · 8강\nDplus KIA vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "round": "월드 챔피언십 · 8강",
+    "league": "Worlds",
+    "state": "unstarted",
+    "teams": [
+      "DK",
+      "BLG"
     ]
   },
   {
     "id": "115660540726095103",
-    "start": "2026-11-05T07:00:00+09:00",
-    "end": "2026-11-05T11:00:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo5)",
-    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
-    "round": "월드 챔피언십 · 8강",
-    "league": "Worlds",
-    "state": "unstarted",
-    "teams": [
-      "TBD",
-      "TBD"
-    ]
-  },
-  {
-    "id": "115660540726095109",
-    "start": "2026-11-06T07:00:00+09:00",
-    "end": "2026-11-06T11:00:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo5)",
-    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
-    "round": "월드 챔피언십 · 8강",
-    "league": "Worlds",
-    "state": "unstarted",
-    "teams": [
-      "TBD",
-      "TBD"
-    ]
-  },
-  {
-    "id": "115660540726095115",
     "start": "2026-11-07T07:00:00+09:00",
     "end": "2026-11-07T11:00:00+09:00",
-    "title": "[Worlds] TBD vs TBD (Bo5)",
-    "description": "월드 챔피언십 · 8강\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] T1 vs KC (Bo5)",
+    "description": "월드 챔피언십 · 8강\nT1 vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
     "state": "unstarted",
     "teams": [
-      "TBD",
-      "TBD"
+      "T1",
+      "KC"
     ]
   },
   {
-    "id": "115660540726095121",
+    "id": "115660540726095127",
     "start": "2026-11-08T07:00:00+09:00",
     "end": "2026-11-08T11:00:00+09:00",
     "title": "[Worlds] TBD vs TBD (Bo5)",
@@ -3360,7 +3346,7 @@
     ]
   },
   {
-    "id": "115660540726095127",
+    "id": "115660540726095121",
     "start": "2026-11-09T07:00:00+09:00",
     "end": "2026-11-09T11:00:00+09:00",
     "title": "[Worlds] TBD vs TBD (Bo5)",
