@@ -1417,11 +1417,11 @@
     "id": "115660540726095115",
     "start": "2026-11-05T07:00:00+09:00",
     "end": "2026-11-05T11:00:00+09:00",
-    "title": "[Worlds] GEN vs LYON (Bo5)",
+    "title": "[Worlds] GEN vs LYON 🔴 0:0",
     "description": "월드 챔피언십 · 8강\nGen.G Esports vs LYON\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
-    "state": "unstarted",
+    "state": "inProgress",
     "teams": [
       "GEN",
       "LYON"
