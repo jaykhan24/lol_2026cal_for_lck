@@ -3321,7 +3321,7 @@
     "id": "115660540726095103",
     "start": "2026-11-07T07:00:00+09:00",
     "end": "2026-11-07T11:00:00+09:00",
-    "title": "[Worlds] T1 vs KC 🔴 2:1",
+    "title": "[Worlds] T1 vs KC 🔴 3:1",
     "description": "월드 챔피언십 · 8강\nT1 vs Karmine Corp\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 8강",
     "league": "Worlds",
@@ -3349,13 +3349,13 @@
     "id": "115660540726095121",
     "start": "2026-11-09T07:00:00+09:00",
     "end": "2026-11-09T11:00:00+09:00",
-    "title": "[Worlds] TBD vs BLG (Bo5)",
-    "description": "월드 챔피언십 · 4강\nTBD vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] T1 vs BLG (Bo5)",
+    "description": "월드 챔피언십 · 4강\nT1 vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 4강",
     "league": "Worlds",
     "state": "unstarted",
     "teams": [
-      "TBD",
+      "T1",
       "BLG"
     ]
   },
