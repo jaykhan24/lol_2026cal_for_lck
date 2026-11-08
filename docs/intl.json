@@ -1459,11 +1459,11 @@
     "id": "115660540726095127",
     "start": "2026-11-08T07:00:00+09:00",
     "end": "2026-11-08T11:00:00+09:00",
-    "title": "[Worlds] GEN vs IG (3 : 0)",
-    "description": "승: GEN\n월드 챔피언십 · 4강\nGen.G Esports vs Invictus Gaming\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] GEN vs IG 🔴 3:0",
+    "description": "월드 챔피언십 · 4강\nGen.G Esports vs Invictus Gaming\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 4강",
     "league": "Worlds",
-    "state": "completed",
+    "state": "inProgress",
     "teams": [
       "GEN",
       "IG"
