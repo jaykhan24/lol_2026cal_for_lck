@@ -1459,7 +1459,7 @@
     "id": "115660540726095127",
     "start": "2026-11-08T07:00:00+09:00",
     "end": "2026-11-08T11:00:00+09:00",
-    "title": "[Worlds] GEN vs IG 🔴 3:0",
+    "title": "[Worlds] GEN vs IG 🔴 2:0",
     "description": "월드 챔피언십 · 4강\nGen.G Esports vs Invictus Gaming\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 4강",
     "league": "Worlds",
@@ -1487,14 +1487,14 @@
     "id": "115660540726095133",
     "start": "2026-11-15T04:00:00+09:00",
     "end": "2026-11-15T08:00:00+09:00",
-    "title": "[Worlds] TBD vs GEN (Bo5)",
-    "description": "월드 챔피언십 · 결승\nTBD vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] TBD vs TBD (Bo5)",
+    "description": "월드 챔피언십 · 결승\nTBD vs TBD\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 결승",
     "league": "Worlds",
     "state": "unstarted",
     "teams": [
       "TBD",
-      "GEN"
+      "TBD"
     ]
   }
 ]
