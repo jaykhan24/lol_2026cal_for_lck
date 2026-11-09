@@ -1473,7 +1473,7 @@
     "id": "115660540726095121",
     "start": "2026-11-09T07:00:00+09:00",
     "end": "2026-11-09T11:00:00+09:00",
-    "title": "[Worlds] BLG vs T1 🔴 2:1",
+    "title": "[Worlds] BLG vs T1 🔴 3:1",
     "description": "월드 챔피언십 · 4강\nBILIBILI GAMING vs T1\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 4강",
     "league": "Worlds",
@@ -1487,14 +1487,14 @@
     "id": "115660540726095133",
     "start": "2026-11-15T04:00:00+09:00",
     "end": "2026-11-15T08:00:00+09:00",
-    "title": "[Worlds] TBD vs GEN (Bo5)",
-    "description": "월드 챔피언십 · 결승\nTBD vs Gen.G Esports\nhttps://lolesports.com/ko-KR/schedule",
+    "title": "[Worlds] GEN vs BLG (Bo5)",
+    "description": "월드 챔피언십 · 결승\nGen.G Esports vs BILIBILI GAMING\nhttps://lolesports.com/ko-KR/schedule",
     "round": "월드 챔피언십 · 결승",
     "league": "Worlds",
     "state": "unstarted",
     "teams": [
-      "TBD",
-      "GEN"
+      "GEN",
+      "BLG"
     ]
   }
 ]
